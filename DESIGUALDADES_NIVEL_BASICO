@@ -1,0 +1,1126 @@
+[
+  {
+    "question": "La expresión matemática que representa la frase \"No tengo más de 50\" es:",
+    "options": [
+      {"text": "x ≤ 50", "correct": true},
+      {"text": "x < 50", "correct": false},
+      {"text": "x ≥ 50", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Presta atención a lo que significa 'no tengo más de'.",
+    "explanation": "La frase 'no tengo más de 50' implica que el máximo valor posible es 50, pero también puede ser menor. Esto se traduce como x ≤ 50."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"Tengo por lo menos 75\" es:",
+    "options": [
+      {"text": "x ≥ 75", "correct": true},
+      {"text": "x > 75", "correct": false},
+      {"text": "x ≤ 75", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Analiza qué implica tener un mínimo asegurado.",
+    "explanation": "La frase 'tengo por lo menos 75' indica que el valor mínimo es 75, pero puede ser mayor. Esto se traduce como x ≥ 75."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El costo no supera los $300\" es:",
+    "options": [
+      {"text": "x ≤ 300", "correct": true},
+      {"text": "x < 300", "correct": false},
+      {"text": "x ≥ 300", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Interpreta el significado de 'no supera'.",
+    "explanation": "'El costo no supera los $300' quiere decir que el máximo valor posible es 300, pero también puede ser menor. Esto se traduce como x ≤ 300."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El número es al menos 15\" es:",
+    "options": [
+      {"text": "x ≥ 15", "correct": true},
+      {"text": "x > 15", "correct": false},
+      {"text": "x ≤ 15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Piensa en lo que implica 'al menos'.",
+    "explanation": "'El número es al menos 15' implica que el valor mínimo es 15, pero puede ser mayor. Esto se traduce como x ≥ 15."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La edad no excede los 30 años\" es:",
+    "options": [
+      {"text": "x ≤ 30", "correct": true},
+      {"text": "x < 30", "correct": false},
+      {"text": "x ≥ 30", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Interpreta el término 'no excede'.",
+    "explanation": "'La edad no excede los 30 años' significa que el máximo valor posible es 30, pero también puede ser menor. Esto se traduce como x ≤ 30."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El tiempo de viaje es como máximo 2 horas\" es:",
+    "options": [
+      {"text": "x ≤ 2", "correct": true},
+      {"text": "x < 2", "correct": false},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Analiza el significado de 'como máximo'.",
+    "explanation": "'Como máximo 2 horas' implica que el límite superior es 2, pero también puede ser menor. Esto se traduce como x ≤ 2."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El precio es al menos $500\" es:",
+    "options": [
+      {"text": "x ≥ 500", "correct": true},
+      {"text": "x > 500", "correct": false},
+      {"text": "x ≤ 500", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Recuerda qué implica tener un mínimo establecido.",
+    "explanation": "'Al menos $500' indica que el valor mínimo es 500, pero puede ser mayor. Esto se traduce como x ≥ 500."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La temperatura está entre 10°C y 20°C\" es:",
+    "options": [
+      {"text": "10 < x < 20", "correct": true},
+      {"text": "10 ≤ x ≤ 20", "correct": false},
+      {"text": "x > 10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Revisa si se incluyen o no los extremos.",
+    "explanation": "'Está entre 10°C y 20°C' implica que el valor no incluye los extremos. Esto se traduce como 10 < x < 20."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El ingreso mensual no pasa de $2000\" es:",
+    "options": [
+      {"text": "x ≤ 2000", "correct": true},
+      {"text": "x < 2000", "correct": false},
+      {"text": "x ≥ 2000", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Considera qué implica que algo 'no pasa de'.",
+    "explanation": "'No pasa de $2000' implica que el máximo valor es 2000, pero también puede ser menor. Esto se traduce como x ≤ 2000."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La nota mínima aprobatoria es 60 puntos\" es:",
+    "options": [
+      {"text": "x ≥ 60", "correct": true},
+      {"text": "x > 60", "correct": false},
+      {"text": "x ≤ 60", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Reflexiona sobre qué significa 'nota mínima aprobatoria'.",
+    "explanation": "'Nota mínima aprobatoria es 60 puntos' implica que el valor mínimo es 60, pero puede ser mayor. Esto se traduce como x ≥ 60."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La velocidad no debe exceder los 80 km/h\" es:",
+    "options": [
+      {"text": "x ≤ 80", "correct": true},
+      {"text": "x < 80", "correct": false},
+      {"text": "x ≥ 80", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Evalúa el significado de 'no debe exceder'.",
+    "explanation": "'La velocidad no debe exceder los 80 km/h' implica que el máximo permitido es 80, pero también puede ser menor. Esto se traduce como x ≤ 80."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La inversión debe ser por lo menos $1000\" es:",
+    "options": [
+      {"text": "x ≥ 1000", "correct": true},
+      {"text": "x > 1000", "correct": false},
+      {"text": "x ≤ 1000", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Piensa en lo que implica 'por lo menos'.",
+    "explanation": "'La inversión debe ser por lo menos $1000' implica que el valor mínimo es 1000, pero puede ser mayor. Esto se traduce como x ≥ 1000."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La altura no alcanza los 10 metros\" es:",
+    "options": [
+      {"text": "x < 10", "correct": true},
+      {"text": "x ≤ 10", "correct": false},
+      {"text": "x ≥ 10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Reflexiona sobre el significado de 'no alcanza'.",
+    "explanation": "'La altura no alcanza los 10 metros' implica que el valor es estrictamente menor que 10. Esto se traduce como x < 10."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La cantidad de personas no debe sobrepasar las 50\" es:",
+    "options": [
+      {"text": "x ≤ 50", "correct": true},
+      {"text": "x < 50", "correct": false},
+      {"text": "x ≥ 50", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Considera qué implica 'no debe sobrepasar'.",
+    "explanation": "'La cantidad de personas no debe sobrepasar las 50' implica que el máximo valor es 50, pero también puede ser menor. Esto se traduce como x ≤ 50."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El peso no es menor a 40 kg\" es:",
+    "options": [
+      {"text": "x ≥ 40", "correct": true},
+      {"text": "x > 40", "correct": false},
+      {"text": "x ≤ 40", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Analiza el significado de 'no es menor a'.",
+    "explanation": "'El peso no es menor a 40 kg' implica que el valor mínimo es 40, pero puede ser mayor. Esto se traduce como x ≥ 40."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La calificación no fue menor a 70\" es:",
+    "options": [
+      {"text": "x ≥ 70", "correct": true},
+      {"text": "x > 70", "correct": false},
+      {"text": "x ≤ 70", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Reflexiona sobre lo que implica 'no fue menor a'.",
+    "explanation": "'La calificación no fue menor a 70' implica que el valor mínimo es 70, pero puede ser mayor. Esto se traduce como x ≥ 70."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La distancia recorrida está entre 5 km y 15 km\" es:",
+    "options": [
+      {"text": "5 < x < 15", "correct": true},
+      {"text": "5 ≤ x ≤ 15", "correct": false},
+      {"text": "x > 5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Determina si los extremos están incluidos o no.",
+    "explanation": "'Está entre 5 km y 15 km' implica que los valores no incluyen los extremos. Esto se traduce como 5 < x < 15."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La temperatura no es mayor a 25°C\" es:",
+    "options": [
+      {"text": "x ≤ 25", "correct": true},
+      {"text": "x < 25", "correct": false},
+      {"text": "x ≥ 25", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Evalúa el significado de 'no es mayor a'.",
+    "explanation": "'La temperatura no es mayor a 25°C' implica que el valor máximo es 25, pero también puede ser menor. Esto se traduce como x ≤ 25."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"La cantidad de libros no es menor a 10\" es:",
+    "options": [
+      {"text": "x ≥ 10", "correct": true},
+      {"text": "x > 10", "correct": false},
+      {"text": "x ≤ 10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Analiza qué implica 'no es menor a'.",
+    "explanation": "'La cantidad de libros no es menor a 10' implica que el valor mínimo es 10, pero puede ser mayor. Esto se traduce como x ≥ 10."
+  },
+  {
+    "question": "La expresión matemática que representa la frase \"El ingreso familiar no excede los $2500\" es:",
+    "options": [
+      {"text": "x ≤ 2500", "correct": true},
+      {"text": "x < 2500", "correct": false},
+      {"text": "x ≥ 2500", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA", "DESIGUALDADES"],
+    "hint": "Considera qué implica 'no excede'.",
+    "explanation": "'El ingreso familiar no excede los $2500' implica que el máximo valor es 2500, pero también puede ser menor. Esto se traduce como x ≤ 2500."
+  },
+  {
+    "question": "Determina el conjunto solución de 4x - 7 > 9",
+    "options": [
+      {"text": "x > 4", "correct": true},
+      {"text": "x < 4", "correct": false},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero suma 7 a ambos lados",
+    "explanation": "Sumas 7: 4x > 16. Divides entre 4: x > 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de -2x + 5 ≤ 13",
+    "options": [
+      {"text": "x ≥ -4", "correct": true},
+      {"text": "x ≤ -4", "correct": false},
+      {"text": "x > -4", "correct": false},
+      {"text": "x < -4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Resta 5 a ambos lados",
+    "explanation": "Restas 5: -2x ≤ 8. Divides entre -2 e inviertes el signo: x ≥ -4"
+  },
+  {
+    "question": "Resuelve la desigualdad 3(x - 4) ≥ 6",
+    "options": [
+      {"text": "x ≥ 6", "correct": true},
+      {"text": "x ≤ 6", "correct": false},
+      {"text": "x > 6", "correct": false},
+      {"text": "x < 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 3 primero",
+    "explanation": "Multiplicas: 3x - 12 ≥ 6. Sumas 12: 3x ≥ 18 → x ≥ 6"
+  },
+  {
+    "question": "Halla el conjunto solución de 5x - 3 ≤ 2x + 6",
+    "options": [
+      {"text": "x ≤ 3", "correct": true},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 2x y sumas 3: 3x ≤ 9 → x ≤ 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6 - 3x < 15",
+    "options": [
+      {"text": "x > -3", "correct": true},
+      {"text": "x < -3", "correct": false},
+      {"text": "x ≥ -3", "correct": false},
+      {"text": "x ≤ -3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Resta 6 a ambos lados",
+    "explanation": "Restas 6: -3x < 9. Divides entre -3 e inviertes el signo: x > -3"
+  },
+  {
+    "question": "Determina el conjunto solución de 2(3x + 1) ≤ 14",
+    "options": [
+      {"text": "x ≤ 2", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x < 2", "correct": false},
+      {"text": "x > 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero multiplica el paréntesis",
+    "explanation": "Multiplicas: 6x + 2 ≤ 14. Restas 2: 6x ≤ 12 → x ≤ 2"
+  },
+  {
+    "question": "Encuentra el valor de x que satisface 5x + 2 < 3x + 10",
+    "options": [
+      {"text": "x < 4", "correct": true},
+      {"text": "x > 4", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos semejantes",
+    "explanation": "Restas 3x y 2: 2x < 8 → x < 4"
+  },
+  {
+    "question": "Resuelve la desigualdad 4x - 5 ≥ 2x + 7",
+    "options": [
+      {"text": "x ≥ 6", "correct": true},
+      {"text": "x ≤ 6", "correct": false},
+      {"text": "x > 6", "correct": false},
+      {"text": "x < 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Agrupa los términos con x",
+    "explanation": "Restas 2x y sumas 5: 2x ≥ 12 → x ≥ 6"
+  },
+  {
+    "question": "Determina el conjunto solución de 7x + 1 > 5x - 5",
+    "options": [
+      {"text": "x > -3", "correct": true},
+      {"text": "x < -3", "correct": false},
+      {"text": "x ≥ -3", "correct": false},
+      {"text": "x ≤ -3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos semejantes",
+    "explanation": "Restas 5x y 1: 2x > -6 → x > -3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 3(x + 2) ≥ 2x + 9",
+    "options": [
+      {"text": "x ≥ 3", "correct": true},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero distribuye el 3",
+    "explanation": "Multiplicas: 3x + 6 ≥ 2x + 9. Restas 2x y 6: x ≥ 3"
+  },
+  {
+    "question": "Halla el conjunto solución de 4x - 3 ≥ 2x + 5",
+    "options": [
+      {"text": "x ≥ 4", "correct": true},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x > 4", "correct": false},
+      {"text": "x < 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Organiza los términos con x",
+    "explanation": "Restas 2x y sumas 3: 2x ≥ 8 → x ≥ 4"
+  },
+  {
+    "question": "Resuelve la desigualdad 5(x - 1) < 3x + 3",
+    "options": [
+      {"text": "x < 4", "correct": true},
+      {"text": "x > 4", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero desarrolla el paréntesis",
+    "explanation": "Multiplicas: 5x - 5 < 3x + 3. Restas 3x y sumas 5: 2x < 8 → x < 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6x - 1 ≤ 4x + 7",
+    "options": [
+      {"text": "x ≤ 4", "correct": true},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "x < 4", "correct": false},
+      {"text": "x > 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 4x y sumas 1: 2x ≤ 8 → x ≤ 4"
+  },
+  {
+    "question": "Determina el conjunto solución de 2x - 4 ≥ x + 2",
+    "options": [
+      {"text": "x ≥ 6", "correct": true},
+      {"text": "x ≤ 6", "correct": false},
+      {"text": "x > 6", "correct": false},
+      {"text": "x < 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza los términos",
+    "explanation": "Restas x y sumas 4: x ≥ 6"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x + 2 ≤ 3x + 8",
+    "options": [
+      {"text": "x ≤ 3", "correct": true},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 3x y 2: 2x ≤ 6 → x ≤ 3"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x + 1) ≥ 3x + 6",
+    "options": [
+      {"text": "x ≥ 2", "correct": true},
+      {"text": "x ≤ 2", "correct": false},
+      {"text": "x > 2", "correct": false},
+      {"text": "x < 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 4",
+    "explanation": "Multiplicas: 4x + 4 ≥ 3x + 6. Restas 3x y 4: x ≥ 2"
+  },
+  {
+    "question": "Determina el conjunto solución de 3x + 1 ≥ x + 7",
+    "options": [
+      {"text": "x ≥ 3", "correct": true},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos",
+    "explanation": "Restas x y 1: 2x ≥ 6 → x ≥ 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 2 ≤ 2x + 4",
+    "options": [
+      {"text": "x ≤ 2", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x < 2", "correct": false},
+      {"text": "x > 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 2x y sumas 2: 3x ≤ 6 → x ≤ 2"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x - 1) < 2x + 4",
+    "options": [
+      {"text": "x < 4", "correct": true},
+      {"text": "x > 4", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 4",
+    "explanation": "Multiplicas: 4x - 4 < 2x + 4. Restas 2x y sumas 4: 2x < 8 → x < 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6x + 2 ≤ 3x + 8",
+    "options": [
+      {"text": "x ≤ 2", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x < 2", "correct": false},
+      {"text": "x > 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Agrupa términos con x",
+    "explanation": "Restas 3x y 2: 3x ≤ 6 → x ≤ 2"
+  },
+  {
+    "question": "Determina el conjunto solución de 2x - 3 ≥ x + 5",
+    "options": [
+      {"text": "x ≥ 8", "correct": true},
+      {"text": "x ≤ 8", "correct": false},
+      {"text": "x > 8", "correct": false},
+      {"text": "x < 8", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza los términos",
+    "explanation": "Restas x y sumas 3: x ≥ 8"
+  },
+  {
+    "question": "Resuelve la desigualdad 3(x + 1) < 2x + 6",
+    "options": [
+      {"text": "x < 3", "correct": true},
+      {"text": "x > 3", "correct": false},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 3",
+    "explanation": "Multiplicas: 3x + 3 < 2x + 6. Restas 2x y 3: x < 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 1 ≥ 3x + 5",
+    "options": [
+      {"text": "x ≥ 3", "correct": true},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 3x y sumas 1: 2x ≥ 6 → x ≥ 3"
+  },
+  {
+    "question": "Determina el conjunto solución de 4x + 2 < 2x + 10",
+    "options": [
+      {"text": "x < 4", "correct": true},
+      {"text": "x > 4", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos semejantes",
+    "explanation": "Restas 2x y 2: 2x < 8 → x < 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 7x - 2 ≤ 5x + 8",
+    "options": [
+      {"text": "x ≤ 5", "correct": true},
+      {"text": "x ≥ 5", "correct": false},
+      {"text": "x < 5", "correct": false},
+      {"text": "x > 5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 5x y sumas 2: 2x ≤ 10 → x ≤ 5"
+  },
+  {
+    "question": "Resuelve la desigualdad 2(x + 4) ≥ 3x + 2",
+    "options": [
+      {"text": "x ≤ 6", "correct": true},
+      {"text": "x ≥ 6", "correct": false},
+      {"text": "x < 6", "correct": false},
+      {"text": "x > 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 2",
+    "explanation": "Multiplicas: 2x + 8 ≥ 3x + 2. Restas 2x y 2: 6 ≥ x → x ≤ 6"
+  },
+  {
+    "question": "Determina el conjunto solución de 3x + 2 ≥ x + 8",
+    "options": [
+      {"text": "x ≥ 3", "correct": true},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos",
+    "explanation": "Restas x y 2: 2x ≥ 6 → x ≥ 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 3 ≤ 2x + 6",
+    "options": [
+      {"text": "x ≤ 3", "correct": true},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "x < 3", "correct": false},
+      {"text": "x > 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 2x y sumas 3: 3x ≤ 9 → x ≤ 3"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x - 2) < 2x + 4",
+    "options": [
+      {"text": "x < 6", "correct": true},
+      {"text": "x > 6", "correct": false},
+      {"text": "x ≤ 6", "correct": false},
+      {"text": "x ≥ 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 4",
+    "explanation": "Multiplicas: 4x - 8 < 2x + 4. Restas 2x y sumas 8: 2x < 12 → x < 6"
+  },
+  {
+    "question": "Determina el conjunto solución de 2x + 5 > 11",
+    "options": [
+      {"text": "(3, ∞)", "correct": true},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero resta 5 a ambos lados",
+    "explanation": "Restas 5: 2x > 6. Luego divides entre 2: x > 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de -3x + 7 ≤ 16",
+    "options": [
+      {"text": "[-3, ∞)", "correct": true},
+      {"text": "(-3, ∞)", "correct": false},
+      {"text": "(-∞, -3)", "correct": false},
+      {"text": "(-∞, -3]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Despeja primero los números",
+    "explanation": "Restas 7: -3x ≤ 9. Divides entre -3 e inviertes el signo: x ≥ -3"
+  },
+  {
+    "question": "Resuelve la desigualdad 5(x - 2) < 15",
+    "options": [
+      {"text": "(-∞, 5)", "correct": true},
+      {"text": "(5, ∞)", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "(-∞, 5]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 5 primero",
+    "explanation": "Multiplicas: 5x - 10 < 15. Sumas 10: 5x < 25. Divides entre 5: x < 5"
+  },
+  {
+    "question": "Halla el conjunto solución de 4x - 3 ≥ 9",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Empieza sumando 3 a ambos lados",
+    "explanation": "Sumas 3: 4x ≥ 12. Divides entre 4: x ≥ 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6 - 2x ≤ 10",
+    "options": [
+      {"text": "[-2, ∞)", "correct": true},
+      {"text": "(-2, ∞)", "correct": false},
+      {"text": "(-∞, -2)", "correct": false},
+      {"text": "(-∞, -2]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Resta 6 a ambos lados",
+    "explanation": "Restas 6: -2x ≤ 4. Divides entre -2 e inviertes el signo: x ≥ -2"
+  },
+  {
+    "question": "Determina el conjunto solución de 3(2x + 1) ≥ 21",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero multiplica el paréntesis",
+    "explanation": "Distribuyes: 6x + 3 ≥ 21. Restas 3: 6x ≥ 18. Divides entre 6: x ≥ 3"
+  },
+  {
+    "question": "Encuentra el valor de x que satisface 4x + 3 < 2x + 11",
+    "options": [
+      {"text": "(-∞, 4)", "correct": true},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "[4, ∞)", "correct": false},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos semejantes",
+    "explanation": "Restas 2x y 3: 2x < 8. Divides entre 2: x < 4"
+  },
+  {
+    "question": "Resuelve la desigualdad 5x - 4 ≥ 2x + 8",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Agrupa los términos con x",
+    "explanation": "Restas 2x y sumas 4: 3x ≥ 12. Divides entre 3: x ≥ 4"
+  },
+  {
+    "question": "Determina el conjunto solución de 7x + 2 > 5x - 6",
+    "options": [
+      {"text": "(-4, ∞)", "correct": true},
+      {"text": "(-∞, -4)", "correct": false},
+      {"text": "[-4, ∞)", "correct": false},
+      {"text": "(-∞, -4]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos semejantes",
+    "explanation": "Restas 5x y 2: 2x > -8. Divides entre 2: x > -4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 2(x + 3) ≤ 3x - 1",
+    "options": [
+      {"text": "[7, ∞)", "correct": true},
+      {"text": "(-∞, 7]", "correct": false},
+      {"text": "(7, ∞)", "correct": false},
+      {"text": "(-∞, 7)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero distribuye el 2",
+    "explanation": "Distribuyes: 2x + 6 ≤ 3x - 1. Restas 2x y sumas 1: 7 ≤ x → x ≥ 7"
+  },
+  {
+    "question": "Halla el conjunto solución de 3x - 5 ≥ 2x + 4",
+    "options": [
+      {"text": "[9, ∞)", "correct": true},
+      {"text": "(-∞, 9]", "correct": false},
+      {"text": "(9, ∞)", "correct": false},
+      {"text": "(-∞, 9)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Organiza los términos con x en un lado",
+    "explanation": "Restas 2x y sumas 5: x ≥ 9"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x - 1) < 2x + 6",
+    "options": [
+      {"text": "(-∞, 5)", "correct": true},
+      {"text": "(5, ∞)", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "(-∞, 5]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Primero desarrolla el paréntesis",
+    "explanation": "Multiplicas: 4x - 4 < 2x + 6. Restas 2x y sumas 4: 2x < 10 → x < 5"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6x - 2 ≥ 4x + 10",
+    "options": [
+      {"text": "[6, ∞)", "correct": true},
+      {"text": "(-∞, 6]", "correct": false},
+      {"text": "(-∞, 6)", "correct": false},
+      {"text": "(6, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Agrupa los términos con x",
+    "explanation": "Restas 4x y sumas 2: 2x ≥ 12 → x ≥ 6"
+  },
+  {
+    "question": "Determina el conjunto solución de 5x + 1 < 3x + 7",
+    "options": [
+      {"text": "(-∞, 3)", "correct": true},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos semejantes",
+    "explanation": "Restas 3x y 1: 2x < 6 → x < 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 7x - 4 ≤ 5x + 8",
+    "options": [
+      {"text": "(-∞, 6]", "correct": true},
+      {"text": "(-∞, 6)", "correct": false},
+      {"text": "(6, ∞)", "correct": false},
+      {"text": "[6, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 5x y sumas 4: 2x ≤ 12 → x ≤ 6"
+  },
+  {
+    "question": "Resuelve la desigualdad 2(x + 4) ≥ 3x + 1",
+    "options": [
+      {"text": "(-∞, 7]", "correct": true},
+      {"text": "(-∞, 7)", "correct": false},
+      {"text": "(7, ∞)", "correct": false},
+      {"text": "[7, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 2",
+    "explanation": "Multiplicas: 2x + 8 ≥ 3x + 1. Restas 2x y 1: 7 ≥ x → x ≤ 7"
+  },
+  {
+    "question": "Determina el conjunto solución de 3x + 2 ≥ x + 10",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos",
+    "explanation": "Restas x y 2: 2x ≥ 8 → x ≥ 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 3 ≤ 2x + 9",
+    "options": [
+      {"text": "(-∞, 4]", "correct": true},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "[4, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 2x y sumas 3: 3x ≤ 12 → x ≤ 4"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x - 2) < 2x + 4",
+    "options": [
+      {"text": "(-∞, 6)", "correct": true},
+      {"text": "(6, ∞)", "correct": false},
+      {"text": "[6, ∞)", "correct": false},
+      {"text": "(-∞, 6]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 4",
+    "explanation": "Multiplicas: 4x - 8 < 2x + 4. Restas 2x y sumas 8: 2x < 12 → x < 6"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6x + 1 ≤ 3x + 10",
+    "options": [
+      {"text": "(-∞, 3]", "correct": true},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Agrupa términos con x",
+    "explanation": "Restas 3x y 1: 3x ≤ 9 → x ≤ 3"
+  },
+  {
+    "question": "Determina el conjunto solución de 2x - 5 ≥ x + 3",
+    "options": [
+      {"text": "[8, ∞)", "correct": true},
+      {"text": "(-∞, 8]", "correct": false},
+      {"text": "(-∞, 8)", "correct": false},
+      {"text": "(8, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza los términos",
+    "explanation": "Restas x y sumas 5: x ≥ 8"
+  },
+  {
+    "question": "Resuelve la desigualdad 3(x + 1) < 2x + 7",
+    "options": [
+      {"text": "(-∞, 4)", "correct": true},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "[4, ∞)", "correct": false},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 3",
+    "explanation": "Multiplicas: 3x + 3 < 2x + 7. Restas 2x y 3: x < 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 2 ≥ 3x + 6",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 3x y sumas 2: 2x ≥ 8 → x ≥ 4"
+  },
+  {
+    "question": "Determina el conjunto solución de 4x + 3 < 2x + 11",
+    "options": [
+      {"text": "(-∞, 4)", "correct": true},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "[4, ∞)", "correct": false},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos semejantes",
+    "explanation": "Restas 2x y 3: 2x < 8 → x < 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 7x - 4 ≤ 5x + 6",
+    "options": [
+      {"text": "(-∞, 5]", "correct": true},
+      {"text": "(-∞, 5)", "correct": false},
+      {"text": "(5, ∞)", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 5x y sumas 4: 2x ≤ 10 → x ≤ 5"
+  },
+  {
+    "question": "Resuelve la desigualdad 2(x + 5) ≥ 3x + 2",
+    "options": [
+      {"text": "(-∞, 8]", "correct": true},
+      {"text": "(-∞, 8)", "correct": false},
+      {"text": "(8, ∞)", "correct": false},
+      {"text": "[8, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 2",
+    "explanation": "Multiplicas: 2x + 10 ≥ 3x + 2. Restas 2x y 2: 8 ≥ x → x ≤ 8"
+  },
+  {
+    "question": "Determina el conjunto solución de 3x + 4 ≥ x + 12",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos",
+    "explanation": "Restas x y 4: 2x ≥ 8 → x ≥ 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 1 ≤ 2x + 8",
+    "options": [
+      {"text": "(-∞, 3]", "correct": true},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 2x y sumas 1: 3x ≤ 9 → x ≤ 3"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x - 3) < 2x + 2",
+    "options": [
+      {"text": "(-∞, 7)", "correct": true},
+      {"text": "(7, ∞)", "correct": false},
+      {"text": "[7, ∞)", "correct": false},
+      {"text": "(-∞, 7]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 4",
+    "explanation": "Multiplicas: 4x - 12 < 2x + 2. Restas 2x y sumas 12: 2x < 14 → x < 7"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 6x + 2 ≤ 3x + 11",
+    "options": [
+      {"text": "(-∞, 3]", "correct": true},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Agrupa términos con x",
+    "explanation": "Restas 3x y 2: 3x ≤ 9 → x ≤ 3"
+  },
+  {
+    "question": "Determina el conjunto solución de 2x - 3 ≥ x + 5",
+    "options": [
+      {"text": "[8, ∞)", "correct": true},
+      {"text": "(-∞, 8]", "correct": false},
+      {"text": "(-∞, 8)", "correct": false},
+      {"text": "(8, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza los términos",
+    "explanation": "Restas x y sumas 3: x ≥ 8"
+  },
+  {
+    "question": "Resuelve la desigualdad 3(x + 2) < 2x + 9",
+    "options": [
+      {"text": "(-∞, 3)", "correct": true},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 3",
+    "explanation": "Multiplicas: 3x + 6 < 2x + 9. Restas 2x y 6: x < 3"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 3 ≥ 3x + 5",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 3x y sumas 3: 2x ≥ 8 → x ≥ 4"
+  },
+  {
+    "question": "Determina el conjunto solución de 4x + 1 < 2x + 9",
+    "options": [
+      {"text": "(-∞, 4)", "correct": true},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "[4, ∞)", "correct": false},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos semejantes",
+    "explanation": "Restas 2x y 1: 2x < 8 → x < 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 7x - 3 ≤ 5x + 7",
+    "options": [
+      {"text": "(-∞, 5]", "correct": true},
+      {"text": "(-∞, 5)", "correct": false},
+      {"text": "(5, ∞)", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 5x y sumas 3: 2x ≤ 10 → x ≤ 5"
+  },
+  {
+    "question": "Resuelve la desigualdad 2(x + 6) ≥ 3x + 4",
+    "options": [
+      {"text": "(-∞, 8]", "correct": true},
+      {"text": "(-∞, 8)", "correct": false},
+      {"text": "(8, ∞)", "correct": false},
+      {"text": "[8, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 2",
+    "explanation": "Multiplicas: 2x + 12 ≥ 3x + 4. Restas 2x y 4: 8 ≥ x → x ≤ 8"
+  },
+  {
+    "question": "Determina el conjunto solución de 3x + 5 ≥ x + 13",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "(-∞, 4)", "correct": false},
+      {"text": "(4, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reorganiza términos",
+    "explanation": "Restas x y 5: 2x ≥ 8 → x ≥ 4"
+  },
+  {
+    "question": "Encuentra el conjunto solución de 5x - 2 ≤ 2x + 7",
+    "options": [
+      {"text": "(-∞, 3]", "correct": true},
+      {"text": "(-∞, 3)", "correct": false},
+      {"text": "(3, ∞)", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Reúne los términos con x",
+    "explanation": "Restas 2x y sumas 2: 3x ≤ 9 → x ≤ 3"
+  },
+  {
+    "question": "Resuelve la desigualdad 4(x - 4) < 2x + 4",
+    "options": [
+      {"text": "(-∞, 10)", "correct": true},
+      {"text": "(10, ∞)", "correct": false},
+      {"text": "[10, ∞)", "correct": false},
+      {"text": "(-∞, 10]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["ÁLGEBRA"],
+    "hint": "Distribuye el 4",
+    "explanation": "Multiplicas: 4x - 16 < 2x + 4. Restas 2x y sumas 16: 2x < 20 → x < 10"
+  }
+]
