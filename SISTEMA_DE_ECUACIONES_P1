@@ -1,206 +1,332 @@
 [
   {
-    "question": "Un estudiante compra 5 gafas y 5 relojes pagando un total de 75 pesos. Otro día, adquiere 6 gafas y 5 relojes y paga 84 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "En una granja hay conejos y gallinas. Si en total hay 12 cabezas y 34 patas, ¿cuántos conejos hay?",
     "options": [
-      {"text": "9 y 6 pesos", "correct": true},
-      {"text": "11 y 5 pesos", "correct": false},
-      {"text": "8 y 9 pesos", "correct": false},
+      {"text": "5 conejos", "correct": true},
+      {"text": "7 conejos", "correct": false},
+      {"text": "4 conejos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Dos compras distintas con los mismos productos",
-    "explanation": "El problema se resuelve planteando un sistema de dos ecuaciones con dos incógnitas, representando los costos de gafas y relojes."
+    "hint": "Cada conejo tiene más patas que una gallina.",
+    "explanation": "Sea x conejos y y gallinas. Sistema: x + y = 12 (cabezas), 4x + 2y = 34 (patas). Resolviendo: x = 5, y = 7."
   },
   {
-    "question": "Un estudiante compra 7 gafas y 10 relojes pagando un total de 128 pesos. Otro día, adquiere 1 gafas y 2 relojes y paga 24 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Un libro y un cuaderno cuestan $110. Si el libro cuesta $100 más que el cuaderno, ¿cuánto cuesta el cuaderno?",
     "options": [
-      {"text": "10 y 7 pesos", "correct": true},
-      {"text": "11 y 6 pesos", "correct": false},
-      {"text": "9 y 10 pesos", "correct": false},
+      {"text": "$5", "correct": true},
+      {"text": "$10", "correct": false},
+      {"text": "$15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Dos compras distintas con los mismos productos",
-    "explanation": "El problema se resuelve planteando un sistema de dos ecuaciones con dos incógnitas, representando los costos de gafas y relojes."
+    "hint": "La diferencia entre los precios es fija.",
+    "explanation": "Sea x libro, y cuaderno. Sistema: x + y = 110, x = y + 100. Resolviendo: y = 5, x = 105."
   },
   {
-    "question": "Un estudiante compra 9 cuadernos y 2 plumas pagando un total de 40 pesos. Otro día, adquiere 3 cuadernos y 5 plumas y paga 29 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "La suma de dos números es 48 y su diferencia es 12. ¿Cuál es el número mayor?",
     "options": [
-      {"text": "4 y 3 pesos", "correct": true},
-      {"text": "6 y 2 pesos", "correct": false},
-      {"text": "3 y 5 pesos", "correct": false},
+      {"text": "30", "correct": true},
+      {"text": "24", "correct": false},
+      {"text": "36", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "El precio unitario es clave",
-    "explanation": "El precio de los cuadernos y plumas se determina resolviendo el sistema de ecuaciones formado por las dos compras."
+    "hint": "Suma las ecuaciones para eliminar la diferencia.",
+    "explanation": "Sea x > y. Sistema: x + y = 48, x - y = 12. Sumando: 2x = 60 ⇒ x = 30."
   },
   {
-    "question": "Un estudiante compra 7 boletos de cine y 5 boletos de teatro pagando un total de 89 pesos. Otro día, adquiere 3 boletos de cine y 5 boletos de teatro y paga 65 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "En un examen de 20 preguntas, por cada respuesta correcta dan 3 puntos y por cada incorrecta restan 1. Si un alumno obtuvo 44 puntos, ¿cuántas respuestas correctas tuvo?",
     "options": [
-      {"text": "6 y 7 pesos", "correct": true},
-      {"text": "8 y 5 pesos", "correct": false},
-      {"text": "9 y 6 pesos", "correct": false},
+      {"text": "16", "correct": true},
+      {"text": "14", "correct": false},
+      {"text": "18", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Los precios son distintos para cada tipo",
-    "explanation": "Se plantea un sistema de ecuaciones con las cantidades y costos de boletos para resolver los valores unitarios."
+    "hint": "Considera el total de preguntas y el puntaje neto.",
+    "explanation": "Sea x correctas, y incorrectas. Sistema: x + y = 20, 3x - y = 44. Resolviendo: x = 16, y = 4."
   },
   {
-    "question": "Un estudiante compra 10 manzanas y 5 peras pagando un total de 115 pesos. Otro día, adquiere 5 manzanas y 5 peras y paga 80 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Un rectángulo tiene perímetro 28 cm y su largo es 4 cm más que su ancho. ¿Cuál es su área?",
     "options": [
-      {"text": "7 y 9 pesos", "correct": true},
-      {"text": "8 y 7 pesos", "correct": false},
-      {"text": "6 y 10 pesos", "correct": false},
+      {"text": "45 cm^2", "correct": true},
+      {"text": "40 cm^2", "correct": false},
+      {"text": "48 cm^2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Usa reducción si las cantidades coinciden",
-    "explanation": "La reducción de ecuaciones permite encontrar el precio por kilo de manzanas y peras."
+    "hint": "Recuerda la fórmula del perímetro para rectángulos.",
+    "explanation": "Sea x ancho, y largo. Sistema: 2x + 2y = 28, y = x + 4. Resolviendo: x = 5, y = 9. Área = x*y = 45."
   },
   {
-    "question": "Un estudiante compra 3 camisetas y 2 pantalones pagando un total de 40 pesos. Otro día, adquiere 4 camisetas y 3 pantalones y paga 55 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Se compran 5 lápices y 3 bolígrafos por $14. Si 2 lápices y 1 bolígrafo cuestan $5, ¿cuánto cuesta cada bolígrafo?",
     "options": [
-      {"text": "8 y 8 pesos", "correct": true},
-      {"text": "9 y 7 pesos", "correct": false},
-      {"text": "10 y 6 pesos", "correct": false},
+      {"text": "$2", "correct": true},
+      {"text": "$1.50", "correct": false},
+      {"text": "$3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Observa las proporciones",
-    "explanation": "Las cantidades permiten resolver el sistema por sustitución o igualación."
+    "hint": "Establece ecuaciones para ambos escenarios de compra.",
+    "explanation": "Sea x lápiz, y bolígrafo. Sistema: 5x + 3y = 14, 2x + y = 5. Resolviendo: x = 1, y = 3."
   },
   {
-    "question": "Un estudiante compra 6 gafas y 7 relojes pagando un total de 102 pesos. Otro día, adquiere 5 gafas y 6 relojes y paga 85 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "La edad de Juan es el doble que la de Pedro. Hace 5 años, la suma de sus edades era 25. ¿Cuántos años tiene Juan ahora?",
     "options": [
-      {"text": "6 y 8 pesos", "correct": true},
-      {"text": "7 y 7 pesos", "correct": false},
-      {"text": "5 y 9 pesos", "correct": false},
+      {"text": "20", "correct": true},
+      {"text": "15", "correct": false},
+      {"text": "25", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Busca simplificar las ecuaciones",
-    "explanation": "El sistema se puede resolver por igualación o determinantes para obtener los precios unitarios."
+    "hint": "Considera las edades actuales y pasadas.",
+    "explanation": "Sea J Juan, P Pedro. Sistema: J = 2P, (J-5)+(P-5) = 25. Resolviendo: P = 10, J = 20."
   },
   {
-    "question": "Un estudiante compra 2 cuadernos y 5 plumas pagando un total de 29 pesos. Otro día, adquiere 4 cuadernos y 3 plumas y paga 31 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Se mezclan dos tipos de café: uno de $8/kg y otro de $12/kg para obtener 20 kg de mezcla a $9/kg. ¿Cuántos kg del café más caro se usaron?",
     "options": [
-      {"text": "5 y 3 pesos", "correct": true},
-      {"text": "4 y 5 pesos", "correct": false},
-      {"text": "6 y 2 pesos", "correct": false},
+      {"text": "5 kg", "correct": true},
+      {"text": "8 kg", "correct": false},
+      {"text": "10 kg", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Busca aislar una variable",
-    "explanation": "Al despejar una variable se puede sustituir en la otra ecuación y hallar ambas incógnitas."
+    "hint": "El costo total de la mezcla es la suma de los costos individuales.",
+    "explanation": "Sea x café $8, y café $12. Sistema: x + y = 20, 8x + 12y = 9*20. Resolviendo: x = 15, y = 5."
   },
   {
-    "question": "Un estudiante compra 3 boletos de cine y 4 boletos de teatro pagando un total de 54 pesos. Otro día, adquiere 2 boletos de cine y 5 boletos de teatro y paga 55 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Un número excede a otro en 6 y la suma de ambos es 30. ¿Cuál es el número menor?",
     "options": [
-      {"text": "6 y 9 pesos", "correct": true},
-      {"text": "5 y 10 pesos", "correct": false},
-      {"text": "7 y 8 pesos", "correct": false},
+      {"text": "12", "correct": true},
+      {"text": "14", "correct": false},
+      {"text": "10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Reescribe ambas ecuaciones y elimina una incógnita",
-    "explanation": "Usar el método de eliminación facilita hallar el precio de cada boleto."
+    "hint": "Define los números en términos de su diferencia.",
+    "explanation": "Sea x > y. Sistema: x - y = 6, x + y = 30. Resolviendo: y = 12, x = 18."
   },
   {
-    "question": "Un estudiante compra 4 manzanas y 2 peras pagando un total de 34 pesos. Otro día, adquiere 3 manzanas y 3 peras y paga 36 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "En un corral hay vacas y aves. Si en total hay 30 cabezas y 80 patas, ¿cuántas vacas hay?",
     "options": [
-      {"text": "7 y 5 pesos", "correct": true},
-      {"text": "6 y 6 pesos", "correct": false},
-      {"text": "8 y 4 pesos", "correct": false},
+      {"text": "10 vacas", "correct": true},
+      {"text": "12 vacas", "correct": false},
+      {"text": "8 vacas", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Los coeficientes permiten simplificar",
-    "explanation": "Al multiplicar y restar ecuaciones se puede encontrar el valor de cada fruta."
+    "hint": "Cada vaca tiene más patas que un ave.",
+    "explanation": "Sea x vacas, y aves. Sistema: x + y = 30, 4x + 2y = 80. Resolviendo: x = 10, y = 20."
   },
   {
-    "question": "Un estudiante compra 3 camisetas y 5 pantalones pagando un total de 61 pesos. Otro día, adquiere 2 camisetas y 4 pantalones y paga 46 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Un tren recorre 300 km en cierto tiempo. Si hubiera viajado 10 km/h más rápido, habría tardado 1 hora menos. ¿Cuál es la velocidad original del tren?",
     "options": [
-      {"text": "7 y 8 pesos", "correct": true},
-      {"text": "6 y 9 pesos", "correct": false},
-      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "50 km/h", "correct": true},
+      {"text": "60 km/h", "correct": false},
+      {"text": "40 km/h", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Busca proporciones similares",
-    "explanation": "Multiplicando las ecuaciones puedes anular una incógnita y resolver."
+    "hint": "Considera tiempo = distancia/velocidad en ambos casos.",
+    "explanation": "Sea v velocidad, t tiempo. Sistema: v*t = 300, (v+10)(t-1) = 300. Resolviendo: v = 50, t = 6."
   },
   {
-    "question": "Un estudiante compra 5 gafas y 3 relojes pagando un total de 69 pesos. Otro día, adquiere 2 gafas y 2 relojes y paga 36 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Dos números están en relación 3:4. Si su suma es 105, ¿cuál es el número mayor?",
     "options": [
-      {"text": "9 y 6 pesos", "correct": true},
-      {"text": "10 y 5 pesos", "correct": false},
-      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "60", "correct": true},
+      {"text": "45", "correct": false},
+      {"text": "70", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Busca simplificar los coeficientes",
-    "explanation": "El método de igualación permite hallar fácilmente las variables."
+    "hint": "Expresa los números en términos de una variable común.",
+    "explanation": "Sea 3k y 4k los números. Ecuación: 3k + 4k = 105 ⇒ k = 15. Mayor: 4k = 60."
   },
   {
-    "question": "Un estudiante compra 6 cuadernos y 2 plumas pagando un total de 44 pesos. Otro día, adquiere 3 cuadernos y 5 plumas y paga 41 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Un comerciante compra 2 artículos por $150. Vende uno con 20% de ganancia y otro con 30% de ganancia, obteniendo $195 en total. ¿Cuánto costó el artículo más caro?",
     "options": [
-      {"text": "6 y 3 pesos", "correct": true},
-      {"text": "5 y 4 pesos", "correct": false},
-      {"text": "7 y 2 pesos", "correct": false},
+      {"text": "$100", "correct": true},
+      {"text": "$80", "correct": false},
+      {"text": "$120", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Prueba sustitución para resolverlo",
-    "explanation": "Despejar una variable ayuda a resolver la otra ecuación fácilmente."
+    "hint": "Considera los precios de compra y los porcentajes de ganancia.",
+    "explanation": "Sea x, y precios. Sistema: x + y = 150, 1.2x + 1.3y = 195. Resolviendo: x = 50, y = 100."
   },
   {
-    "question": "Un estudiante compra 2 camisetas y 4 pantalones pagando un total de 48 pesos. Otro día, adquiere 4 camisetas y 1 pantalón y paga 38 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "La suma de las cifras de un número de dos dígitos es 10. Si se invierten las cifras, el número aumenta en 36. ¿Cuál es el número original?",
     "options": [
-      {"text": "7 y 9 pesos", "correct": true},
-      {"text": "6 y 10 pesos", "correct": false},
-      {"text": "8 y 8 pesos", "correct": false},
+      {"text": "37", "correct": true},
+      {"text": "46", "correct": false},
+      {"text": "28", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Observa la variación de cantidades",
-    "explanation": "El sistema puede resolverse comparando el cambio en cantidades y precios."
+    "hint": "Expresa el número como 10a + b donde a y b son dígitos.",
+    "explanation": "Sea 10a + b el número. Sistema: a + b = 10, 10b + a = 10a + b + 36. Resolviendo: a = 3, b = 7."
   },
   {
-    "question": "Un estudiante compra 3 boletos de cine y 2 boletos de teatro pagando un total de 36 pesos. Otro día, adquiere 2 boletos de cine y 3 boletos de teatro y paga 39 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Un padre tiene 3 veces la edad de su hijo. Dentro de 10 años, tendrá el doble. ¿Qué edad tiene el hijo ahora?",
     "options": [
-      {"text": "8 y 6 pesos", "correct": true},
-      {"text": "9 y 5 pesos", "correct": false},
-      {"text": "7 y 7 pesos", "correct": false},
+      {"text": "10 años", "correct": true},
+      {"text": "12 años", "correct": false},
+      {"text": "8 años", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Compara los cambios de cantidades",
-    "explanation": "La técnica de igualación permite resolver el sistema con claridad."
+    "hint": "Considera las edades actuales y futuras.",
+    "explanation": "Sea P padre, H hijo. Sistema: P = 3H, P + 10 = 2(H + 10). Resolviendo: H = 10, P = 30."
   },
   {
-    "question": "Un estudiante compra 4 manzanas y 3 peras pagando un total de 43 pesos. Otro día, adquiere 5 manzanas y 2 peras y paga 46 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "En un triángulo rectángulo, un ángulo agudo es 15° mayor que el otro. ¿Cuánto mide el ángulo menor?",
     "options": [
-      {"text": "7 y 5 pesos", "correct": true},
-      {"text": "8 y 4 pesos", "correct": false},
-      {"text": "6 y 6 pesos", "correct": false},
+      {"text": "37.5°", "correct": true},
+      {"text": "30°", "correct": false},
+      {"text": "45°", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Suma o resta las ecuaciones",
-    "explanation": "Con operaciones básicas se puede hallar el valor de ambas frutas."
+    "hint": "La suma de los ángulos agudos en un triángulo rectángulo es fija.",
+    "explanation": "Sea x menor, y mayor. Sistema: x + y = 90, y = x + 15. Resolviendo: x = 37.5°, y = 52.5°."
   },
   {
-    "question": "Un estudiante compra 6 gafas y 3 relojes pagando un total de 72 pesos. Otro día, adquiere 2 gafas y 6 relojes y paga 66 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "question": "Se invierten $5000, parte al 5% y parte al 7% de interés anual. Si el interés total anual es $310, ¿cuánto se invirtió al 7%?",
     "options": [
-      {"text": "9 y 6 pesos", "correct": true},
-      {"text": "10 y 5 pesos", "correct": false},
-      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "$3000", "correct": true},
+      {"text": "$2500", "correct": false},
+      {"text": "$3500", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["SISTEMAS_2X2"],
-    "hint": "Busca qué variable es más fácil eliminar",
-    "explanation": "Una ecuación puede multiplicarse para anular una incógnita y resolver."
+    "hint": "El interés total es la suma de los intereses individuales.",
+    "explanation": "Sea x al 5%, y al 7%. Sistema: x + y = 5000, 0.05x + 0.07y = 310. Resolviendo: x = 2000, y = 3000."
+  },
+  {
+    "question": "Un terreno rectangular tiene 40 m de perímetro. Si su largo es 2 metros menos que el doble de su ancho, ¿cuál es su área?",
+    "options": [
+      {"text": "96 m^2", "correct": true},
+      {"text": "84 m^2", "correct": false},
+      {"text": "108 m^2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el largo en términos del ancho.",
+    "explanation": "Sea a ancho, l largo. Sistema: 2a + 2l = 40, l = 2a - 2. Resolviendo: a = 6, l = 10. Área = 60."
+  },
+  {
+    "question": "La diferencia entre dos números es 14. Si su suma es 56, ¿cuál es el número mayor?",
+    "options": [
+      {"text": "35", "correct": true},
+      {"text": "28", "correct": false},
+      {"text": "42", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Suma las dos ecuaciones para eliminar la diferencia.",
+    "explanation": "Sea x > y. Sistema: x - y = 14, x + y = 56. Sumando: 2x = 70 ⇒ x = 35."
+  },
+  {
+    "question": "Un ciclista recorre 60 km en cierto tiempo. Si hubiera ido 5 km/h más rápido, habría tardado 1 hora menos. ¿Cuál fue su velocidad original?",
+    "options": [
+      {"text": "15 km/h", "correct": true},
+      {"text": "20 km/h", "correct": false},
+      {"text": "12 km/h", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Relaciona tiempo, distancia y velocidad en ambos escenarios.",
+    "explanation": "Sea v velocidad, t tiempo. Sistema: v*t = 60, (v+5)(t-1) = 60. Resolviendo: v = 15, t = 4."
+  },
+  {
+    "question": "Se compran 3 camisas y 2 pantalones por $190. Si 1 camisa y 1 pantalón cuestan $70, ¿cuánto cuesta cada pantalón?",
+    "options": [
+      {"text": "$40", "correct": true},
+      {"text": "$35", "correct": false},
+      {"text": "$50", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Establece ecuaciones para ambas situaciones de compra.",
+    "explanation": "Sea c camisa, p pantalón. Sistema: 3c + 2p = 190, c + p = 70. Resolviendo: c = 30, p = 40."
+  },
+  {
+    "question": "Dos tuberías llenan un tanque en 6 horas. La primera sola lo llena en 10 horas. ¿Cuánto tardaría la segunda sola?",
+    "options": [
+      {"text": "15 horas", "correct": true},
+      {"text": "12 horas", "correct": false},
+      {"text": "18 horas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera las tasas de llenado por hora.",
+    "explanation": "Sea x tiempo segunda tubería. Ecuación: 1/10 + 1/x = 1/6. Resolviendo: x = 15 horas."
+  },
+  {
+    "question": "Un poste tiene 1/4 de su longitud bajo tierra, 3/8 en el aire y el resto en agua. Si la parte en agua mide 3 metros, ¿cuál es la longitud total del poste?",
+    "options": [
+      {"text": "8 metros", "correct": true},
+      {"text": "10 metros", "correct": false},
+      {"text": "12 metros", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "La suma de todas las partes debe ser el total.",
+    "explanation": "Sea x longitud total. Ecuación: x/4 + 3x/8 + 3 = x. Resolviendo: x = 8 metros."
+  },
+  {
+    "question": "Un número es 5 veces otro. Si su diferencia es 32, ¿cuál es el número mayor?",
+    "options": [
+      {"text": "40", "correct": true},
+      {"text": "35", "correct": false},
+      {"text": "45", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa un número en términos del otro.",
+    "explanation": "Sea x mayor, y menor. Sistema: x = 5y, x - y = 32. Resolviendo: y = 8, x = 40."
+  },
+  {
+    "question": "En una reunión hay doble número de mujeres que de hombres. Si en total hay 36 personas, ¿cuántas mujeres hay?",
+    "options": [
+      {"text": "24", "correct": true},
+      {"text": "20", "correct": false},
+      {"text": "28", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "La relación entre mujeres y hombres es conocida.",
+    "explanation": "Sea h hombres, m mujeres. Sistema: m = 2h, h + m = 36. Resolviendo: h = 12, m = 24."
+  },
+  {
+    "question": "Un automóvil viaja 300 km con cierto consumo de gasolina. Si su rendimiento fuera 5 km/l mejor, necesitaría 4 litros menos. ¿Cuál es su rendimiento actual?",
+    "options": [
+      {"text": "15 km/l", "correct": true},
+      {"text": "20 km/l", "correct": false},
+      {"text": "12 km/l", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera el consumo total en ambos escenarios.",
+    "explanation": "Sea r rendimiento (km/l). Sistema: 300/r - 300/(r+5) = 4. Resolviendo: r = 15 km/l."
+  },
+  {
+    "question": "La suma de tres números consecutivos es 63. ¿Cuál es el número intermedio?",
+    "options": [
+      {"text": "21", "correct": true},
+      {"text": "20", "correct": false},
+      {"text": "22", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa los números en términos de una variable central.",
+    "explanation": "Sea x-1, x, x+1 los números. Ecuación: (x-1)+x+(x+1) = 63 ⇒ x = 21."
+  },
+  {
+    "question": "Un rectángulo tiene área 54 cm^2. Si su largo es 3 cm más que su ancho, ¿cuál es su perímetro?",
+    "options": [
+      {"text": "30 cm", "correct": true},
+      {"text": "28 cm", "correct": false},
+      {"text": "32 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el área en términos de una sola variable.",
+    "explanation": "Sea x ancho, x+3 largo. Ecuación: x(x+3) = 54 ⇒ x = 6. Perímetro: 2(6+9) = 30 cm."
+  },
+  {
+    "question": "Dos trenes parten al mismo tiempo de ciudades separadas 500 km, uno hacia el otro. Si sus velocidades son 60 km/h y 40 km/h, ¿en cuántas horas se encontrarán?",
+    "options": [
+      {"text": "5 horas", "correct": true},
+      {"text": "4 horas", "correct": false},
+      {"text": "6 horas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "La suma de las distancias recorridas debe ser 500 km.",
+    "explanation": "Sea t tiempo. Ecuación: 60t + 40t = 500 ⇒ t = 5 horas."
+  },
+  {
+    "question": "Un examen tiene 25 preguntas. Por cada respuesta correcta dan 4 puntos y por cada incorrecta restan 1. Si un alumno obtuvo 70 puntos, ¿cuántas respuestas correctas tuvo?",
+    "options": [
+      {"text": "19", "correct": true},
+      {"text": "17", "correct": false},
+      {"text": "21", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera el puntaje neto y el total de preguntas.",
+    "explanation": "Sea x correctas, y incorrectas. Sistema: x + y = 25, 4x - y = 70. Resolviendo: x = 19, y = 6."
   }
 ]
