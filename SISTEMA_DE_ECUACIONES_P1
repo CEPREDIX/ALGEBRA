@@ -328,5 +328,409 @@
     ],
     "hint": "Considera el puntaje neto y el total de preguntas.",
     "explanation": "Sea x correctas, y incorrectas. Sistema: x + y = 25, 4x - y = 70. Resolviendo: x = 19, y = 6."
+  },
+  {
+    "question": "Un agricultor tiene cerdos y gallinas. Si cuenta 80 cabezas y 200 patas, ¿cuántos cerdos tiene?",
+    "options": [
+      {"text": "20 cerdos", "correct": true},
+      {"text": "15 cerdos", "correct": false},
+      {"text": "25 cerdos", "correct": false},
+      {"text": "30 cerdos", "correct": false},
+      {"text": "18 cerdos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera que los cerdos tienen 4 patas y las gallinas 2.",
+    "explanation": "Sistema: x + y = 80 (cabezas), 4x + 2y = 200 (patas). Resolviendo: x = 20 cerdos, y = 60 gallinas."
+  },
+  {
+    "question": "Un número es el triple de otro y su suma es 48. ¿Cuál es el número mayor?",
+    "options": [
+      {"text": "36", "correct": true},
+      {"text": "24", "correct": false},
+      {"text": "40", "correct": false},
+      {"text": "32", "correct": false},
+      {"text": "42", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa un número en función del otro.",
+    "explanation": "Sistema: x = 3y, x + y = 48. Resolviendo: y = 12, x = 36."
+  },
+  {
+    "question": "En un concurso se responden 25 preguntas. Por cada acierto suman 3 puntos y por cada error restan 1. Si obtuve 55 puntos, ¿cuántas respuestas correctas tuve?",
+    "options": [
+      {"text": "20", "correct": true},
+      {"text": "18", "correct": false},
+      {"text": "22", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "24", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera el puntaje neto.",
+    "explanation": "Sistema: x + y = 25, 3x - y = 55. Resolviendo: x = 20 correctas, y = 5 incorrectas."
+  },
+  {
+    "question": "La diferencia de edad entre padre e hijo es 25 años. Dentro de 5 años, el padre tendrá el doble de edad que el hijo. ¿Qué edad tiene el hijo actualmente?",
+    "options": [
+      {"text": "20 años", "correct": true},
+      {"text": "15 años", "correct": false},
+      {"text": "25 años", "correct": false},
+      {"text": "18 años", "correct": false},
+      {"text": "22 años", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Plantea las ecuaciones considerando el tiempo futuro.",
+    "explanation": "Sistema: P - H = 25, P + 5 = 2(H + 5). Resolviendo: H = 20, P = 45."
+  },
+  {
+    "question": "Se mezclan dos tipos de café: uno de $6/kg y otro de $9/kg para obtener 40 kg de mezcla a $7/kg. ¿Cuántos kg del café más caro se usaron?",
+    "options": [
+      {"text": "13.33 kg", "correct": true},
+      {"text": "15 kg", "correct": false},
+      {"text": "10 kg", "correct": false},
+      {"text": "20 kg", "correct": false},
+      {"text": "12 kg", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "El costo total de la mezcla debe igualar la suma de los costos individuales.",
+    "explanation": "Sistema: x + y = 40, 6x + 9y = 7*40. Resolviendo: x = 26.67 kg, y = 13.33 kg."
+  },
+  {
+    "question": "Un rectángulo tiene perímetro 50 cm. Si su largo es 5 cm más que su ancho, ¿cuál es su área?",
+    "options": [
+      {"text": "150 cm²", "correct": true},
+      {"text": "120 cm²", "correct": false},
+      {"text": "175 cm²", "correct": false},
+      {"text": "200 cm²", "correct": false},
+      {"text": "100 cm²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el perímetro en términos del ancho.",
+    "explanation": "Sistema: 2x + 2y = 50, y = x + 5. Resolviendo: x = 10 cm, y = 15 cm. Área = 150 cm²."
+  },
+  {
+    "question": "Un tren recorre 400 km en cierto tiempo. Si su velocidad fuera 20 km/h mayor, tardaría 1 hora menos. ¿Cuál es su velocidad actual?",
+    "options": [
+      {"text": "80 km/h", "correct": true},
+      {"text": "60 km/h", "correct": false},
+      {"text": "100 km/h", "correct": false},
+      {"text": "90 km/h", "correct": false},
+      {"text": "70 km/h", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Relaciona tiempo, distancia y velocidad en ambos casos.",
+    "explanation": "Sistema: v*t = 400, (v+20)(t-1) = 400. Resolviendo: v = 80 km/h, t = 5 horas."
+  },
+  {
+    "question": "La suma de dos números es 65 y su diferencia es 15. ¿Cuál es el número menor?",
+    "options": [
+      {"text": "25", "correct": true},
+      {"text": "30", "correct": false},
+      {"text": "20", "correct": false},
+      {"text": "35", "correct": false},
+      {"text": "40", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Suma y resta las ecuaciones para aislar las variables.",
+    "explanation": "Sistema: x + y = 65, x - y = 15. Resolviendo: y = 25, x = 40."
+  },
+  {
+    "question": "Un examen tiene 30 preguntas. Las respuestas correctas valen 4 puntos y las incorrectas restan 2. Si obtuve 80 puntos, ¿cuántas respuestas fueron correctas?",
+    "options": [
+      {"text": "25", "correct": true},
+      {"text": "20", "correct": false},
+      {"text": "22", "correct": false},
+      {"text": "28", "correct": false},
+      {"text": "18", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera el puntaje neto y el total de preguntas.",
+    "explanation": "Sistema: x + y = 30, 4x - 2y = 80. Resolviendo: x = 25 correctas, y = 5 incorrectas."
+  },
+  {
+    "question": "Dos números están en relación 2:5. Si su suma es 91, ¿cuál es el número mayor?",
+    "options": [
+      {"text": "65", "correct": true},
+      {"text": "52", "correct": false},
+      {"text": "70", "correct": false},
+      {"text": "45", "correct": false},
+      {"text": "60", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa los números como múltiplos de una constante.",
+    "explanation": "Números 2k y 5k. Ecuación: 2k + 5k = 91 ⇒ k = 13. Mayor: 5*13 = 65."
+  },
+  {
+    "question": "Un comerciante compra 5 pantalones y 3 camisas por $430. Si 2 pantalones y 1 camisa cuestan $160, ¿cuánto cuesta cada camisa?",
+    "options": [
+      {"text": "$50", "correct": true},
+      {"text": "$40", "correct": false},
+      {"text": "$60", "correct": false},
+      {"text": "$55", "correct": false},
+      {"text": "$45", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Establece un sistema con ambas situaciones de compra.",
+    "explanation": "Sistema: 5p + 3c = 430, 2p + c = 160. Resolviendo: p = 35, c = 50."
+  },
+  {
+    "question": "La suma de las cifras de un número de dos dígitos es 9. Si se invierten las cifras, el número disminuye en 27. ¿Cuál es el número original?",
+    "options": [
+      {"text": "63", "correct": true},
+      {"text": "54", "correct": false},
+      {"text": "72", "correct": false},
+      {"text": "81", "correct": false},
+      {"text": "36", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el número como 10a + b.",
+    "explanation": "Sistema: a + b = 9, 10b + a = 10a + b - 27. Resolviendo: a = 6, b = 3. Número: 63."
+  },
+  {
+    "question": "Un terreno rectangular tiene 60 m de perímetro. Si su largo es el doble del ancho, ¿cuál es su área?",
+    "options": [
+      {"text": "200 m²", "correct": true},
+      {"text": "150 m²", "correct": false},
+      {"text": "250 m²", "correct": false},
+      {"text": "180 m²", "correct": false},
+      {"text": "220 m²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el perímetro en términos del ancho.",
+    "explanation": "Sistema: 2x + 2y = 60, y = 2x. Resolviendo: x = 10 m, y = 20 m. Área = 200 m²."
+  },
+  {
+    "question": "Se invierten $10,000: parte al 4% y parte al 6% anual. Si el interés total anual es $520, ¿cuánto se invirtió al 6%?",
+    "options": [
+      {"text": "$6,000", "correct": true},
+      {"text": "$5,000", "correct": false},
+      {"text": "$7,000", "correct": false},
+      {"text": "$4,500", "correct": false},
+      {"text": "$5,500", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "El interés total es la suma de los intereses parciales.",
+    "explanation": "Sistema: x + y = 10000, 0.04x + 0.06y = 520. Resolviendo: x = 4000, y = 6000."
+  },
+  {
+    "question": "Un ciclista recorre 120 km en cierto tiempo. Si su velocidad fuera 5 km/h menor, tardaría 2 horas más. ¿Cuál es su velocidad actual?",
+    "options": [
+      {"text": "20 km/h", "correct": true},
+      {"text": "15 km/h", "correct": false},
+      {"text": "25 km/h", "correct": false},
+      {"text": "18 km/h", "correct": false},
+      {"text": "22 km/h", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Relaciona tiempo y velocidad en ambos escenarios.",
+    "explanation": "Sistema: v*t = 120, (v-5)(t+2) = 120. Resolviendo: v = 20 km/h, t = 6 horas."
+  },
+  {
+    "question": "La suma de tres números pares consecutivos es 78. ¿Cuál es el número intermedio?",
+    "options": [
+      {"text": "26", "correct": true},
+      {"text": "24", "correct": false},
+      {"text": "28", "correct": false},
+      {"text": "22", "correct": false},
+      {"text": "30", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa los números en términos del central.",
+    "explanation": "Números: x-2, x, x+2. Ecuación: (x-2)+x+(x+2) = 78 ⇒ x = 26."
+  },
+  {
+    "question": "Un poste tiene 1/5 de su longitud enterrado, 2/3 en el aire y el resto en agua. Si la parte en agua mide 2 metros, ¿cuál es la altura total?",
+    "options": [
+      {"text": "15 metros", "correct": true},
+      {"text": "12 metros", "correct": false},
+      {"text": "18 metros", "correct": false},
+      {"text": "20 metros", "correct": false},
+      {"text": "10 metros", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "La suma de todas las partes debe ser el total.",
+    "explanation": "Sea x altura total. Ecuación: x/5 + 2x/3 + 2 = x ⇒ x = 15 metros."
+  },
+  {
+    "question": "Dos ciudades están separadas 480 km. Dos autos parten al mismo tiempo, uno hacia el otro. Si sus velocidades son 70 km/h y 50 km/h, ¿en cuánto tiempo se encontrarán?",
+    "options": [
+      {"text": "4 horas", "correct": true},
+      {"text": "5 horas", "correct": false},
+      {"text": "3 horas", "correct": false},
+      {"text": "6 horas", "correct": false},
+      {"text": "4.5 horas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "La suma de las distancias recorridas debe ser 480 km.",
+    "explanation": "Tiempo t: 70t + 50t = 480 ⇒ t = 4 horas."
+  },
+  {
+    "question": "Un número es 4 veces otro. Si su diferencia es 36, ¿cuál es el número menor?",
+    "options": [
+      {"text": "12", "correct": true},
+      {"text": "9", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "18", "correct": false},
+      {"text": "16", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa un número en función del otro.",
+    "explanation": "Sistema: x = 4y, x - y = 36. Resolviendo: y = 12, x = 48."
+  },
+  {
+    "question": "En un aula hay triple número de mujeres que de hombres. Si en total hay 48 estudiantes, ¿cuántos hombres hay?",
+    "options": [
+      {"text": "12", "correct": true},
+      {"text": "16", "correct": false},
+      {"text": "9", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "18", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "La relación entre mujeres y hombres es conocida.",
+    "explanation": "Sistema: m = 3h, m + h = 48. Resolviendo: h = 12, m = 36."
+  },
+  {
+    "question": "Un automóvil consume 12 litros cada 100 km. Si el precio de la gasolina es $1.20/litro, ¿cuánto costará recorrer 450 km?",
+    "options": [
+      {"text": "$64.80", "correct": true},
+      {"text": "$54.00", "correct": false},
+      {"text": "$72.00", "correct": false},
+      {"text": "$60.00", "correct": false},
+      {"text": "$48.60", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Calcula primero el consumo total de combustible.",
+    "explanation": "Consumo: (450/100)*12 = 54 litros. Costo: 54*1.20 = $64.80."
+  },
+  {
+    "question": "La suma de dos ángulos complementarios es 90°. Si uno es el doble del otro, ¿cuánto mide el ángulo menor?",
+    "options": [
+      {"text": "30°", "correct": true},
+      {"text": "25°", "correct": false},
+      {"text": "35°", "correct": false},
+      {"text": "40°", "correct": false},
+      {"text": "20°", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa un ángulo en función del otro.",
+    "explanation": "Sistema: x + y = 90, x = 2y. Resolviendo: y = 30°, x = 60°."
+  },
+  {
+    "question": "Un triángulo isósceles tiene perímetro 36 cm. Si los lados iguales miden 3 cm más que la base, ¿cuánto mide la base?",
+    "options": [
+      {"text": "10 cm", "correct": true},
+      {"text": "8 cm", "correct": false},
+      {"text": "12 cm", "correct": false},
+      {"text": "9 cm", "correct": false},
+      {"text": "11 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el perímetro en términos de la base.",
+    "explanation": "Sea x base, x+3 lados iguales. Ecuación: x + 2(x+3) = 36 ⇒ x = 10 cm."
+  },
+  {
+    "question": "Un reloj marca las 3:00. ¿Qué ángulo forman las manecillas?",
+    "options": [
+      {"text": "90°", "correct": true},
+      {"text": "60°", "correct": false},
+      {"text": "120°", "correct": false},
+      {"text": "75°", "correct": false},
+      {"text": "45°", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Cada hora representa 30° en el reloj.",
+    "explanation": "A las 3:00, la manecilla horaria está en 3 y la minutera en 12. Ángulo: 3*30° = 90°."
+  },
+  {
+    "question": "Dos grifos llenan un tanque en 4 horas. El primero solo lo llena en 6 horas. ¿Cuánto tardaría el segundo solo?",
+    "options": [
+      {"text": "12 horas", "correct": true},
+      {"text": "8 horas", "correct": false},
+      {"text": "10 horas", "correct": false},
+      {"text": "9 horas", "correct": false},
+      {"text": "15 horas", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera las tasas de llenado por hora.",
+    "explanation": "Sea x tiempo segundo grifo. Ecuación: 1/6 + 1/x = 1/4 ⇒ x = 12 horas."
+  },
+  {
+    "question": "Un número aumentado en su 20% es 60. ¿Cuál es el número original?",
+    "options": [
+      {"text": "50", "correct": true},
+      {"text": "48", "correct": false},
+      {"text": "55", "correct": false},
+      {"text": "45", "correct": false},
+      {"text": "52", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "El 120% del número es 60.",
+    "explanation": "Ecuación: 1.2x = 60 ⇒ x = 50."
+  },
+  {
+    "question": "La suma de dos números es 45. Si uno es 2/3 del otro, ¿cuál es el número mayor?",
+    "options": [
+      {"text": "27", "correct": true},
+      {"text": "24", "correct": false},
+      {"text": "30", "correct": false},
+      {"text": "18", "correct": false},
+      {"text": "36", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa un número en función del otro.",
+    "explanation": "Sistema: x + y = 45, x = (2/3)y. Resolviendo: y = 27, x = 18."
+  },
+  {
+    "question": "Un terreno cuadrado tiene área 169 m². ¿Cuánto mide su diagonal?",
+    "options": [
+      {"text": "13√2 m", "correct": true},
+      {"text": "13 m", "correct": false},
+      {"text": "26 m", "correct": false},
+      {"text": "10√3 m", "correct": false},
+      {"text": "15 m", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Primero encuentra el lado del cuadrado.",
+    "explanation": "Lado = √169 = 13 m. Diagonal = lado*√2 = 13√2 m."
+  },
+  {
+    "question": "Tres números consecutivos suman 63. ¿Cuál es el número intermedio?",
+    "options": [
+      {"text": "21", "correct": true},
+      {"text": "20", "correct": false},
+      {"text": "22", "correct": false},
+      {"text": "19", "correct": false},
+      {"text": "23", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa los números en términos del central.",
+    "explanation": "Números: x-1, x, x+1. Ecuación: (x-1)+x+(x+1) = 63 ⇒ x = 21."
+  },
+  {
+    "question": "Un rectángulo tiene área 72 cm². Si su largo es el doble del ancho, ¿cuánto mide el ancho?",
+    "options": [
+      {"text": "6 cm", "correct": true},
+      {"text": "5 cm", "correct": false},
+      {"text": "8 cm", "correct": false},
+      {"text": "7 cm", "correct": false},
+      {"text": "9 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Expresa el área en términos del ancho.",
+    "explanation": "Sea x ancho, 2x largo. Ecuación: x*2x = 72 ⇒ x = 6 cm."
+  },
+  {
+    "question": "Un avión recorre 1800 km en 3 horas con viento a favor. Con viento en contra, tarda 4 horas. ¿Cuál es la velocidad del avión sin viento?",
+    "options": [
+      {"text": "525 km/h", "correct": true},
+      {"text": "500 km/h", "correct": false},
+      {"text": "550 km/h", "correct": false},
+      {"text": "450 km/h", "correct": false},
+      {"text": "600 km/h", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Considera la velocidad del viento como una variable adicional.",
+    "explanation": "Sistema: (v + w)*3 = 1800, (v - w)*4 = 1800. Resolviendo: v = 525 km/h, w = 75 km/h."
   }
+]
 ]
