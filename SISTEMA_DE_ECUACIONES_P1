@@ -1,0 +1,206 @@
+[
+  {
+    "question": "Un estudiante compra 5 gafas y 5 relojes pagando un total de 75 pesos. Otro día, adquiere 6 gafas y 5 relojes y paga 84 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "9 y 6 pesos", "correct": true},
+      {"text": "11 y 5 pesos", "correct": false},
+      {"text": "8 y 9 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Dos compras distintas con los mismos productos",
+    "explanation": "El problema se resuelve planteando un sistema de dos ecuaciones con dos incógnitas, representando los costos de gafas y relojes."
+  },
+  {
+    "question": "Un estudiante compra 7 gafas y 10 relojes pagando un total de 128 pesos. Otro día, adquiere 1 gafas y 2 relojes y paga 24 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "10 y 7 pesos", "correct": true},
+      {"text": "11 y 6 pesos", "correct": false},
+      {"text": "9 y 10 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Dos compras distintas con los mismos productos",
+    "explanation": "El problema se resuelve planteando un sistema de dos ecuaciones con dos incógnitas, representando los costos de gafas y relojes."
+  },
+  {
+    "question": "Un estudiante compra 9 cuadernos y 2 plumas pagando un total de 40 pesos. Otro día, adquiere 3 cuadernos y 5 plumas y paga 29 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "4 y 3 pesos", "correct": true},
+      {"text": "6 y 2 pesos", "correct": false},
+      {"text": "3 y 5 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "El precio unitario es clave",
+    "explanation": "El precio de los cuadernos y plumas se determina resolviendo el sistema de ecuaciones formado por las dos compras."
+  },
+  {
+    "question": "Un estudiante compra 7 boletos de cine y 5 boletos de teatro pagando un total de 89 pesos. Otro día, adquiere 3 boletos de cine y 5 boletos de teatro y paga 65 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "6 y 7 pesos", "correct": true},
+      {"text": "8 y 5 pesos", "correct": false},
+      {"text": "9 y 6 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Los precios son distintos para cada tipo",
+    "explanation": "Se plantea un sistema de ecuaciones con las cantidades y costos de boletos para resolver los valores unitarios."
+  },
+  {
+    "question": "Un estudiante compra 10 manzanas y 5 peras pagando un total de 115 pesos. Otro día, adquiere 5 manzanas y 5 peras y paga 80 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "7 y 9 pesos", "correct": true},
+      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "6 y 10 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Usa reducción si las cantidades coinciden",
+    "explanation": "La reducción de ecuaciones permite encontrar el precio por kilo de manzanas y peras."
+  },
+  {
+    "question": "Un estudiante compra 3 camisetas y 2 pantalones pagando un total de 40 pesos. Otro día, adquiere 4 camisetas y 3 pantalones y paga 55 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "8 y 8 pesos", "correct": true},
+      {"text": "9 y 7 pesos", "correct": false},
+      {"text": "10 y 6 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Observa las proporciones",
+    "explanation": "Las cantidades permiten resolver el sistema por sustitución o igualación."
+  },
+  {
+    "question": "Un estudiante compra 6 gafas y 7 relojes pagando un total de 102 pesos. Otro día, adquiere 5 gafas y 6 relojes y paga 85 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "6 y 8 pesos", "correct": true},
+      {"text": "7 y 7 pesos", "correct": false},
+      {"text": "5 y 9 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Busca simplificar las ecuaciones",
+    "explanation": "El sistema se puede resolver por igualación o determinantes para obtener los precios unitarios."
+  },
+  {
+    "question": "Un estudiante compra 2 cuadernos y 5 plumas pagando un total de 29 pesos. Otro día, adquiere 4 cuadernos y 3 plumas y paga 31 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "5 y 3 pesos", "correct": true},
+      {"text": "4 y 5 pesos", "correct": false},
+      {"text": "6 y 2 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Busca aislar una variable",
+    "explanation": "Al despejar una variable se puede sustituir en la otra ecuación y hallar ambas incógnitas."
+  },
+  {
+    "question": "Un estudiante compra 3 boletos de cine y 4 boletos de teatro pagando un total de 54 pesos. Otro día, adquiere 2 boletos de cine y 5 boletos de teatro y paga 55 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "6 y 9 pesos", "correct": true},
+      {"text": "5 y 10 pesos", "correct": false},
+      {"text": "7 y 8 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Reescribe ambas ecuaciones y elimina una incógnita",
+    "explanation": "Usar el método de eliminación facilita hallar el precio de cada boleto."
+  },
+  {
+    "question": "Un estudiante compra 4 manzanas y 2 peras pagando un total de 34 pesos. Otro día, adquiere 3 manzanas y 3 peras y paga 36 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "7 y 5 pesos", "correct": true},
+      {"text": "6 y 6 pesos", "correct": false},
+      {"text": "8 y 4 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Los coeficientes permiten simplificar",
+    "explanation": "Al multiplicar y restar ecuaciones se puede encontrar el valor de cada fruta."
+  },
+  {
+    "question": "Un estudiante compra 3 camisetas y 5 pantalones pagando un total de 61 pesos. Otro día, adquiere 2 camisetas y 4 pantalones y paga 46 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "7 y 8 pesos", "correct": true},
+      {"text": "6 y 9 pesos", "correct": false},
+      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Busca proporciones similares",
+    "explanation": "Multiplicando las ecuaciones puedes anular una incógnita y resolver."
+  },
+  {
+    "question": "Un estudiante compra 5 gafas y 3 relojes pagando un total de 69 pesos. Otro día, adquiere 2 gafas y 2 relojes y paga 36 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "9 y 6 pesos", "correct": true},
+      {"text": "10 y 5 pesos", "correct": false},
+      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Busca simplificar los coeficientes",
+    "explanation": "El método de igualación permite hallar fácilmente las variables."
+  },
+  {
+    "question": "Un estudiante compra 6 cuadernos y 2 plumas pagando un total de 44 pesos. Otro día, adquiere 3 cuadernos y 5 plumas y paga 41 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "6 y 3 pesos", "correct": true},
+      {"text": "5 y 4 pesos", "correct": false},
+      {"text": "7 y 2 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Prueba sustitución para resolverlo",
+    "explanation": "Despejar una variable ayuda a resolver la otra ecuación fácilmente."
+  },
+  {
+    "question": "Un estudiante compra 2 camisetas y 4 pantalones pagando un total de 48 pesos. Otro día, adquiere 4 camisetas y 1 pantalón y paga 38 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "7 y 9 pesos", "correct": true},
+      {"text": "6 y 10 pesos", "correct": false},
+      {"text": "8 y 8 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Observa la variación de cantidades",
+    "explanation": "El sistema puede resolverse comparando el cambio en cantidades y precios."
+  },
+  {
+    "question": "Un estudiante compra 3 boletos de cine y 2 boletos de teatro pagando un total de 36 pesos. Otro día, adquiere 2 boletos de cine y 3 boletos de teatro y paga 39 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "8 y 6 pesos", "correct": true},
+      {"text": "9 y 5 pesos", "correct": false},
+      {"text": "7 y 7 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Compara los cambios de cantidades",
+    "explanation": "La técnica de igualación permite resolver el sistema con claridad."
+  },
+  {
+    "question": "Un estudiante compra 4 manzanas y 3 peras pagando un total de 43 pesos. Otro día, adquiere 5 manzanas y 2 peras y paga 46 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "7 y 5 pesos", "correct": true},
+      {"text": "8 y 4 pesos", "correct": false},
+      {"text": "6 y 6 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Suma o resta las ecuaciones",
+    "explanation": "Con operaciones básicas se puede hallar el valor de ambas frutas."
+  },
+  {
+    "question": "Un estudiante compra 6 gafas y 3 relojes pagando un total de 72 pesos. Otro día, adquiere 2 gafas y 6 relojes y paga 66 pesos. ¿Cuánto cuesta cada uno respectivamente?",
+    "options": [
+      {"text": "9 y 6 pesos", "correct": true},
+      {"text": "10 y 5 pesos", "correct": false},
+      {"text": "8 y 7 pesos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["SISTEMAS_2X2"],
+    "hint": "Busca qué variable es más fácil eliminar",
+    "explanation": "Una ecuación puede multiplicarse para anular una incógnita y resolver."
+  }
+]
