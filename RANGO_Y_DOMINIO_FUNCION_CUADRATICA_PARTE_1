@@ -8,7 +8,7 @@
       {"text": "Solo números positivos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Las funciones cuadráticas tienen un comportamiento particular en su dominio.",
     "explanation": "Las funciones cuadráticas están definidas para todos los números reales, sin restricciones."
   },
@@ -34,7 +34,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque le falte el término lineal, sigue siendo una función cuadrática definida para todos los reales."
   },
@@ -60,7 +60,7 @@
       {"text": "-3 ≤ x ≤ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Aunque tenga intersecciones con el eje x, el dominio no se restringe.",
     "explanation": "Las funciones polinómicas, incluyendo las cuadráticas, están definidas para todos los números reales."
   },
@@ -86,7 +86,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "El coeficiente fraccionario no afecta el dominio.",
     "explanation": "Independientemente de los coeficientes, las funciones cuadráticas siempre tienen dominio en todos los reales."
   },
@@ -112,7 +112,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es la forma más simple de función cuadrática.",
     "explanation": "Esta función cuadrática básica no tiene restricciones en su dominio."
   },
@@ -138,7 +138,7 @@
       {"text": "x ≠ -6", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una parábola que toca el eje x en un solo punto.",
     "explanation": "Aunque sea una parábola que toca el eje x en x=-3, el dominio sigue siendo todos los reales."
   },
@@ -164,7 +164,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Falta el término lineal en esta función.",
     "explanation": "Las funciones cuadráticas incompletas también tienen dominio en todos los reales."
   },
@@ -190,7 +190,7 @@
       {"text": "x ≠ -5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Los coeficientes fraccionarios no afectan el dominio.",
     "explanation": "Independientemente de los coeficientes, el dominio de las funciones cuadráticas siempre son todos los reales."
   },
@@ -216,7 +216,7 @@
       {"text": "0.2 ≤ x ≤ 1.8", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "El signo negativo no afecta el dominio.",
     "explanation": "Aunque la parábola abra hacia abajo, el dominio sigue siendo todos los números reales."
   },
@@ -242,7 +242,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una función cuadrática desplazada hacia arriba.",
     "explanation": "Al no tener raíces reales, podría confundirse, pero el dominio sigue siendo todos los reales."
   },
@@ -268,7 +268,7 @@
       {"text": "1 ≤ x ≤ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Los coeficientes decimales no cambian el dominio.",
     "explanation": "Las funciones cuadráticas con coeficientes decimales siguen teniendo dominio en todos los reales."
   },
@@ -294,7 +294,7 @@
       {"text": "x ≠ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una parábola que toca el eje x en su vértice.",
     "explanation": "Aunque la función toque el eje x en x=2, el dominio no se restringe."
   },
@@ -320,7 +320,7 @@
       {"text": "x ≠ 5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es un cuadrado perfecto.",
     "explanation": "Aunque sea (x-5)² y toque el eje x en x=5, el dominio sigue siendo todos los reales."
   },
@@ -346,7 +346,7 @@
       {"text": "-2 ≤ x ≤ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque tenga raíces en x=±2, el dominio no se ve afectado."
   },
@@ -372,7 +372,7 @@
       {"text": "x ≠ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una parábola que toca el eje x en su vértice.",
     "explanation": "Aunque toque el eje x en x=2, el dominio sigue siendo todos los reales."
   },
@@ -398,7 +398,7 @@
       {"text": "x ≠ -1.5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es un cuadrado perfecto con coeficiente fraccionario.",
     "explanation": "Aunque sea (x+1.5)², el dominio sigue siendo todos los reales."
   },
@@ -424,7 +424,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "El coeficiente fraccionario no afecta el dominio.",
     "explanation": "Las funciones cuadráticas con coeficientes fraccionarios mantienen su dominio en todos los reales."
   },
@@ -450,7 +450,7 @@
       {"text": "x ≠ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una parábola que toca el eje x en un punto.",
     "explanation": "Aunque sea -(x-2)², el dominio sigue siendo todos los reales."
   },
@@ -476,7 +476,7 @@
       {"text": "x ≠ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es un cuadrado perfecto con coeficiente.",
     "explanation": "Aunque sea 4(x-3)², el dominio sigue siendo todos los reales."
   },
@@ -502,7 +502,7 @@
       {"text": "x ≠ 4", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es un cuadrado perfecto.",
     "explanation": "Aunque sea (x-4)², el dominio sigue siendo todos los reales."
   },
@@ -528,7 +528,7 @@
       {"text": "x ≠ -5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es un cuadrado perfecto con signo negativo.",
     "explanation": "Aunque sea -(x+5)², el dominio sigue siendo todos los reales."
   },
@@ -554,7 +554,7 @@
       {"text": "-3 ≤ x ≤ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque tenga raíces en x=±3, el dominio no se restringe."
   },
@@ -580,7 +580,7 @@
       {"text": "1 ≤ x ≤ 1.5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Los coeficientes decimales no afectan el dominio.",
     "explanation": "Las funciones cuadráticas con coeficientes decimales mantienen su dominio en todos los reales."
   },
@@ -606,7 +606,7 @@
       {"text": "x ≠ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una parábola que toca el eje x en su vértice.",
     "explanation": "Aunque sea -(x-3)², el dominio sigue siendo todos los reales."
   },
@@ -632,7 +632,7 @@
       {"text": "x ≠ -1", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Esta función no tiene raíces reales.",
     "explanation": "Al no tener raíces reales, podría confundirse, pero el dominio sigue siendo todos los reales."
   },
@@ -658,7 +658,7 @@
       {"text": "-2 ≤ x ≤ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO""],
+    "tags": ["GENERAL", "DOMINIO"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque tenga raíces en x=±2, el dominio no se ve afectado."
   },
