@@ -8,7 +8,7 @@
       {"text": "Solo números positivos", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Las funciones cuadráticas tienen un comportamiento particular en su dominio.",
     "explanation": "Las funciones cuadráticas están definidas para todos los números reales, sin restricciones."
   },
@@ -21,7 +21,7 @@
       {"text": "[5, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Considera la dirección de la parábola y su vértice.",
     "explanation": "Como el coeficiente de x² es negativo, la parábola abre hacia abajo. El vértice está en (2,7), por lo que el rango es todos los números reales menores o iguales a 7."
   },
@@ -34,7 +34,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque le falte el término lineal, sigue siendo una función cuadrática definida para todos los reales."
   },
@@ -47,7 +47,7 @@
       {"text": "(-∞, 1]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Encuentra el vértice de la parábola.",
     "explanation": "El vértice está en (2, -3) y como abre hacia arriba, el rango va desde -3 hasta infinito."
   },
@@ -60,7 +60,7 @@
       {"text": "-3 ≤ x ≤ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Aunque tenga intersecciones con el eje x, el dominio no se restringe.",
     "explanation": "Las funciones polinómicas, incluyendo las cuadráticas, están definidas para todos los números reales."
   },
@@ -73,7 +73,7 @@
       {"text": "(-∞, 23]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (-2, 3) y como abre hacia arriba, el rango comienza en 3 y va hasta infinito."
   },
@@ -86,7 +86,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente fraccionario no afecta el dominio.",
     "explanation": "Independientemente de los coeficientes, las funciones cuadráticas siempre tienen dominio en todos los reales."
   },
@@ -99,7 +99,7 @@
       {"text": "[11, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola abre hacia abajo y tiene un máximo.",
     "explanation": "El vértice está en (2, -3), por lo que el valor máximo de la función es -3 y el rango va desde menos infinito hasta -3."
   },
@@ -112,7 +112,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es la forma más simple de función cuadrática.",
     "explanation": "Esta función cuadrática básica no tiene restricciones en su dominio."
   },
@@ -125,7 +125,7 @@
       {"text": "(-∞, 19]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (2, 3) y como la parábola abre hacia arriba, el rango comienza en 3."
   },
@@ -138,7 +138,7 @@
       {"text": "x ≠ -6", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una parábola que toca el eje x en un solo punto.",
     "explanation": "Aunque sea una parábola que toca el eje x en x=-3, el dominio sigue siendo todos los reales."
   },
@@ -151,7 +151,7 @@
       {"text": "(-∞, 28]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El término independiente no es el mínimo.",
     "explanation": "El vértice está en (-5, 3), por lo que el rango comienza en 3 y va hasta infinito."
   },
@@ -164,7 +164,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Falta el término lineal en esta función.",
     "explanation": "Las funciones cuadráticas incompletas también tienen dominio en todos los reales."
   },
@@ -177,7 +177,7 @@
       {"text": "[8, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es negativo.",
     "explanation": "El vértice está en (1, 9), por lo que el valor máximo de la función es 9 y el rango va desde menos infinito hasta 9."
   },
@@ -190,7 +190,7 @@
       {"text": "x ≠ -5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Los coeficientes fraccionarios no afectan el dominio.",
     "explanation": "Independientemente de los coeficientes, el dominio de las funciones cuadráticas siempre son todos los reales."
   },
@@ -203,7 +203,7 @@
       {"text": "(-∞, 20]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (3, 2), por lo que el valor mínimo es 2 y el rango va desde 2 hasta infinito."
   },
@@ -216,7 +216,7 @@
       {"text": "0.2 ≤ x ≤ 1.8", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "El signo negativo no afecta el dominio.",
     "explanation": "Aunque la parábola abra hacia abajo, el dominio sigue siendo todos los números reales."
   },
@@ -229,7 +229,7 @@
       {"text": "(-∞, 10]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (3, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
   },
@@ -242,7 +242,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una función cuadrática desplazada hacia arriba.",
     "explanation": "Al no tener raíces reales, podría confundirse, pero el dominio sigue siendo todos los reales."
   },
@@ -255,7 +255,7 @@
       {"text": "[-15, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola tiene un máximo, no un mínimo.",
     "explanation": "El vértice está en (2, 1), por lo que el valor máximo es 1 y el rango va hasta menos infinito."
   },
@@ -268,7 +268,7 @@
       {"text": "1 ≤ x ≤ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Los coeficientes decimales no cambian el dominio.",
     "explanation": "Las funciones cuadráticas con coeficientes decimales siguen teniendo dominio en todos los reales."
   },
@@ -281,7 +281,7 @@
       {"text": "(-∞, 5]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (1, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
   },
@@ -294,7 +294,7 @@
       {"text": "x ≠ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una parábola que toca el eje x en su vértice.",
     "explanation": "Aunque la función toque el eje x en x=2, el dominio no se restringe."
   },
@@ -307,7 +307,7 @@
       {"text": "(-∞, 17]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (-4, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
   },
@@ -320,7 +320,7 @@
       {"text": "x ≠ 5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es un cuadrado perfecto.",
     "explanation": "Aunque sea (x-5)² y toque el eje x en x=5, el dominio sigue siendo todos los reales."
   },
@@ -333,7 +333,7 @@
       {"text": "[2, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola abre hacia abajo.",
     "explanation": "El vértice está en (-2, 6), por lo que el valor máximo es 6 y el rango va hasta menos infinito."
   },
@@ -346,7 +346,7 @@
       {"text": "-2 ≤ x ≤ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque tenga raíces en x=±2, el dominio no se ve afectado."
   },
@@ -359,7 +359,7 @@
       {"text": "(-∞, 19]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (-3, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
   },
@@ -372,7 +372,7 @@
       {"text": "x ≠ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una parábola que toca el eje x en su vértice.",
     "explanation": "Aunque toque el eje x en x=2, el dominio sigue siendo todos los reales."
   },
@@ -385,7 +385,7 @@
       {"text": "(-∞, 5]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (1, 4), por lo que el valor mínimo es 4 y el rango comienza ahí."
   },
@@ -398,7 +398,7 @@
       {"text": "x ≠ -1.5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es un cuadrado perfecto con coeficiente fraccionario.",
     "explanation": "Aunque sea (x+1.5)², el dominio sigue siendo todos los reales."
   },
@@ -411,7 +411,7 @@
       {"text": "[1, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola abre hacia abajo.",
     "explanation": "El vértice está en (1, 3), por lo que el valor máximo es 3 y el rango va hasta menos infinito."
   },
@@ -424,7 +424,7 @@
       {"text": "x ≠ 0", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente fraccionario no afecta el dominio.",
     "explanation": "Las funciones cuadráticas con coeficientes fraccionarios mantienen su dominio en todos los reales."
   },
@@ -437,7 +437,7 @@
       {"text": "(-∞, 13]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (2, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
   },
@@ -450,7 +450,7 @@
       {"text": "x ≠ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una parábola que toca el eje x en un punto.",
     "explanation": "Aunque sea -(x-2)², el dominio sigue siendo todos los reales."
   },
@@ -463,7 +463,7 @@
       {"text": "(-∞, 11]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (-3, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
   },
@@ -476,7 +476,7 @@
       {"text": "x ≠ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es un cuadrado perfecto con coeficiente.",
     "explanation": "Aunque sea 4(x-3)², el dominio sigue siendo todos los reales."
   },
@@ -489,7 +489,7 @@
       {"text": "[3, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola abre hacia abajo.",
     "explanation": "El vértice está en (1, 4), por lo que el valor máximo es 4 y el rango va hasta menos infinito."
   },
@@ -502,7 +502,7 @@
       {"text": "x ≠ 4", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es un cuadrado perfecto.",
     "explanation": "Aunque sea (x-4)², el dominio sigue siendo todos los reales."
   },
@@ -515,7 +515,7 @@
       {"text": "(-∞, 34]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (4, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
   },
@@ -528,7 +528,7 @@
       {"text": "x ≠ -5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es un cuadrado perfecto con signo negativo.",
     "explanation": "Aunque sea -(x+5)², el dominio sigue siendo todos los reales."
   },
@@ -541,7 +541,7 @@
       {"text": "(-∞, 7]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (2, 3), por lo que el valor mínimo es 3 y el rango comienza ahí."
   },
@@ -554,7 +554,7 @@
       {"text": "-3 ≤ x ≤ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque tenga raíces en x=±3, el dominio no se restringe."
   },
@@ -567,7 +567,7 @@
       {"text": "[-27, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola abre hacia abajo.",
     "explanation": "El vértice está en (3, 0), por lo que el valor máximo es 0 y el rango va hasta menos infinito."
   },
@@ -580,7 +580,7 @@
       {"text": "1 ≤ x ≤ 1.5", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Los coeficientes decimales no afectan el dominio.",
     "explanation": "Las funciones cuadráticas con coeficientes decimales mantienen su dominio en todos los reales."
   },
@@ -593,7 +593,7 @@
       {"text": "(-∞, 40]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (-6, 4), por lo que el valor mínimo es 4 y el rango comienza ahí."
   },
@@ -606,7 +606,7 @@
       {"text": "x ≠ 3", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una parábola que toca el eje x en su vértice.",
     "explanation": "Aunque sea -(x-3)², el dominio sigue siendo todos los reales."
   },
@@ -619,7 +619,7 @@
       {"text": "(-∞, 7]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "El coeficiente de x² es positivo.",
     "explanation": "El vértice está en (1, 3), por lo que el valor mínimo es 3 y el rango comienza ahí."
   },
@@ -632,7 +632,7 @@
       {"text": "x ≠ -1", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Esta función no tiene raíces reales.",
     "explanation": "Al no tener raíces reales, podría confundirse, pero el dominio sigue siendo todos los reales."
   },
@@ -645,7 +645,7 @@
       {"text": "[-18, ∞)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "La parábola abre hacia abajo.",
     "explanation": "El vértice está en (3, 0), por lo que el valor máximo es 0 y el rango va hasta menos infinito."
   },
@@ -658,7 +658,7 @@
       {"text": "-2 ≤ x ≤ 2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "DOMINIO"],
+    "tags": ["GENERAL"],
     "hint": "Es una función cuadrática incompleta.",
     "explanation": "Aunque tenga raíces en x=±2, el dominio no se ve afectado."
   },
@@ -671,7 +671,7 @@
       {"text": "(-∞, 27]", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["GENERAL", "RANGO"],
+    "tags": ["GENERAL"],
     "hint": "Completa el cuadrado para encontrar el vértice.",
     "explanation": "El vértice está en (5, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
   }
