@@ -1,0 +1,678 @@
+[
+  {
+    "question": "Determina el dominio de la función f(x) = x² + 5x + 6",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ -5", "correct": false},
+      {"text": "x ≤ 6", "correct": false},
+      {"text": "Solo números positivos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Las funciones cuadráticas tienen un comportamiento particular en su dominio.",
+    "explanation": "Las funciones cuadráticas están definidas para todos los números reales, sin restricciones."
+  },
+  {
+    "question": "Encuentra el rango de la función f(x) = -3x² + 12x - 5",
+    "options": [
+      {"text": "(-∞, 7]", "correct": true},
+      {"text": "[7, ∞)", "correct": false},
+      {"text": "(-∞, 5]", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Considera la dirección de la parábola y su vértice.",
+    "explanation": "Como el coeficiente de x² es negativo, la parábola abre hacia abajo. El vértice está en (2,7), por lo que el rango es todos los números reales menores o iguales a 7."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = 2x² - 8?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x ≤ -8", "correct": false},
+      {"text": "x ≠ 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una función cuadrática incompleta.",
+    "explanation": "Aunque le falte el término lineal, sigue siendo una función cuadrática definida para todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = x² - 4x + 1",
+    "options": [
+      {"text": "[-3, ∞)", "correct": true},
+      {"text": "(-∞, -3]", "correct": false},
+      {"text": "[1, ∞)", "correct": false},
+      {"text": "(-∞, 1]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Encuentra el vértice de la parábola.",
+    "explanation": "El vértice está en (2, -3) y como abre hacia arriba, el rango va desde -3 hasta infinito."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = -x² + 9?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ 9", "correct": false},
+      {"text": "x ≥ -9", "correct": false},
+      {"text": "-3 ≤ x ≤ 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Aunque tenga intersecciones con el eje x, el dominio no se restringe.",
+    "explanation": "Las funciones polinómicas, incluyendo las cuadráticas, están definidas para todos los números reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = 5x² + 20x + 23",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "[23, ∞)", "correct": false},
+      {"text": "(-∞, 23]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (-2, 3) y como abre hacia arriba, el rango comienza en 3 y va hasta infinito."
+  },
+  {
+    "question": "Determina el dominio de f(x) = ½x² - 3x + 4",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x ≠ 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "El coeficiente fraccionario no afecta el dominio.",
+    "explanation": "Independientemente de los coeficientes, las funciones cuadráticas siempre tienen dominio en todos los reales."
+  },
+  {
+    "question": "¿Cuál es el rango de f(x) = -2x² + 8x - 11?",
+    "options": [
+      {"text": "(-∞, -3]", "correct": true},
+      {"text": "[-3, ∞)", "correct": false},
+      {"text": "(-∞, 11]", "correct": false},
+      {"text": "[11, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola abre hacia abajo y tiene un máximo.",
+    "explanation": "El vértice está en (2, -3), por lo que el valor máximo de la función es -3 y el rango va desde menos infinito hasta -3."
+  },
+  {
+    "question": "Determina el dominio de f(x) = x² + 1",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 1", "correct": false},
+      {"text": "x ≤ 1", "correct": false},
+      {"text": "x ≠ 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es la forma más simple de función cuadrática.",
+    "explanation": "Esta función cuadrática básica no tiene restricciones en su dominio."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = 4x² - 16x + 19",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "[19, ∞)", "correct": false},
+      {"text": "(-∞, 19]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (2, 3) y como la parábola abre hacia arriba, el rango comienza en 3."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = -x² - 6x - 9?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ -3", "correct": false},
+      {"text": "x ≥ -9", "correct": false},
+      {"text": "x ≠ -6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una parábola que toca el eje x en un solo punto.",
+    "explanation": "Aunque sea una parábola que toca el eje x en x=-3, el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = x² + 10x + 28",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "[28, ∞)", "correct": false},
+      {"text": "(-∞, 28]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El término independiente no es el mínimo.",
+    "explanation": "El vértice está en (-5, 3), por lo que el rango comienza en 3 y va hasta infinito."
+  },
+  {
+    "question": "Determina el dominio de f(x) = 3x² - 12",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x ≤ -12", "correct": false},
+      {"text": "x ≠ 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Falta el término lineal en esta función.",
+    "explanation": "Las funciones cuadráticas incompletas también tienen dominio en todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = -x² + 2x + 8",
+    "options": [
+      {"text": "(-∞, 9]", "correct": true},
+      {"text": "[9, ∞)", "correct": false},
+      {"text": "(-∞, 8]", "correct": false},
+      {"text": "[8, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es negativo.",
+    "explanation": "El vértice está en (1, 9), por lo que el valor máximo de la función es 9 y el rango va desde menos infinito hasta 9."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = ¼x² + 2x - 5?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ -4", "correct": false},
+      {"text": "x ≤ 5", "correct": false},
+      {"text": "x ≠ -5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Los coeficientes fraccionarios no afectan el dominio.",
+    "explanation": "Independientemente de los coeficientes, el dominio de las funciones cuadráticas siempre son todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = 2x² - 12x + 20",
+    "options": [
+      {"text": "[2, ∞)", "correct": true},
+      {"text": "(-∞, 2]", "correct": false},
+      {"text": "[20, ∞)", "correct": false},
+      {"text": "(-∞, 20]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (3, 2), por lo que el valor mínimo es 2 y el rango va desde 2 hasta infinito."
+  },
+  {
+    "question": "Determina el dominio de f(x) = -5x² + 10x - 3",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ 1", "correct": false},
+      {"text": "x ≥ -3", "correct": false},
+      {"text": "0.2 ≤ x ≤ 1.8", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "El signo negativo no afecta el dominio.",
+    "explanation": "Aunque la parábola abra hacia abajo, el dominio sigue siendo todos los números reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = x² - 6x + 10",
+    "options": [
+      {"text": "[1, ∞)", "correct": true},
+      {"text": "(-∞, 1]", "correct": false},
+      {"text": "[10, ∞)", "correct": false},
+      {"text": "(-∞, 10]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (3, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = x² + 4?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "x ≤ 4", "correct": false},
+      {"text": "x ≠ 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una función cuadrática desplazada hacia arriba.",
+    "explanation": "Al no tener raíces reales, podría confundirse, pero el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = -4x² + 16x - 15",
+    "options": [
+      {"text": "(-∞, 1]", "correct": true},
+      {"text": "[1, ∞)", "correct": false},
+      {"text": "(-∞, -15]", "correct": false},
+      {"text": "[-15, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola tiene un máximo, no un mínimo.",
+    "explanation": "El vértice está en (2, 1), por lo que el valor máximo es 1 y el rango va hasta menos infinito."
+  },
+  {
+    "question": "Determina el dominio de f(x) = 0.5x² - 2x + 3",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "1 ≤ x ≤ 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Los coeficientes decimales no cambian el dominio.",
+    "explanation": "Las funciones cuadráticas con coeficientes decimales siguen teniendo dominio en todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = 3x² - 6x + 5",
+    "options": [
+      {"text": "[2, ∞)", "correct": true},
+      {"text": "(-∞, 2]", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "(-∞, 5]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (1, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = -2x² + 8x - 8?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ 2", "correct": false},
+      {"text": "x ≥ -8", "correct": false},
+      {"text": "x ≠ 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una parábola que toca el eje x en su vértice.",
+    "explanation": "Aunque la función toque el eje x en x=2, el dominio no se restringe."
+  },
+  {
+    "question": "Determina el rango de f(x) = x² + 8x + 17",
+    "options": [
+      {"text": "[1, ∞)", "correct": true},
+      {"text": "(-∞, 1]", "correct": false},
+      {"text": "[17, ∞)", "correct": false},
+      {"text": "(-∞, 17]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (-4, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
+  },
+  {
+    "question": "Determina el dominio de f(x) = x² - 10x + 25",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 5", "correct": false},
+      {"text": "x ≤ 25", "correct": false},
+      {"text": "x ≠ 5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es un cuadrado perfecto.",
+    "explanation": "Aunque sea (x-5)² y toque el eje x en x=5, el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = -x² - 4x + 2",
+    "options": [
+      {"text": "(-∞, 6]", "correct": true},
+      {"text": "[6, ∞)", "correct": false},
+      {"text": "(-∞, 2]", "correct": false},
+      {"text": "[2, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola abre hacia abajo.",
+    "explanation": "El vértice está en (-2, 6), por lo que el valor máximo es 6 y el rango va hasta menos infinito."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = 4x² - 16?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x ≤ -16", "correct": false},
+      {"text": "-2 ≤ x ≤ 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una función cuadrática incompleta.",
+    "explanation": "Aunque tenga raíces en x=±2, el dominio no se ve afectado."
+  },
+  {
+    "question": "Determina el rango de f(x) = 2x² + 12x + 19",
+    "options": [
+      {"text": "[1, ∞)", "correct": true},
+      {"text": "(-∞, 1]", "correct": false},
+      {"text": "[19, ∞)", "correct": false},
+      {"text": "(-∞, 19]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (-3, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
+  },
+  {
+    "question": "Determina el dominio de f(x) = -3x² + 12x - 12",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ 2", "correct": false},
+      {"text": "x ≥ -12", "correct": false},
+      {"text": "x ≠ 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una parábola que toca el eje x en su vértice.",
+    "explanation": "Aunque toque el eje x en x=2, el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = x² - 2x + 5",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "[5, ∞)", "correct": false},
+      {"text": "(-∞, 5]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (1, 4), por lo que el valor mínimo es 4 y el rango comienza ahí."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = x² + 3x + 9/4?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ -1.5", "correct": false},
+      {"text": "x ≤ 2.25", "correct": false},
+      {"text": "x ≠ -1.5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es un cuadrado perfecto con coeficiente fraccionario.",
+    "explanation": "Aunque sea (x+1.5)², el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = -2x² + 4x + 1",
+    "options": [
+      {"text": "(-∞, 3]", "correct": true},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "(-∞, 1]", "correct": false},
+      {"text": "[1, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola abre hacia abajo.",
+    "explanation": "El vértice está en (1, 3), por lo que el valor máximo es 3 y el rango va hasta menos infinito."
+  },
+  {
+    "question": "Determina el dominio de f(x) = ½x² + x - 3",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ -1", "correct": false},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x ≠ 0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "El coeficiente fraccionario no afecta el dominio.",
+    "explanation": "Las funciones cuadráticas con coeficientes fraccionarios mantienen su dominio en todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = 3x² - 12x + 13",
+    "options": [
+      {"text": "[1, ∞)", "correct": true},
+      {"text": "(-∞, 1]", "correct": false},
+      {"text": "[13, ∞)", "correct": false},
+      {"text": "(-∞, 13]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (2, 1), por lo que el valor mínimo es 1 y el rango comienza ahí."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = -x² + 4x - 4?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ 2", "correct": false},
+      {"text": "x ≥ -4", "correct": false},
+      {"text": "x ≠ 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una parábola que toca el eje x en un punto.",
+    "explanation": "Aunque sea -(x-2)², el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = x² + 6x + 11",
+    "options": [
+      {"text": "[2, ∞)", "correct": true},
+      {"text": "(-∞, 2]", "correct": false},
+      {"text": "[11, ∞)", "correct": false},
+      {"text": "(-∞, 11]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (-3, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
+  },
+  {
+    "question": "Determina el dominio de f(x) = 4x² - 24x + 36",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "x ≤ 36", "correct": false},
+      {"text": "x ≠ 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es un cuadrado perfecto con coeficiente.",
+    "explanation": "Aunque sea 4(x-3)², el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = -x² + 2x + 3",
+    "options": [
+      {"text": "(-∞, 4]", "correct": true},
+      {"text": "[4, ∞)", "correct": false},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "[3, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola abre hacia abajo.",
+    "explanation": "El vértice está en (1, 4), por lo que el valor máximo es 4 y el rango va hasta menos infinito."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = x² - 8x + 16?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 4", "correct": false},
+      {"text": "x ≤ 16", "correct": false},
+      {"text": "x ≠ 4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es un cuadrado perfecto.",
+    "explanation": "Aunque sea (x-4)², el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = 2x² - 16x + 34",
+    "options": [
+      {"text": "[2, ∞)", "correct": true},
+      {"text": "(-∞, 2]", "correct": false},
+      {"text": "[34, ∞)", "correct": false},
+      {"text": "(-∞, 34]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (4, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
+  },
+  {
+    "question": "Determina el dominio de f(x) = -x² - 10x - 25",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ -5", "correct": false},
+      {"text": "x ≥ -25", "correct": false},
+      {"text": "x ≠ -5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es un cuadrado perfecto con signo negativo.",
+    "explanation": "Aunque sea -(x+5)², el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = x² - 4x + 7",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "[7, ∞)", "correct": false},
+      {"text": "(-∞, 7]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (2, 3), por lo que el valor mínimo es 3 y el rango comienza ahí."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = 3x² - 27?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 3", "correct": false},
+      {"text": "x ≤ -27", "correct": false},
+      {"text": "-3 ≤ x ≤ 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una función cuadrática incompleta.",
+    "explanation": "Aunque tenga raíces en x=±3, el dominio no se restringe."
+  },
+  {
+    "question": "Determina el rango de f(x) = -3x² + 18x - 27",
+    "options": [
+      {"text": "(-∞, 0]", "correct": true},
+      {"text": "[0, ∞)", "correct": false},
+      {"text": "(-∞, -27]", "correct": false},
+      {"text": "[-27, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola abre hacia abajo.",
+    "explanation": "El vértice está en (3, 0), por lo que el valor máximo es 0 y el rango va hasta menos infinito."
+  },
+  {
+    "question": "Determina el dominio de f(x) = 0.2x² - x + 1.25",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 2.5", "correct": false},
+      {"text": "x ≤ 1.25", "correct": false},
+      {"text": "1 ≤ x ≤ 1.5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Los coeficientes decimales no afectan el dominio.",
+    "explanation": "Las funciones cuadráticas con coeficientes decimales mantienen su dominio en todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = x² + 12x + 40",
+    "options": [
+      {"text": "[4, ∞)", "correct": true},
+      {"text": "(-∞, 4]", "correct": false},
+      {"text": "[40, ∞)", "correct": false},
+      {"text": "(-∞, 40]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (-6, 4), por lo que el valor mínimo es 4 y el rango comienza ahí."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = -x² + 6x - 9?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≤ 3", "correct": false},
+      {"text": "x ≥ -9", "correct": false},
+      {"text": "x ≠ 3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una parábola que toca el eje x en su vértice.",
+    "explanation": "Aunque sea -(x-3)², el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Determina el rango de f(x) = 4x² - 8x + 7",
+    "options": [
+      {"text": "[3, ∞)", "correct": true},
+      {"text": "(-∞, 3]", "correct": false},
+      {"text": "[7, ∞)", "correct": false},
+      {"text": "(-∞, 7]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "El coeficiente de x² es positivo.",
+    "explanation": "El vértice está en (1, 3), por lo que el valor mínimo es 3 y el rango comienza ahí."
+  },
+  {
+    "question": "Determina el dominio de f(x) = x² + 2x + 2",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ -1", "correct": false},
+      {"text": "x ≤ 2", "correct": false},
+      {"text": "x ≠ -1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Esta función no tiene raíces reales.",
+    "explanation": "Al no tener raíces reales, podría confundirse, pero el dominio sigue siendo todos los reales."
+  },
+  {
+    "question": "Encuentra el rango de f(x) = -2x² + 12x - 18",
+    "options": [
+      {"text": "(-∞, 0]", "correct": true},
+      {"text": "[0, ∞)", "correct": false},
+      {"text": "(-∞, -18]", "correct": false},
+      {"text": "[-18, ∞)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "La parábola abre hacia abajo.",
+    "explanation": "El vértice está en (3, 0), por lo que el valor máximo es 0 y el rango va hasta menos infinito."
+  },
+  {
+    "question": "¿Cuál es el dominio de f(x) = 5x² - 20?",
+    "options": [
+      {"text": "Todos los números reales", "correct": true},
+      {"text": "x ≥ 2", "correct": false},
+      {"text": "x ≤ -20", "correct": false},
+      {"text": "-2 ≤ x ≤ 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, DOMINIO"],
+    "hint": "Es una función cuadrática incompleta.",
+    "explanation": "Aunque tenga raíces en x=±2, el dominio no se ve afectado."
+  },
+  {
+    "question": "Determina el rango de f(x) = x² - 10x + 27",
+    "options": [
+      {"text": "[2, ∞)", "correct": true},
+      {"text": "(-∞, 2]", "correct": false},
+      {"text": "[27, ∞)", "correct": false},
+      {"text": "(-∞, 27]", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL, RANGO"],
+    "hint": "Completa el cuadrado para encontrar el vértice.",
+    "explanation": "El vértice está en (5, 2), por lo que el valor mínimo es 2 y el rango comienza ahí."
+  }
+]
