@@ -1,0 +1,842 @@
+[
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 1 cm y su apotema de 0.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "0.6", "correct": true},
+      {"text": "0.72", "correct": false},
+      {"text": "0.48", "correct": false},
+      {"text": "3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 1 cm, el radio es 0.5 cm. El perímetro es 3 cm. El área es (3 * 0.4) / 2 = 0.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 0.5 cm y su apotema de 0.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "3", "correct": true},
+      {"text": "3.3", "correct": false},
+      {"text": "2.7", "correct": false},
+      {"text": "0.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 0.5 cm y la apotema de 0.4 cm, se puede determinar que la longitud del lado es 0.6 cm. El perímetro es 5 * 0.6 = 3 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 1 cm y la apotema de 0.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 0.5 cm, Perímetro: 3 cm", "correct": true},
+      {"text": "Radio: 0.55 cm, Perímetro: 2.7 cm", "correct": false},
+      {"text": "Radio: 1 cm, Perímetro: 3 cm", "correct": false},
+      {"text": "Radio: 0.5 cm, Perímetro: 0.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (1/2 = 0.5 cm). El perímetro es 3 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 2 cm y su apotema de 0.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "2.4", "correct": true},
+      {"text": "2.88", "correct": false},
+      {"text": "1.92", "correct": false},
+      {"text": "6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 2 cm, el radio es 1 cm. El perímetro es 6 cm. El área es (6 * 0.8) / 2 = 2.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 1 cm y su apotema de 0.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "6", "correct": true},
+      {"text": "6.6", "correct": false},
+      {"text": "5.4", "correct": false},
+      {"text": "2.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 1 cm y la apotema de 0.8 cm, se puede determinar que la longitud del lado es 1.2 cm. El perímetro es 5 * 1.2 = 6 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 2 cm y la apotema de 0.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 1 cm, Perímetro: 6 cm", "correct": true},
+      {"text": "Radio: 1.1 cm, Perímetro: 5.4 cm", "correct": false},
+      {"text": "Radio: 2 cm, Perímetro: 6 cm", "correct": false},
+      {"text": "Radio: 1 cm, Perímetro: 2.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (2/2 = 1 cm). El perímetro es 6 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 3 cm y su apotema de 1.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "5.4", "correct": true},
+      {"text": "6.48", "correct": false},
+      {"text": "4.32", "correct": false},
+      {"text": "9", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 3 cm, el radio es 1.5 cm. El perímetro es 9 cm. El área es (9 * 1.2) / 2 = 5.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 1.5 cm y su apotema de 1.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "9", "correct": true},
+      {"text": "9.9", "correct": false},
+      {"text": "8.1", "correct": false},
+      {"text": "5.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 1.5 cm y la apotema de 1.2 cm, se puede determinar que la longitud del lado es 1.8 cm. El perímetro es 5 * 1.8 = 9 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 3 cm y la apotema de 1.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 1.5 cm, Perímetro: 9 cm", "correct": true},
+      {"text": "Radio: 1.65 cm, Perímetro: 8.1 cm", "correct": false},
+      {"text": "Radio: 3 cm, Perímetro: 9 cm", "correct": false},
+      {"text": "Radio: 1.5 cm, Perímetro: 5.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (3/2 = 1.5 cm). El perímetro es 9 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 4 cm y su apotema de 1.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "9.6", "correct": true},
+      {"text": "11.52", "correct": false},
+      {"text": "7.68", "correct": false},
+      {"text": "12", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 4 cm, el radio es 2 cm. El perímetro es 12 cm. El área es (12 * 1.6) / 2 = 9.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 2 cm y su apotema de 1.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "12", "correct": true},
+      {"text": "13.2", "correct": false},
+      {"text": "10.8", "correct": false},
+      {"text": "9.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 2 cm y la apotema de 1.6 cm, se puede determinar que la longitud del lado es 2.4 cm. El perímetro es 5 * 2.4 = 12 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 4 cm y la apotema de 1.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 2 cm, Perímetro: 12 cm", "correct": true},
+      {"text": "Radio: 2.2 cm, Perímetro: 10.8 cm", "correct": false},
+      {"text": "Radio: 4 cm, Perímetro: 12 cm", "correct": false},
+      {"text": "Radio: 2 cm, Perímetro: 9.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (4/2 = 2 cm). El perímetro es 12 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 5 cm y su apotema de 2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "15", "correct": true},
+      {"text": "18.0", "correct": false},
+      {"text": "12.0", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 5 cm, el radio es 2.5 cm. El perímetro es 15 cm. El área es (15 * 2) / 2 = 15 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 2.5 cm y su apotema de 2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "15", "correct": true},
+      {"text": "16.5", "correct": false},
+      {"text": "13.5", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 2.5 cm y la apotema de 2 cm, se puede determinar que la longitud del lado es 3 cm. El perímetro es 5 * 3 = 15 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 5 cm y la apotema de 2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 2.5 cm, Perímetro: 15 cm", "correct": true},
+      {"text": "Radio: 2.75 cm, Perímetro: 13.5 cm", "correct": false},
+      {"text": "Radio: 5 cm, Perímetro: 15 cm", "correct": false},
+      {"text": "Radio: 2.5 cm, Perímetro: 15 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (5/2 = 2.5 cm). El perímetro es 15 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 6 cm y su apotema de 2.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "21.6", "correct": true},
+      {"text": "25.92", "correct": false},
+      {"text": "17.28", "correct": false},
+      {"text": "18", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 6 cm, el radio es 3 cm. El perímetro es 18 cm. El área es (18 * 2.4) / 2 = 21.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 3 cm y su apotema de 2.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "18", "correct": true},
+      {"text": "19.8", "correct": false},
+      {"text": "16.2", "correct": false},
+      {"text": "21.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 3 cm y la apotema de 2.4 cm, se puede determinar que la longitud del lado es 3.6 cm. El perímetro es 5 * 3.6 = 18 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 6 cm y la apotema de 2.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 3 cm, Perímetro: 18 cm", "correct": true},
+      {"text": "Radio: 3.3 cm, Perímetro: 16.2 cm", "correct": false},
+      {"text": "Radio: 6 cm, Perímetro: 18 cm", "correct": false},
+      {"text": "Radio: 3 cm, Perímetro: 21.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (6/2 = 3 cm). El perímetro es 18 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 7 cm y su apotema de 2.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "29.4", "correct": true},
+      {"text": "35.28", "correct": false},
+      {"text": "23.52", "correct": false},
+      {"text": "21", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 7 cm, el radio es 3.5 cm. El perímetro es 21 cm. El área es (21 * 2.8) / 2 = 29.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 3.5 cm y su apotema de 2.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "21", "correct": true},
+      {"text": "23.1", "correct": false},
+      {"text": "18.9", "correct": false},
+      {"text": "29.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 3.5 cm y la apotema de 2.8 cm, se puede determinar que la longitud del lado es 4.2 cm. El perímetro es 5 * 4.2 = 21 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 7 cm y la apotema de 2.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 3.5 cm, Perímetro: 21 cm", "correct": true},
+      {"text": "Radio: 3.85 cm, Perímetro: 18.9 cm", "correct": false},
+      {"text": "Radio: 7 cm, Perímetro: 21 cm", "correct": false},
+      {"text": "Radio: 3.5 cm, Perímetro: 29.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (7/2 = 3.5 cm). El perímetro es 21 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 8 cm y su apotema de 3.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "38.4", "correct": true},
+      {"text": "46.08", "correct": false},
+      {"text": "30.72", "correct": false},
+      {"text": "24", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 8 cm, el radio es 4 cm. El perímetro es 24 cm. El área es (24 * 3.2) / 2 = 38.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 4 cm y su apotema de 3.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "24", "correct": true},
+      {"text": "26.4", "correct": false},
+      {"text": "21.6", "correct": false},
+      {"text": "38.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 4 cm y la apotema de 3.2 cm, se puede determinar que la longitud del lado es 4.8 cm. El perímetro es 5 * 4.8 = 24 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 8 cm y la apotema de 3.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 4 cm, Perímetro: 24 cm", "correct": true},
+      {"text": "Radio: 4.4 cm, Perímetro: 21.6 cm", "correct": false},
+      {"text": "Radio: 8 cm, Perímetro: 24 cm", "correct": false},
+      {"text": "Radio: 4 cm, Perímetro: 38.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (8/2 = 4 cm). El perímetro es 24 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 9 cm y su apotema de 3.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "48.6", "correct": true},
+      {"text": "58.32", "correct": false},
+      {"text": "38.88", "correct": false},
+      {"text": "27", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 9 cm, el radio es 4.5 cm. El perímetro es 27 cm. El área es (27 * 3.6) / 2 = 48.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 4.5 cm y su apotema de 3.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "27", "correct": true},
+      {"text": "29.7", "correct": false},
+      {"text": "24.3", "correct": false},
+      {"text": "48.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 4.5 cm y la apotema de 3.6 cm, se puede determinar que la longitud del lado es 5.4 cm. El perímetro es 5 * 5.4 = 27 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 9 cm y la apotema de 3.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 4.5 cm, Perímetro: 27 cm", "correct": true},
+      {"text": "Radio: 4.95 cm, Perímetro: 24.3 cm", "correct": false},
+      {"text": "Radio: 9 cm, Perímetro: 27 cm", "correct": false},
+      {"text": "Radio: 4.5 cm, Perímetro: 48.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (9/2 = 4.5 cm). El perímetro es 27 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 10 cm y su apotema de 4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "60", "correct": true},
+      {"text": "72.0", "correct": false},
+      {"text": "48.0", "correct": false},
+      {"text": "30", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 10 cm, el radio es 5 cm. El perímetro es 30 cm. El área es (30 * 4) / 2 = 60 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 5 cm y su apotema de 4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "30", "correct": true},
+      {"text": "33.0", "correct": false},
+      {"text": "27.0", "correct": false},
+      {"text": "60", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 5 cm y la apotema de 4 cm, se puede determinar que la longitud del lado es 6 cm. El perímetro es 5 * 6 = 30 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 10 cm y la apotema de 4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 5 cm, Perímetro: 30 cm", "correct": true},
+      {"text": "Radio: 5.5 cm, Perímetro: 27.0 cm", "correct": false},
+      {"text": "Radio: 10 cm, Perímetro: 30 cm", "correct": false},
+      {"text": "Radio: 5 cm, Perímetro: 60 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (10/2 = 5 cm). El perímetro es 30 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 11 cm y su apotema de 4.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "72.6", "correct": true},
+      {"text": "87.12", "correct": false},
+      {"text": "58.08", "correct": false},
+      {"text": "33", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 11 cm, el radio es 5.5 cm. El perímetro es 33 cm. El área es (33 * 4.4) / 2 = 72.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 5.5 cm y su apotema de 4.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "33", "correct": true},
+      {"text": "36.3", "correct": false},
+      {"text": "29.7", "correct": false},
+      {"text": "72.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 5.5 cm y la apotema de 4.4 cm, se puede determinar que la longitud del lado es 6.6 cm. El perímetro es 5 * 6.6 = 33 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 11 cm y la apotema de 4.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 5.5 cm, Perímetro: 33 cm", "correct": true},
+      {"text": "Radio: 6.05 cm, Perímetro: 29.7 cm", "correct": false},
+      {"text": "Radio: 11 cm, Perímetro: 33 cm", "correct": false},
+      {"text": "Radio: 5.5 cm, Perímetro: 72.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (11/2 = 5.5 cm). El perímetro es 33 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 12 cm y su apotema de 4.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "86.4", "correct": true},
+      {"text": "103.68", "correct": false},
+      {"text": "69.12", "correct": false},
+      {"text": "36", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 12 cm, el radio es 6 cm. El perímetro es 36 cm. El área es (36 * 4.8) / 2 = 86.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 6 cm y su apotema de 4.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "36", "correct": true},
+      {"text": "39.6", "correct": false},
+      {"text": "32.4", "correct": false},
+      {"text": "86.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 6 cm y la apotema de 4.8 cm, se puede determinar que la longitud del lado es 7.2 cm. El perímetro es 5 * 7.2 = 36 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 12 cm y la apotema de 4.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 6 cm, Perímetro: 36 cm", "correct": true},
+      {"text": "Radio: 6.6 cm, Perímetro: 32.4 cm", "correct": false},
+      {"text": "Radio: 12 cm, Perímetro: 36 cm", "correct": false},
+      {"text": "Radio: 6 cm, Perímetro: 86.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (12/2 = 6 cm). El perímetro es 36 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 13 cm y su apotema de 5.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "101.4", "correct": true},
+      {"text": "121.68", "correct": false},
+      {"text": "81.12", "correct": false},
+      {"text": "39", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 13 cm, el radio es 6.5 cm. El perímetro es 39 cm. El área es (39 * 5.2) / 2 = 101.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 6.5 cm y su apotema de 5.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "39", "correct": true},
+      {"text": "42.9", "correct": false},
+      {"text": "35.1", "correct": false},
+      {"text": "101.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 6.5 cm y la apotema de 5.2 cm, se puede determinar que la longitud del lado es 7.8 cm. El perímetro es 5 * 7.8 = 39 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 13 cm y la apotema de 5.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 6.5 cm, Perímetro: 39 cm", "correct": true},
+      {"text": "Radio: 7.15 cm, Perímetro: 35.1 cm", "correct": false},
+      {"text": "Radio: 13 cm, Perímetro: 39 cm", "correct": false},
+      {"text": "Radio: 6.5 cm, Perímetro: 101.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (13/2 = 6.5 cm). El perímetro es 39 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 14 cm y su apotema de 5.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "117.6", "correct": true},
+      {"text": "141.12", "correct": false},
+      {"text": "94.08", "correct": false},
+      {"text": "42", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 14 cm, el radio es 7 cm. El perímetro es 42 cm. El área es (42 * 5.6) / 2 = 117.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 7 cm y su apotema de 5.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "42", "correct": true},
+      {"text": "46.2", "correct": false},
+      {"text": "37.8", "correct": false},
+      {"text": "117.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 7 cm y la apotema de 5.6 cm, se puede determinar que la longitud del lado es 8.4 cm. El perímetro es 5 * 8.4 = 42 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 14 cm y la apotema de 5.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 7 cm, Perímetro: 42 cm", "correct": true},
+      {"text": "Radio: 7.7 cm, Perímetro: 37.8 cm", "correct": false},
+      {"text": "Radio: 14 cm, Perímetro: 42 cm", "correct": false},
+      {"text": "Radio: 7 cm, Perímetro: 117.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (14/2 = 7 cm). El perímetro es 42 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 15 cm y su apotema de 6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "135", "correct": true},
+      {"text": "162.0", "correct": false},
+      {"text": "108.0", "correct": false},
+      {"text": "45", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 15 cm, el radio es 7.5 cm. El perímetro es 45 cm. El área es (45 * 6) / 2 = 135 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 7.5 cm y su apotema de 6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "45", "correct": true},
+      {"text": "49.5", "correct": false},
+      {"text": "40.5", "correct": false},
+      {"text": "135", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 7.5 cm y la apotema de 6 cm, se puede determinar que la longitud del lado es 9 cm. El perímetro es 5 * 9 = 45 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 15 cm y la apotema de 6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 7.5 cm, Perímetro: 45 cm", "correct": true},
+      {"text": "Radio: 8.25 cm, Perímetro: 40.5 cm", "correct": false},
+      {"text": "Radio: 15 cm, Perímetro: 45 cm", "correct": false},
+      {"text": "Radio: 7.5 cm, Perímetro: 135 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (15/2 = 7.5 cm). El perímetro es 45 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 16 cm y su apotema de 6.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "153.6", "correct": true},
+      {"text": "184.32", "correct": false},
+      {"text": "122.88", "correct": false},
+      {"text": "48", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 16 cm, el radio es 8 cm. El perímetro es 48 cm. El área es (48 * 6.4) / 2 = 153.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 8 cm y su apotema de 6.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "48", "correct": true},
+      {"text": "52.8", "correct": false},
+      {"text": "43.2", "correct": false},
+      {"text": "153.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 8 cm y la apotema de 6.4 cm, se puede determinar que la longitud del lado es 9.6 cm. El perímetro es 5 * 9.6 = 48 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 16 cm y la apotema de 6.4 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 8 cm, Perímetro: 48 cm", "correct": true},
+      {"text": "Radio: 8.8 cm, Perímetro: 43.2 cm", "correct": false},
+      {"text": "Radio: 16 cm, Perímetro: 48 cm", "correct": false},
+      {"text": "Radio: 8 cm, Perímetro: 153.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (16/2 = 8 cm). El perímetro es 48 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 17 cm y su apotema de 6.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "173.4", "correct": true},
+      {"text": "208.08", "correct": false},
+      {"text": "138.72", "correct": false},
+      {"text": "51", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 17 cm, el radio es 8.5 cm. El perímetro es 51 cm. El área es (51 * 6.8) / 2 = 173.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 8.5 cm y su apotema de 6.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "51", "correct": true},
+      {"text": "56.1", "correct": false},
+      {"text": "45.9", "correct": false},
+      {"text": "173.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 8.5 cm y la apotema de 6.8 cm, se puede determinar que la longitud del lado es 10.2 cm. El perímetro es 5 * 10.2 = 51 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 17 cm y la apotema de 6.8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 8.5 cm, Perímetro: 51 cm", "correct": true},
+      {"text": "Radio: 9.35 cm, Perímetro: 45.9 cm", "correct": false},
+      {"text": "Radio: 17 cm, Perímetro: 51 cm", "correct": false},
+      {"text": "Radio: 8.5 cm, Perímetro: 173.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (17/2 = 8.5 cm). El perímetro es 51 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 18 cm y su apotema de 7.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "194.4", "correct": true},
+      {"text": "233.28", "correct": false},
+      {"text": "155.52", "correct": false},
+      {"text": "54", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 18 cm, el radio es 9 cm. El perímetro es 54 cm. El área es (54 * 7.2) / 2 = 194.4 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 9 cm y su apotema de 7.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "54", "correct": true},
+      {"text": "59.4", "correct": false},
+      {"text": "48.6", "correct": false},
+      {"text": "194.4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 9 cm y la apotema de 7.2 cm, se puede determinar que la longitud del lado es 10.8 cm. El perímetro es 5 * 10.8 = 54 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 18 cm y la apotema de 7.2 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 9 cm, Perímetro: 54 cm", "correct": true},
+      {"text": "Radio: 9.9 cm, Perímetro: 48.6 cm", "correct": false},
+      {"text": "Radio: 18 cm, Perímetro: 54 cm", "correct": false},
+      {"text": "Radio: 9 cm, Perímetro: 194.4 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (18/2 = 9 cm). El perímetro es 54 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 19 cm y su apotema de 7.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "216.6", "correct": true},
+      {"text": "259.92", "correct": false},
+      {"text": "173.28", "correct": false},
+      {"text": "57", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 19 cm, el radio es 9.5 cm. El perímetro es 57 cm. El área es (57 * 7.6) / 2 = 216.6 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 9.5 cm y su apotema de 7.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "57", "correct": true},
+      {"text": "62.7", "correct": false},
+      {"text": "51.3", "correct": false},
+      {"text": "216.6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 9.5 cm y la apotema de 7.6 cm, se puede determinar que la longitud del lado es 11.4 cm. El perímetro es 5 * 11.4 = 57 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 19 cm y la apotema de 7.6 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 9.5 cm, Perímetro: 57 cm", "correct": true},
+      {"text": "Radio: 10.45 cm, Perímetro: 51.3 cm", "correct": false},
+      {"text": "Radio: 19 cm, Perímetro: 57 cm", "correct": false},
+      {"text": "Radio: 9.5 cm, Perímetro: 216.6 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (19/2 = 9.5 cm). El perímetro es 57 cm."
+  },
+  {
+    "question": "Determina el valor del área de la imagen si el diámetro es de 20 cm y su apotema de 8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "240", "correct": true},
+      {"text": "288.0", "correct": false},
+      {"text": "192.0", "correct": false},
+      {"text": "60", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Área"],
+    "hint": "El área de un polígono regular se calcula con la fórmula A = (p * a) / 2.",
+    "explanation": "Con un diámetro de 20 cm, el radio es 10 cm. El perímetro es 60 cm. El área es (60 * 8) / 2 = 240 cm²."
+  },
+  {
+    "question": "Determina el valor del perímetro de la imagen si el radio es de 10 cm y su apotema de 8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "60", "correct": true},
+      {"text": "66.0", "correct": false},
+      {"text": "54.0", "correct": false},
+      {"text": "240", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Perímetro"],
+    "hint": "El perímetro se calcula multiplicando la longitud de un lado por 5.",
+    "explanation": "Con el radio de 10 cm y la apotema de 8 cm, se puede determinar que la longitud del lado es 12 cm. El perímetro es 5 * 12 = 60 cm."
+  },
+  {
+    "question": "Determina el valor del radio y el perímetro si el diámetro es de 20 cm y la apotema de 8 cm",
+    "image": "https://i.imgur.com/KKHibuu.png",
+    "options": [
+      {"text": "Radio: 10 cm, Perímetro: 60 cm", "correct": true},
+      {"text": "Radio: 11.0 cm, Perímetro: 54.0 cm", "correct": false},
+      {"text": "Radio: 20 cm, Perímetro: 60 cm", "correct": false},
+      {"text": "Radio: 10 cm, Perímetro: 240 cm", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["Radio", "Perímetro"],
+    "hint": "El radio es la mitad del diámetro. El perímetro es 5 veces la longitud del lado.",
+    "explanation": "El radio es la mitad del diámetro (20/2 = 10 cm). El perímetro es 60 cm."
+  }
+]
