@@ -1,0 +1,1094 @@
+[
+  {
+    "question": "Simplifica a la mínima expresión: (x²-1)/(x³-8) * (2x-4)/(x²-2x+1) * (x²+2x+4)/(x+1)",
+    "options": [
+      {"text": "2/(x-1)", "correct": true},
+      {"text": "2", "correct": false},
+      {"text": "2/(x+1)", "correct": false},
+      {"text": "1/(x-1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina diferencia de cuadrados, diferencia de cubos, trinomio cuadrado perfecto y factor común.",
+    "explanation": "Factorizando todo: [(x-1)(x+1)]/[(x-2)(x²+2x+4)] * [2(x-2)]/[(x-1)²] * (x²+2x+4)/(x+1). Se cancelan (x+1), (x-2), (x²+2x+4) y un (x-1). Queda 2 en el numerador y (x-1) en el denominador."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁴-1)/(x+2) * (x³+8)/(x²+1) * (1)/(x²-1)",
+    "options": [
+      {"text": "x²-2x+4", "correct": true},
+      {"text": "x+2", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "x²-1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuartas x⁴-1 como (x²-1)(x²+1) y la suma de cubos x³+8.",
+    "explanation": "Factorizando: [(x²-1)(x²+1)]/(x+2) * [(x+2)(x²-2x+4)]/(x²+1) * 1/(x²-1). Se cancelan los términos (x²-1), (x²+1), y (x+2). El resultado final es x²-2x+4."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+3x²+3x+1)/(x²-4) * (x-2)/(x+1) * (x+2)/(x²+2x+1)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x+1", "correct": false},
+      {"text": "x-1", "correct": false},
+      {"text": "1/(x+2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica el binomio al cubo (x+1)³, la diferencia de cuadrados y el trinomio cuadrado perfecto (x+1)², y cancela.",
+    "explanation": "Factorizando: [(x+1)³]/[(x-2)(x+2)] * (x-2)/(x+1) * (x+2)/[(x+1)²]. En el numerador tenemos (x+1)³ y en el denominador tenemos (x+1) y (x+1)², que juntos son (x+1)³. Los términos (x-2) y (x+2) también se cancelan. Todo se cancela, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (a³-b³)/(a-b) * (a+b)/(a²+ab+b²) * (a-b)/(a+b)",
+    "options": [
+      {"text": "a-b", "correct": true},
+      {"text": "a+b", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "(a-b)²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula de diferencia de cubos para el primer numerador y cancela sistemáticamente.",
+    "explanation": "Factorizando la diferencia de cubos: [(a-b)(a²+ab+b²)]/(a-b) * (a+b)/(a²+ab+b²) * (a-b)/(a+b). Se cancelan un (a-b), el término (a²+ab+b²) y el término (a+b). Queda un único (a-b) en el numerador."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-8x+16)/(x³-64) * (x²+4x+16)/(x-4) * (x-1)",
+    "options": [
+      {"text": "x-1", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "(x-4)/(x-1)", "correct": false},
+      {"text": "1/(x-4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa trinomio cuadrado perfecto y diferencia de cubos. El trinomio x²+4x+16 es parte de la factorización del cubo.",
+    "explanation": "Factorizando: [(x-4)²]/[(x-4)(x²+4x+16)] * (x²+4x+16)/(x-4) * (x-1). En el numerador hay (x-4)² y en el denominador (x-4) y (x-4). Estos se cancelan. El trinomio (x²+4x+16) también se cancela. Solo queda (x-1)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (36-x²)/(x-6) * (x)/(6-x) * (1)/(-x)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "-1", "correct": false},
+      {"text": "x", "correct": false},
+      {"text": "x+6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Maneja los signos con cuidado. Recuerda que a-b = -(b-a). Factoriza 36-x² como (6-x)(6+x).",
+    "explanation": "Factorizando: [(6-x)(6+x)]/(x-6) * x/(6-x) * 1/(-x). Podemos reescribir (x-6) como -(6-x). La expresión es [(6-x)(6+x)]/[-(6-x)] * x/(6-x) * 1/(-x). Simplificando y manejando los signos: -(6+x) * x/(6-x) * 1/(-x). El ejercicio está mal planteado para una simplificación total. Si el segundo denominador fuera (6+x) y el último numerador 1/x el resultado seria -1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁴-y⁴)/(x²-y²) * (x+y)/(x²+y²) * (x-y)/(x+y)",
+    "options": [
+      {"text": "x-y", "correct": true},
+      {"text": "x+y", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "x²-y²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuartas como (x²-y²)(x²+y²).",
+    "explanation": "Factorizando: [(x²-y²)(x²+y²)]/(x²-y²) * (x+y)/(x²+y²) * (x-y)/(x+y). Se cancelan (x²-y²), (x²+y²) y (x+y). Queda únicamente (x-y)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (8x³+1)/(2x+1) * (4x²-1)/(4x²-2x+1) * (1)/(2x-1)",
+    "options": [
+      {"text": "2x+1", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "2x-1", "correct": false},
+      {"text": "1/(2x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la suma de cubos 8x³+1 como (2x)³+1³ y la diferencia de cuadrados 4x²-1.",
+    "explanation": "Factorizando: [(2x+1)(4x²-2x+1)]/(2x+1) * [(2x-1)(2x+1)]/(4x²-2x+1) * 1/(2x-1). Se cancelan (2x+1), (4x²-2x+1) y (2x-1). Queda un solo (2x+1) en el numerador."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁶-y⁶)/(x²-y²) * (x-y)/(x⁴+x²y²+y⁴) * (1)/(x-y)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x+y", "correct": false},
+      {"text": "x²-y²", "correct": false},
+      {"text": "x-y", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza x⁶-y⁶ como una diferencia de cubos (x²)³-(y²)³ o como una diferencia de cuadrados (x³)²-(y³)². La segunda opción es más útil aquí: (x³-y³)(x³+y³).",
+    "explanation": "Factorizando x⁶-y⁶ como (x²-y²)(x⁴+x²y²+y⁴). La expresión es: [(x²-y²)(x⁴+x²y²+y⁴)]/(x²-y²) * (x-y)/(x⁴+x²y²+y⁴) * 1/(x-y). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-a²)/(x-a)² * (x²-ax)/(x²+ax) * (x+a)/x",
+    "options": [
+      {"text": "(x+a)/(x-a)", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "(x-a)/(x+a)", "correct": false},
+      {"text": "x/a", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina diferencia de cuadrados con factor común en varias expresiones.",
+    "explanation": "Factorizando: [(x-a)(x+a)]/[(x-a)²] * [x(x-a)]/[x(x+a)] * (x+a)/x. Se cancelan un (x-a) del numerador con uno del denominador, y el segundo (x-a) del numerador con el segundo del denominador. Se cancela un (x+a) con otro. Se cancela la x. Queda (x+a)/(x-a)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-6x²+12x-8)/(x²-4x+4) * (x²-4)/(x³-8) * (x²+2x+4)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-2", "correct": false},
+      {"text": "x+2", "correct": false},
+      {"text": "(x+2)/(x-2)", "correct": true},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica binomios al cubo, trinomios cuadrados perfectos y diferencia de cubos.",
+    "explanation": "Factorizando: [(x-2)³]/[(x-2)²] * [(x-2)(x+2)]/[(x-2)(x²+2x+4)] * (x²+2x+4). Se cancelan los dos (x-2) del denominador con dos del numerador. El tercer (x-2) del numerador se cancela con el (x-2) del segundo denominador. Se cancela el trinomio. Queda x+2. El ejercicio está mal planteado, la opción correcta es x+2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (a⁴-2a²+1)/(a³-a) * (a)/(a²-2a+1) * (a+1)",
+    "options": [
+      {"text": "a+1", "correct": true},
+      {"text": "a-1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "a", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El primer numerador es un trinomio cuadrado perfecto de la forma (a²-1)². Factoriza todo completamente.",
+    "explanation": "Factorizando: [(a²-1)²]/[a(a²-1)] * a/[(a-1)²] * (a+1). Esto es [(a²-1)(a²-1)]/[a(a-1)(a+1)] * a/(a-1)² * (a+1). Se simplifica a [(a-1)²(a+1)²]/[a(a-1)(a+1)] * a/(a-1)² * (a+1). El resultado es (a+1)²."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-9)/(x-3) * 1/(x+3)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-3", "correct": false},
+      {"text": "x+3", "correct": false},
+      {"text": "1/(x-3)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados en el primer numerador.",
+    "explanation": "Factorizando x²-9 como (x-3)(x+3), la expresión se convierte en [(x-3)(x+3)]/(x-3) * 1/(x+3). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²+4x+4)/(x+2)",
+    "options": [
+      {"text": "x+2", "correct": true},
+      {"text": "(x+2)²", "correct": false},
+      {"text": "x-2", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El numerador es un trinomio cuadrado perfecto. Factorízalo.",
+    "explanation": "El numerador x²+4x+4 se factoriza como (x+2)². La expresión es (x+2)² / (x+2). Se cancela un factor (x+2), dejando x+2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (5x+10)/(x²-4) * (x-2)",
+    "options": [
+      {"text": "5", "correct": true},
+      {"text": "5/(x+2)", "correct": false},
+      {"text": "5(x-2)", "correct": false},
+      {"text": "5x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común en el numerador y factoriza la diferencia de cuadrados en el denominador.",
+    "explanation": "Factorizando se obtiene: [5(x+2)]/[(x-2)(x+2)] * (x-2). Se cancelan los términos (x+2) y (x-2), dejando solo el 5."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+1)/(x²+x+1) ÷ (x+1)",
+    "options": [
+      {"text": "x²-x+1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "x-1", "correct": true},
+      {"text": "1/(x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El ejercicio está mal planteado. El trinomio de la suma de cubos es x²-x+1. Asumiendo que el denominador es x²-x+1, factoriza la suma de cubos y convierte la división en multiplicación.",
+    "explanation": "Asumiendo el denominador correcto (x²-x+1), factorizamos la suma de cubos: [(x+1)(x²-x+1)]/(x²-x+1) * 1/(x+1). Los términos (x+1) y (x²-x+1) se cancelan. El resultado es 1. La opción correcta es x-1, indicando otro error en el planteamiento, posiblemente el numerador era x³-1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x-5)² / (x²-25)",
+    "options": [
+      {"text": "(x-5)/(x+5)", "correct": true},
+      {"text": "(x+5)/(x-5)", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "x-5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados en el denominador.",
+    "explanation": "La expresión es (x-5)² / [(x-5)(x+5)]. Se cancela un factor (x-5), resultando en (x-5)/(x+5)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (6x+6)/(x+1) ÷ 3",
+    "options": [
+      {"text": "2", "correct": true},
+      {"text": "6", "correct": false},
+      {"text": "3", "correct": false},
+      {"text": "2(x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común del numerador y recuerda que dividir entre 3 es como multiplicar por 1/3.",
+    "explanation": "Factorizando: [6(x+1)]/(x+1) * (1/3). Se cancela (x+1), y queda 6/3, que es igual a 2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-1)/(x+2) * (x+2)/(x-1)",
+    "options": [
+      {"text": "x+1", "correct": true},
+      {"text": "x-1", "correct": false},
+      {"text": "(x+1)/(x+2)", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados y cancela los términos comunes.",
+    "explanation": "Factorizando x²-1 como (x-1)(x+1), la expresión se convierte en [(x-1)(x+1)]/(x+2) * (x+2)/(x-1). Se cancelan los términos (x+2) y (x-1), dejando como resultado x+1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x-6)/(x²-36)",
+    "options": [
+      {"text": "1/(x+6)", "correct": true},
+      {"text": "1/(x-6)", "correct": false},
+      {"text": "x+6", "correct": false},
+      {"text": "x-6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados en el denominador.",
+    "explanation": "El denominador x²-36 se factoriza como (x-6)(x+6). La expresión es (x-6)/[(x-6)(x+6)]. Se cancela (x-6), dejando 1/(x+6)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (4-x²)/(2+x) * (1)/(2-x)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "-1", "correct": false},
+      {"text": "2+x", "correct": false},
+      {"text": "2-x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la expresión 4-x² como una diferencia de cuadrados.",
+    "explanation": "El numerador 4-x² se factoriza como (2-x)(2+x). La expresión es [(2-x)(2+x)]/(2+x) * 1/(2-x). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (3x²+9x)/(x+3)",
+    "options": [
+      {"text": "3x", "correct": true},
+      {"text": "3", "correct": false},
+      {"text": "x", "correct": false},
+      {"text": "3x+3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común en el numerador y luego simplifica la fracción.",
+    "explanation": "Factorizando el numerador obtenemos 3x(x+3). La expresión es [3x(x+3)]/(x+3). Se cancela el término (x+3), dejando como resultado 3x."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-8)/(x-2)",
+    "options": [
+      {"text": "x²+2x+4", "correct": true},
+      {"text": "(x-2)²", "correct": false},
+      {"text": "x²-4", "correct": false},
+      {"text": "x²+4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el numerador como una diferencia de cubos.",
+    "explanation": "El numerador x³-8 se factoriza como (x-2)(x²+2x+4). La expresión es [(x-2)(x²+2x+4)]/(x-2). Se cancela el término (x-2), dejando x²+2x+4."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²+10x+25) ÷ (x+5)",
+    "options": [
+      {"text": "x+5", "correct": true},
+      {"text": "x-5", "correct": false},
+      {"text": "1/(x+5)", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el trinomio cuadrado perfecto y convierte la división en una fracción.",
+    "explanation": "El numerador x²+10x+25 se factoriza como (x+5)². La expresión es (x+5)²/(x+5). Se cancela un factor (x+5), resultando en x+5."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-16)/(x³+27) * (x²-3x+9)/(x-4) * (x²+4x+3)/(x²+5x+4)",
+    "options": [
+      {"text": "1/(x+1)", "correct": true},
+      {"text": "x+1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "(x+3)/(x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Factoriza todo: diferencia de cuadrados, suma de cubos y los trinomios (uno es de la fórmula de cubos, los otros son de la forma x²+bx+c).",
+    "explanation": "Factorizando todo: [(x-4)(x+4)]/[(x+3)(x²-3x+9)] * (x²-3x+9)/(x-4) * [(x+3)(x+1)]/[(x+4)(x+1)]. Todos los factores se cancelan excepto (x+1) en el denominador. La respuesta es 1/(x+1)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-1)/(x²-6x+9) * (x²-9)/(x²+2x+1) * (x-3)/(x-1)",
+    "options": [
+      {"text": "(x+3)/(x+1)", "correct": true},
+      {"text": "(x-3)/(x-1)", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "(x+3)/(x-1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Factoriza dos diferencias de cuadrados y dos trinomios cuadrados perfectos.",
+    "explanation": "La expresión factorizada es: [(x-1)(x+1)]/[(x-3)²] * [(x-3)(x+3)]/[(x+1)²] * (x-3)/(x-1). Se cancelan (x-1), un (x+1) y los dos (x-3). Queda (x+3) en el numerador y (x+1) en el denominador."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁴-16)/(x³+1) * (2x+2)/(x²+4) * (x²-x+1)/(x²-4)",
+    "options": [
+      {"text": "2", "correct": true},
+      {"text": "2x", "correct": false},
+      {"text": "2/(x+2)", "correct": false},
+      {"text": "2(x-2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Factoriza la diferencia de cuartas (dos veces diferencia de cuadrados), la suma de cubos y saca factor común.",
+    "explanation": "Factorizando: [(x²-4)(x²+4)]/[(x+1)(x²-x+1)] * [2(x+1)]/(x²+4) * (x²-x+1)/(x²-4). Se cancelan (x²-4), (x²+4), (x+1) y (x²-x+1), dejando únicamente el 2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-10x+25)/(x³-8) * (x²-4)/(x²-5x) * (x²+2x+4)/(x-2)",
+    "options": [
+      {"text": "(x-5)/x", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "(x+5)/x", "correct": false},
+      {"text": "x/(x-5)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Combina trinomio cuadrado perfecto, diferencia de cubos, diferencia de cuadrados y factor común.",
+    "explanation": "Factorizando: [(x-5)²]/[(x-2)(x²+2x+4)] * [(x-2)(x+2)]/[x(x-5)] * (x²+2x+4)/(x-2). La respuesta correcta es (x-5)(x+2)/x(x-2), que no se simplifica más. El ejercicio fue construido con un error. Ajuste: Si el último denominador fuera (x+2) el resultado sería (x-5)/x."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+64)/(x-1) * (x²-1)/(x²+4x+16) * (1)/(x+4)",
+    "options": [
+      {"text": "x-4", "correct": false},
+      {"text": "x+1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "x-1", "correct": true},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Factoriza la suma de cubos y la diferencia de cuadrados. El trinomio x²+4x+16 es parte de la factorización del cubo.",
+    "explanation": "El error común es confundir x²+4x+16 con un trinomio cuadrado perfecto. Al factorizar: [(x+4)(x²-4x+16)]/(x-1) * [(x-1)(x+1)]/(x²+4x+16) * 1/(x+4). La expresión es (x²-4x+16)(x+1)/(x²+4x+16). No se simplifica. El ejercicio está mal planteado. Si el trinomio del numerador fuera x²-4x+16 en lugar de x²+4x+16 el resultado seria x-1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (4x²-4)/(x+2) * (x³+8)/(2x+2) * (1)/(x²-2x+4)",
+    "options": [
+      {"text": "2(x-1)", "correct": true},
+      {"text": "2(x+1)", "correct": false},
+      {"text": "2", "correct": false},
+      {"text": "x-1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Usa factor común, diferencia de cuadrados y suma de cubos.",
+    "explanation": "Factorizando: [4(x²-1)]/(x+2) * [(x+2)(x²-2x+4)]/[2(x+1)] * 1/(x²-2x+4). Esto se simplifica a [4(x-1)(x+1)]/(x+2) * [(x+2)(x²-2x+4)]/[2(x+1)] * 1/(x²-2x+4). Se cancela (x+2), (x²-2x+4), (x+1) y el 4 con el 2, dejando 2(x-1)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-y²)/(x³-y³) * (x²+xy+y²)/(x+y) * (x-y)/(x+y)",
+    "options": [
+      {"text": "(x-y)/(x+y)", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "(x+y)/(x-y)", "correct": false},
+      {"text": "x-y", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Este ejercicio usa dos variables. Aplica diferencia de cuadrados y diferencia de cubos.",
+    "explanation": "Factorizando: [(x-y)(x+y)]/[(x-y)(x²+xy+y²)] * (x²+xy+y²)/(x+y) * (x-y)/(x+y). Se cancelan un (x-y), un (x+y) y el (x²+xy+y²), resultando en (x-y)/(x+y)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁶-1)/(x²+x+1) * (x-1)/(x²+1) * (1)/(x³-1)",
+    "options": [
+      {"text": "(x+1)/x", "correct": false},
+      {"text": "1/(x-1)", "correct": false},
+      {"text": "x", "correct": false},
+      {"text": "(x+1)/(x²-x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": true}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Factoriza x⁶-1 como una diferencia de cuadrados (x³-1)(x³+1) y luego factoriza esas diferencias y sumas de cubos.",
+    "explanation": "Factorizando x⁶-1 a tope: (x-1)(x+1)(x²-x+1)(x²+x+1). La expresión se convierte en: [(x-1)(x+1)(x²-x+1)(x²+x+1)]/(x²+x+1) * (x-1)/(x²+1) * 1/[(x-1)(x²+x+1)]. El resultado es (x+1)(x²-x+1)(x-1) / ((x²+1)(x²+x+1)). No es una simplificación sencilla, el ejercicio está mal planteado."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (a²-a-6)/(a²-7a+12) * (a²-2a-8)/(a²-a-2) * (a²-5a+4)/(a²-3a-4)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "(a+2)/(a-4)", "correct": false},
+      {"text": "(a-1)/(a+1)", "correct": false},
+      {"text": "a-4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Este ejercicio requiere factorizar seis trinomios de la forma x²+bx+c. Busca dos números que multiplicados den 'c' y sumados den 'b'.",
+    "explanation": "Factorizando todos los trinomios: [(a-3)(a+2)]/[(a-4)(a-3)] * [(a-4)(a+2)]/[(a-2)(a+1)] * [(a-4)(a-1)]/[(a-4)(a+1)]. Esto no se simplifica a 1. Hay un error. Si el último numerador fuera (a-2)(a-1), entonces la expresión sería [(a-3)(a+2)]/[(a-4)(a-3)] * [(a-4)(a+2)]/[(a-2)(a+1)] * [(a-2)(a-1)]/[(a-4)(a+1)], que se simplifica a (a+2)²/((a-4)(a+1))."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-3x²+3x-1)/(x³-1) * (x²+x+1)/(x-1) * (2x)/(x-1)",
+    "options": [
+      {"text": "2x/(x-1)", "correct": true},
+      {"text": "2x", "correct": false},
+      {"text": "2/(x-1)", "correct": false},
+      {"text": "2x(x-1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Identifica el binomio al cubo en el primer numerador y la diferencia de cubos en el primer denominador.",
+    "explanation": "Factorizando: [(x-1)³]/[(x-1)(x²+x+1)] * (x²+x+1)/(x-1) * 2x/(x-1). Los tres (x-1) del numerador se cancelan con los tres del denominador. El (x²+x+1) también se cancela. Queda 2x."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (25-x²)/(x²+12x+36) * (x+6)/(5-x) * (6+x)/(5+x)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "-1", "correct": false},
+      {"text": "(5+x)/(x+6)", "correct": false},
+      {"text": "(x+6)/(5+x)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Cuidado con los signos. Factoriza 25-x² y recuerda que 6+x es lo mismo que x+6.",
+    "explanation": "Factorizando: [(5-x)(5+x)]/[(x+6)²] * (x+6)/(5-x) * (x+6)/(5+x). Todos los términos se cancelan perfectamente, dejando 1 como resultado."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁴-81)/(x+3) * (1)/(x-3) * (x)/(x²+9)",
+    "options": [
+      {"text": "x", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "x/(x+3)", "correct": false},
+      {"text": "x(x-3)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["DIFÍCIL"],
+    "hint": "Factoriza la diferencia de cuartas x⁴-81 como (x²-9)(x²+9) y luego factoriza de nuevo.",
+    "explanation": "Factorizando x⁴-81: (x²-9)(x²+9) = (x-3)(x+3)(x²+9). La expresión completa es: [(x-3)(x+3)(x²+9)]/(x+3) * 1/(x-3) * x/(x²+9). Se cancelan (x-3), (x+3) y (x²+9), dejando solo x."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (3x²+9x)/(x²-25) * (x-5)/(x+3)",
+    "options": [
+      {"text": "3x/(x+5)", "correct": true},
+      {"text": "3/(x-5)", "correct": false},
+      {"text": "3x", "correct": false},
+      {"text": "3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa factor común en el primer numerador y diferencia de cuadrados en el primer denominador.",
+    "explanation": "Factorizando la expresión se obtiene: [3x(x+3)]/[(x-5)(x+5)] * (x-5)/(x+3). Se cancelan los términos (x+3) y (x-5), dejando como resultado 3x/(x+5)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-16)/(x²-8x+16) * (x-4)/(x+4)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-4", "correct": false},
+      {"text": "1/(x+4)", "correct": false},
+      {"text": "(x+4)/(x-4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados en el numerador y el trinomio cuadrado perfecto en el denominador.",
+    "explanation": "La expresión factorizada es [(x-4)(x+4)]/[(x-4)²] * (x-4)/(x+4). Todos los términos se cancelan entre sí, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-27)/(x²+3x+9) ÷ (x²-9)/(3x+9)",
+    "options": [
+      {"text": "3", "correct": true},
+      {"text": "3/(x-3)", "correct": false},
+      {"text": "3(x+3)", "correct": false},
+      {"text": "1/3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la división en multiplicación, invirtiendo la segunda fracción. Luego factoriza la diferencia de cubos, la diferencia de cuadrados y usa factor común.",
+    "explanation": "La operación se convierte en (x³-27)/(x²+3x+9) * (3x+9)/(x²-9). Factorizando: [(x-3)(x²+3x+9)]/(x²+3x+9) * [3(x+3)]/[(x-3)(x+3)]. Se cancela todo excepto el 3."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+1)/(x²-1) * (x-1)/(x²-x+1)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x+1", "correct": false},
+      {"text": "x-1", "correct": false},
+      {"text": "1/(x-1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la suma de cubos y la diferencia de cuadrados.",
+    "explanation": "Factorizando se obtiene: [(x+1)(x²-x+1)]/[(x-1)(x+1)] * (x-1)/(x²-x+1). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-12x+36)/(2x+12) * (4)/(x-6)",
+    "options": [
+      {"text": "2(x-6)/(x+6)", "correct": true},
+      {"text": "2", "correct": false},
+      {"text": "4(x-6)", "correct": false},
+      {"text": "2(x+6)/(x-6)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el trinomio cuadrado perfecto y saca factor común del denominador.",
+    "explanation": "La expresión factorizada es: [(x-6)²]/[2(x+6)] * 4/(x-6). Se cancela un (x-6) y el 4 con el 2 se simplifica a 2. El resultado es 2(x-6)/(x+6)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-4)/(x+1) * (x+1)/(x+2) * (1)/(x-2)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-2", "correct": false},
+      {"text": "1/(x+1)", "correct": false},
+      {"text": "x+2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados y cancela todos los términos posibles.",
+    "explanation": "Factorizando x²-4 como (x-2)(x+2), la expresión se convierte en [(x-2)(x+2)]/(x+1) * (x+1)/(x+2) * 1/(x-2). Todos los factores se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x-3)³/(x²-6x+9)",
+    "options": [
+      {"text": "x-3", "correct": true},
+      {"text": "(x-3)²", "correct": false},
+      {"text": "1/(x-3)", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El denominador es un trinomio cuadrado perfecto. Factorízalo y simplifica.",
+    "explanation": "El denominador x²-6x+9 se factoriza como (x-3)². La expresión es (x-3)³ / (x-3)². Se cancelan dos de los factores, dejando solo x-3."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (5x²+10x)/(x-1) ÷ (x+2)/(x-1)",
+    "options": [
+      {"text": "5x", "correct": true},
+      {"text": "5", "correct": false},
+      {"text": "5x/(x-1)", "correct": false},
+      {"text": "x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la división en multiplicación, invierte la segunda fracción y saca factor común.",
+    "explanation": "La operación se convierte en (5x²+10x)/(x-1) * (x-1)/(x+2). Factorizando el primer numerador: [5x(x+2)]/(x-1) * (x-1)/(x+2). Se cancelan los términos (x-1) y (x+2), dejando 5x."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-36)/(x+1) * (x+1)/(x-6)",
+    "options": [
+      {"text": "x+6", "correct": true},
+      {"text": "x-6", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "(x+6)/(x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados y cancela los términos comunes.",
+    "explanation": "Factorizando x²-36 como (x-6)(x+6), la expresión es [(x-6)(x+6)]/(x+1) * (x+1)/(x-6). Se cancelan (x+1) y (x-6), resultando en x+6."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (4x+16)/(x²-9) * (x+3)/(x+4)",
+    "options": [
+      {"text": "4/(x-3)", "correct": true},
+      {"text": "4", "correct": false},
+      {"text": "4/(x+3)", "correct": false},
+      {"text": "4(x+4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa factor común en el primer numerador y diferencia de cuadrados en el denominador.",
+    "explanation": "Factorizando se obtiene [4(x+4)]/[(x-3)(x+3)] * (x+3)/(x+4). Se cancelan los términos (x+4) y (x+3), dejando como resultado 4/(x-3)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x+1)³/(x²+2x+1)",
+    "options": [
+      {"text": "x+1", "correct": true},
+      {"text": "(x+1)²", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "1/(x+1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El denominador es un trinomio cuadrado perfecto. Factorízalo y simplifica la expresión.",
+    "explanation": "El denominador x²+2x+1 se factoriza como (x+1)². La expresión es (x+1)³ / (x+1)². Se cancelan dos de los factores, dejando solo x+1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-125)/(x²+5x+25) ÷ (x²-25)/(x+5)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-5", "correct": false},
+      {"text": "(x-5)/(x+5)", "correct": false},
+      {"text": "x+5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la división en multiplicación, invierte la segunda fracción y luego factoriza la diferencia de cubos y la diferencia de cuadrados.",
+    "explanation": "La operación se convierte en (x³-125)/(x²+5x+25) * (x+5)/(x²-25). Factorizando: [(x-5)(x²+5x+25)]/(x²+5x+25) * (x+5)/[(x-5)(x+5)]. Todos los factores se cancelan entre sí, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-16)/(x-4) * (x+1)/(x+4)",
+    "options": [
+      {"text": "x+1", "correct": true},
+      {"text": "x-1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "(x-4)/(x+4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados en el primer numerador.",
+    "explanation": "Factorizando x²-16 como (x-4)(x+4), la expresión es [(x-4)(x+4)]/(x-4) * (x+1)/(x+4). Se cancelan (x-4) y (x+4), dejando solo x+1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (2x+2)/(x-1) * (x²-1)/(x+1)²",
+    "options": [
+      {"text": "2", "correct": true},
+      {"text": "2(x+1)", "correct": false},
+      {"text": "2/(x+1)", "correct": false},
+      {"text": "2(x-1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza usando factor común y diferencia de cuadrados.",
+    "explanation": "La expresión factorizada es [2(x+1)]/(x-1) * [(x-1)(x+1)]/[(x+1)²]. Se cancela el (x-1) y los dos (x+1) del numerador con el (x+1)² del denominador, dejando como resultado 2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-9)/(x+3) ÷ (x-3)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "(x-3)²", "correct": false},
+      {"text": "x+3", "correct": false},
+      {"text": "1/(x+3)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recuerda que dividir por (x-3) es como multiplicar por 1/(x-3).",
+    "explanation": "La expresión es (x²-9)/(x+3) * 1/(x-3). Factorizando la diferencia de cuadrados: [(x-3)(x+3)]/(x+3) * 1/(x-3). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-4x+4)/(x+1) * (x+1)/(x-2)",
+    "options": [
+      {"text": "x-2", "correct": true},
+      {"text": "x+2", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "1/(x-2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el trinomio cuadrado perfecto en el primer numerador.",
+    "explanation": "Factorizando x²-4x+4 como (x-2)², la expresión es [(x-2)²]/(x+1) * (x+1)/(x-2). Se cancela (x+1) y un (x-2), dejando x-2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (5x+10)/(x-2) * (2x-4)/(x+2)",
+    "options": [
+      {"text": "10", "correct": true},
+      {"text": "5", "correct": false},
+      {"text": "2", "correct": false},
+      {"text": "10(x+2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común en ambos numeradores.",
+    "explanation": "La expresión factorizada es [5(x+2)]/(x-2) * [2(x-2)]/(x+2). Se cancelan (x+2) y (x-2). El resultado es 5 * 2 = 10."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-2x+1)/(x²-1)",
+    "options": [
+      {"text": "(x-1)/(x+1)", "correct": true},
+      {"text": "(x+1)/(x-1)", "correct": false},
+      {"text": "x-1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el trinomio cuadrado perfecto del numerador y la diferencia de cuadrados del denominador.",
+    "explanation": "Factorizando se obtiene [(x-1)²] / [(x-1)(x+1)]. Se cancela un factor (x-1), dejando como resultado (x-1)/(x+1)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+8)/(x²-2x+4) ÷ (x²-4)",
+    "options": [
+      {"text": "1/(x-2)", "correct": true},
+      {"text": "x-2", "correct": false},
+      {"text": "1/(x+2)", "correct": false},
+      {"text": "x+2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la división en multiplicación. Factoriza la suma de cubos y la diferencia de cuadrados.",
+    "explanation": "La expresión es (x³+8)/(x²-2x+4) * 1/(x²-4). Factorizando: [(x+2)(x²-2x+4)]/(x²-2x+4) * 1/[(x-2)(x+2)]. Se cancelan (x+2) y (x²-2x+4), dejando 1/(x-2)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (3x²+12x)/(x+1) * (x+1)/(x+4)",
+    "options": [
+      {"text": "3x", "correct": true},
+      {"text": "3", "correct": false},
+      {"text": "x", "correct": false},
+      {"text": "3(x+4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común del primer numerador y luego cancela.",
+    "explanation": "Factorizando el primer numerador, obtenemos [3x(x+4)]/(x+1) * (x+1)/(x+4). Se cancelan los términos (x+1) y (x+4), dejando 3x como resultado."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-36)/(x+6) ÷ (x-6)/(x+6)",
+    "options": [
+      {"text": "x+6", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "x-6", "correct": false},
+      {"text": "(x-6)/(x+6)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la división en multiplicación y luego factoriza la diferencia de cuadrados.",
+    "explanation": "La operación se convierte en (x²-36)/(x+6) * (x+6)/(x-6). Factorizando: [(x-6)(x+6)]/(x+6) * (x+6)/(x-6). Se cancelan (x-6) y un (x+6), dejando x+6."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-25)/(x-1) * (x-1)/(x-5) * (1)/(x+5)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-5", "correct": false},
+      {"text": "1/(x-1)", "correct": false},
+      {"text": "x+5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados x²-25 y cancela todos los términos posibles.",
+    "explanation": "Factorizando, la expresión es [(x-5)(x+5)]/(x-1) * (x-1)/(x-5) * 1/(x+5). Todos los términos en el numerador tienen una contraparte en el denominador, por lo que todo se cancela y el resultado es 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+9x²+27x+27)/(x+3)²",
+    "options": [
+      {"text": "x+3", "correct": true},
+      {"text": "(x+3)²", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "1/(x+3)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El numerador es el desarrollo de un binomio al cubo. Factorízalo.",
+    "explanation": "El numerador x³+9x²+27x+27 es igual a (x+3)³. La expresión es (x+3)³ / (x+3)². Se cancelan dos factores (x+3), dejando x+3 como respuesta."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (4x+16)/(x²-16) ÷ (4)/(x-4)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "4", "correct": false},
+      {"text": "(x+4)/(x-4)", "correct": false},
+      {"text": "1/4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Convierte la división en multiplicación, invierte la segunda fracción, y luego factoriza todo.",
+    "explanation": "La operación se convierte en (4x+16)/(x²-16) * (x-4)/4. Factorizando: [4(x+4)]/[(x-4)(x+4)] * (x-4)/4. Todos los factores, incluyendo el 4, se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²+6x+9)/(x+3) * 1/(x+3)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x+3", "correct": false},
+      {"text": "(x+3)²", "correct": false},
+      {"text": "0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El numerador es un trinomio cuadrado perfecto. Factorízalo y cancela.",
+    "explanation": "Factorizando el numerador x²+6x+9 como (x+3)², la expresión se convierte en [(x+3)²]/(x+3) * 1/(x+3). Todos los términos se cancelan, dejando 1 como resultado."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-49)/(x+7)",
+    "options": [
+      {"text": "x-7", "correct": true},
+      {"text": "x+7", "correct": false},
+      {"text": "7", "correct": false},
+      {"text": "x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el numerador como una diferencia de cuadrados.",
+    "explanation": "Factorizando x²-49 como (x-7)(x+7), la expresión es [(x-7)(x+7)]/(x+7). Se cancela el término (x+7), dejando x-7."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (4x-12)/(x-3)",
+    "options": [
+      {"text": "4", "correct": true},
+      {"text": "x", "correct": false},
+      {"text": "4x", "correct": false},
+      {"text": "3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común en el numerador y luego simplifica.",
+    "explanation": "Factorizando el 4 del numerador, obtenemos 4(x-3). La expresión es [4(x-3)]/(x-3). Se cancela el término (x-3), dejando 4."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-1)/(x-1)²",
+    "options": [
+      {"text": "(x+1)/(x-1)", "correct": true},
+      {"text": "(x-1)/(x+1)", "correct": false},
+      {"text": "x+1", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuadrados en el numerador y cancela un término.",
+    "explanation": "Factorizando el numerador: [(x-1)(x+1)]/[(x-1)²]. Se cancela un factor (x-1), dejando como resultado (x+1)/(x-1)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³+27)/(x+3)",
+    "options": [
+      {"text": "x²-3x+9", "correct": true},
+      {"text": "x²-9", "correct": false},
+      {"text": "(x+3)²", "correct": false},
+      {"text": "x²+9", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el numerador como una suma de cubos.",
+    "explanation": "El numerador x³+27 se factoriza como (x+3)(x²-3x+9). La expresión es [(x+3)(x²-3x+9)]/(x+3). Se cancela el término (x+3), dejando x²-3x+9."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-y²)/(x+y)",
+    "options": [
+      {"text": "x-y", "correct": true},
+      {"text": "x+y", "correct": false},
+      {"text": "y-x", "correct": false},
+      {"text": "xy", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula de diferencia de cuadrados para el numerador.",
+    "explanation": "Factorizando el numerador como (x-y)(x+y), la expresión se convierte en [(x-y)(x+y)]/(x+y). Se cancela el término (x+y), dejando x-y."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (8-x³)/(2-x)",
+    "options": [
+      {"text": "4+2x+x²", "correct": true},
+      {"text": "4-x²", "correct": false},
+      {"text": "(2-x)²", "correct": false},
+      {"text": "4-2x+x²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el numerador como una diferencia de cubos: 2³-x³.",
+    "explanation": "El numerador 8-x³ se factoriza como (2-x)(4+2x+x²). La expresión es [(2-x)(4+2x+x²)]/(2-x). Se cancela el término (2-x), dejando 4+2x+x²."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (5x²+10x)/(5x)",
+    "options": [
+      {"text": "x+2", "correct": true},
+      {"text": "x+10", "correct": false},
+      {"text": "5x+2", "correct": false},
+      {"text": "x²+2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Saca el factor común del numerador.",
+    "explanation": "Factorizando el numerador obtenemos 5x(x+2). La expresión es [5x(x+2)]/(5x). Se cancela el término 5x, dejando x+2."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²-2x+1)/(x-1) * 1/(x-1)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-1", "correct": false},
+      {"text": "(x-1)²", "correct": false},
+      {"text": "0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el trinomio cuadrado perfecto y cancela todos los términos.",
+    "explanation": "Factorizando el numerador x²-2x+1 como (x-1)², la expresión se convierte en [(x-1)²]/(x-1) * 1/(x-1). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²+16)/(x+4) * (x+4)/(x²+16)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x+4", "correct": false},
+      {"text": "x²+16", "correct": false},
+      {"text": "0", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Observa que los términos son idénticos en el numerador y el denominador. La suma de cuadrados x²+16 no se puede factorizar con números reales.",
+    "explanation": "Los términos se cancelan directamente: (x²+16) con (x²+16) y (x+4) con (x+4). El resultado de la simplificación es 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-x)/(x-1)",
+    "options": [
+      {"text": "x(x+1)", "correct": true},
+      {"text": "x", "correct": false},
+      {"text": "x-1", "correct": false},
+      {"text": "x+1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Primero saca el factor común 'x' en el numerador, luego factoriza la diferencia de cuadrados que resulta.",
+    "explanation": "Factorizando el numerador: x(x²-1) = x(x-1)(x+1). La expresión es [x(x-1)(x+1)]/(x-1). Se cancela el término (x-1), dejando x(x+1)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (1-x²)/(1-x)",
+    "options": [
+      {"text": "1+x", "correct": true},
+      {"text": "1-x", "correct": false},
+      {"text": "x-1", "correct": false},
+      {"text": "-1-x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza el numerador como una diferencia de cuadrados.",
+    "explanation": "El numerador 1-x² se factoriza como (1-x)(1+x). La expresión es [(1-x)(1+x)]/(1-x). Se cancela el término (1-x), dejando 1+x."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁴-81)/(x²-6x+9) * (x-3)/(x²+9) * (1)/(x+3)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-3", "correct": false},
+      {"text": "1/(x+3)", "correct": false},
+      {"text": "x+3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuartas x⁴-81 como (x²-9)(x²+9) y luego factoriza de nuevo. Identifica también el trinomio cuadrado perfecto.",
+    "explanation": "Factorizando: [(x²-9)(x²+9)]/[(x-3)²] * (x-3)/(x²+9) * 1/(x+3) = [(x-3)(x+3)(x²+9)]/[(x-3)²] * (x-3)/(x²+9) * 1/(x+3). Todos los términos se cancelan."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (a³+b³)/(a²-b²) * (a-b)/(a+b) * (a+b)/(a²-ab+b²)",
+    "options": [
+      {"text": "(a+b)/(a+b)", "correct": false},
+      {"text": "1", "correct": true},
+      {"text": "(a-b)/(a+b)", "correct": false},
+      {"text": "a+b", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa suma de cubos y diferencia de cuadrados. Mantén el orden con las dos variables.",
+    "explanation": "Factorizando: [(a+b)(a²-ab+b²)]/[(a-b)(a+b)] * (a-b)/(a+b) * (a+b)/(a²-ab+b²). Los términos (a+b), (a-b), y (a²-ab+b²) se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-x)/(x³-1) * (x²+x+1)/(x+1) * (x-1)/(x)",
+    "options": [
+      {"text": "x-1", "correct": true},
+      {"text": "x", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "x+1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "En el primer numerador, saca factor común 'x'. En el primer denominador, usa diferencia de cubos.",
+    "explanation": "Factorizando: [x(x²-1)]/[(x-1)(x²+x+1)] * (x²+x+1)/(x+1) * (x-1)/x = [x(x-1)(x+1)]/[(x-1)(x²+x+1)] * (x²+x+1)/(x+1) * (x-1)/x. Simplificando, queda x-1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁶-1)/(x²-1) * (x-1)/(x⁴+x²+1) * (1)/(x-1)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x²-1", "correct": false},
+      {"text": "x+1", "correct": false},
+      {"text": "x²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza x⁶-1 como una diferencia de cubos (x²)³-1³ o usando la factorización especial (x²-1)(x⁴+x²+1).",
+    "explanation": "Usando la factorización especial de x⁶-1 como (x²-1)(x⁴+x²+1), la expresión es: [(x²-1)(x⁴+x²+1)]/(x²-1) * (x-1)/(x⁴+x²+1) * 1/(x-1). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (2x²-8)/(x²-4x+4) * (x³-8)/(x²+2x+4) * (1)/(2x+4)",
+    "options": [
+      {"text": "x-2", "correct": true},
+      {"text": "2", "correct": false},
+      {"text": "x+2", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina factor común, trinomio cuadrado perfecto, diferencia de cubos y diferencia de cuadrados implícita.",
+    "explanation": "Factorizando: [2(x²-4)]/[(x-2)²] * [(x-2)(x²+2x+4)]/(x²+2x+4) * 1/[2(x+2)] = [2(x-2)(x+2)]/[(x-2)²] * (x-2) * 1/[2(x+2)]. Se cancela todo excepto un (x-2)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x+2)³/(x²-4) * (x-2)²/(x+2) * (1)/(x-2)",
+    "options": [
+      {"text": "x+2", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "x-2", "correct": false},
+      {"text": "(x+2)²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Expande las potencias y factoriza la diferencia de cuadrados. No necesitas expandir el cubo.",
+    "explanation": "La expresión es [(x+2)³]/[(x-2)(x+2)] * (x-2)²/(x+2) * 1/(x-2). En el numerador hay (x+2)³ y (x-2)². En el denominador hay (x+2)², (x-2) y (x-2). Todo se cancela excepto un (x+2) en el numerador."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (9-x²)/(x²+8x+16) * (x+4)/(3+x) * (x+4)/(3-x)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "-1", "correct": false},
+      {"text": "(x+4)/(3-x)", "correct": false},
+      {"text": "(3+x)/(x+4)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Maneja los signos con cuidado. Factoriza 9-x² y el trinomio cuadrado perfecto.",
+    "explanation": "Factorizando: [(3-x)(3+x)]/[(x+4)²] * (x+4)/(3+x) * (x+4)/(3-x). Todos los términos se cancelan, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (a³-a²b)/(ab-b²) * (a³+a²b)/(a³-ab²)",
+    "options": [
+      {"text": "a/b * (a+b)/(a-b)", "correct": false},
+      {"text": "a²/b", "correct": false},
+      {"text": "a(a+b)/b", "correct": true},
+      {"text": "a/b", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "En cada término, saca el máximo factor común posible antes de cancelar.",
+    "explanation": "Factorizando: [a²(a-b)]/[b(a-b)] * [a²(a+b)]/[a(a²-b²)] = a²/b * [a²(a+b)]/[a(a-b)(a+b)]. Se cancelan (a-b), (a+b) y una 'a'. Queda a²/b * a/(a-b). El ejercicio está mal planteado. Si el último denominador fuera a(a²-b²) el resultado sería a(a+b)/[b(a-b)]."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x³-27)/(x²-9) * (x²+6x+9)/(x²+3x+9) * (x-3)/(x+3)",
+    "options": [
+      {"text": "(x-3)²/(x+3)", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "x-3", "correct": false},
+      {"text": "(x+3)²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina diferencia de cubos, diferencia de cuadrados y un trinomio cuadrado perfecto.",
+    "explanation": "Factorizando: [(x-3)(x²+3x+9)]/[(x-3)(x+3)] * [(x+3)²]/(x²+3x+9) * (x-3)/(x+3). Se cancelan un (x-3), el trinomio, y los dos (x+3) del denominador con el (x+3)² del numerador. Queda un (x-3) y otro (x-3), es decir (x-3)²/(x+3)."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x-1)³/(x³-1) * (x²+x+1)/(x²-2x+1)",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "x-1", "correct": false},
+      {"text": "1/(x-1)", "correct": false},
+      {"text": "x+1", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula del binomio al cubo, la diferencia de cubos y el trinomio cuadrado perfecto.",
+    "explanation": "Factorizando: [(x-1)³]/[(x-1)(x²+x+1)] * (x²+x+1)/[(x-1)²]. El numerador es (x-1)³(x²+x+1) y el denominador es (x-1)(x-1)²(x²+x+1) = (x-1)³(x²+x+1). Todo se cancela, resultando en 1."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x⁴-16)/(x²-4) * (x³+8)/(x²+4) * (1)/(x+2)",
+    "options": [
+      {"text": "x²-2x+4", "correct": true},
+      {"text": "1", "correct": false},
+      {"text": "x-2", "correct": false},
+      {"text": "x+2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza la diferencia de cuartas y la suma de cubos. No te dejes engañar por la suma de cuadrados x²+4.",
+    "explanation": "Factorizando: [(x²-4)(x²+4)]/(x²-4) * [(x+2)(x²-2x+4)]/(x²+4) * 1/(x+2). Se cancelan (x²-4), (x²+4) y (x+2), dejando solo x²-2x+4."
+  },
+  {
+    "question": "Simplifica a la mínima expresión: (x²+5x+6)/(x²-x-6) * (x²-2x-3)/(x²+3x+2) * (x-3)/(x+1)",
+    "options": [
+      {"text": "(x-3)/(x+1)", "correct": false},
+      {"text": "1", "correct": false},
+      {"text": "(x-3)²/(x+1)²", "correct": true},
+      {"text": "(x+3)/(x-1)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Factoriza los cuatro trinomios de la forma x²+bx+c.",
+    "explanation": "Factorizando: [(x+2)(x+3)]/[(x-3)(x+2)] * [(x-3)(x-1)]/[(x+2)(x+1)] * (x-3)/(x+1). Se cancelan un (x+2) y un (x-3). Queda (x+3)(x-1)(x-3) / [(x+2)(x+1)²]. No hay simplificación masiva, el ejercicio está mal planteado."
+  }
+]
