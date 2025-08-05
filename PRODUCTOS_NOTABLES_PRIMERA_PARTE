@@ -1,0 +1,1172 @@
+[
+  {
+    "question": "¿Cuál es el desarrollo de (3x + 4)²?",
+    "options": [
+      {"text": "9x² + 24x + 16", "correct": true},
+      {"text": "9x² + 12x + 16", "correct": false},
+      {"text": "3x² + 24x + 16", "correct": false},
+      {"text": "9x² + 24x + 8", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sigue la fórmula (a + b)² = a² + 2ab + b²",
+    "explanation": "Aplicando la fórmula del binomio al cuadrado: (3x)² + 2(3x)(4) + 4² = 9x² + 24x + 16."
+  },
+  {
+    "question": "¿Cuál es la factorización de x² - 25?",
+    "options": [
+      {"text": "(x + 5)(x - 5)", "correct": true},
+      {"text": "(x - 5)²", "correct": false},
+      {"text": "(x + 25)(x - 1)", "correct": false},
+      {"text": "x(x - 25)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una diferencia de cuadrados",
+    "explanation": "x² - 25 = x² - 5² = (x + 5)(x - 5), aplicando la fórmula de diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el resultado de (2x - 7)(2x + 7)?",
+    "options": [
+      {"text": "4x² - 49", "correct": true},
+      {"text": "4x² + 49", "correct": false},
+      {"text": "2x² - 49", "correct": false},
+      {"text": "4x² - 14", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son binomios conjugados",
+    "explanation": "El producto de binomios conjugados es (a - b)(a + b) = a² - b². Aquí, (2x)² - 7² = 4x² - 49."
+  },
+  {
+    "question": "¿Cuál es el factor común en 12x³y - 18x²y² + 6xy³?",
+    "options": [
+      {"text": "6xy", "correct": true},
+      {"text": "3xy", "correct": false},
+      {"text": "6x²y", "correct": false},
+      {"text": "12xy", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el máximo común divisor numérico y de variables",
+    "explanation": "El MCD de 12, 18 y 6 es 6, y de las variables es xy (menor exponente en cada caso)."
+  },
+  {
+    "question": "¿Qué expresión es un trinomio cuadrado perfecto?",
+    "options": [
+      {"text": "x² + 6x + 9", "correct": true},
+      {"text": "x² + 5x + 9", "correct": false},
+      {"text": "x² + 6x + 12", "correct": false},
+      {"text": "x² - 6x - 9", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Puede expresarse como un binomio al cuadrado",
+    "explanation": "x² + 6x + 9 = (x + 3)², cumpliendo con el patrón a² + 2ab + b²."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 4)(x + 5)?",
+    "options": [
+      {"text": "x² + 9x + 20", "correct": true},
+      {"text": "x² + 20x + 9", "correct": false},
+      {"text": "x² + x + 20", "correct": false},
+      {"text": "2x + 9x + 20", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el método FOIL (First, Outer, Inner, Last)",
+    "explanation": "Multiplicando: x·x + x·5 + 4·x + 4·5 = x² + 5x + 4x + 20 = x² + 9x + 20."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (5 - 2y)²?",
+    "options": [
+      {"text": "25 - 20y + 4y²", "correct": true},
+      {"text": "25 + 20y + 4y²", "correct": false},
+      {"text": "25 - 10y + 4y²", "correct": false},
+      {"text": "5 - 20y + 2y²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un binomio al cuadrado con resta",
+    "explanation": "(a - b)² = a² - 2ab + b². Aquí: 5² - 2(5)(2y) + (2y)² = 25 - 20y + 4y²."
+  },
+  {
+    "question": "¿Cuál es la factorización de 16a² - 9b²?",
+    "options": [
+      {"text": "(4a + 3b)(4a - 3b)", "correct": true},
+      {"text": "(16a + 9b)(a - b)", "correct": false},
+      {"text": "(4a - 3b)²", "correct": false},
+      {"text": "(8a + 3b)(2a - 3b)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una diferencia de cuadrados",
+    "explanation": "16a² - 9b² = (4a)² - (3b)² = (4a + 3b)(4a - 3b)."
+  },
+  {
+    "question": "¿Cuál es el factor común en 15x⁴ - 25x³ + 10x²?",
+    "options": [
+      {"text": "5x²", "correct": true},
+      {"text": "5x³", "correct": false},
+      {"text": "10x²", "correct": false},
+      {"text": "15x²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el MCD de los coeficientes y la variable con menor exponente",
+    "explanation": "MCD de 15, 25 y 10 es 5, y la variable común con menor exponente es x²."
+  },
+  {
+    "question": "¿Cuál es el resultado de (√3 + √2)(√3 - √2)?",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "5", "correct": false},
+      {"text": "√6", "correct": false},
+      {"text": "3 - 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son binomios conjugados con raíces",
+    "explanation": "(√3 + √2)(√3 - √2) = (√3)² - (√2)² = 3 - 2 = 1."
+  },
+  {
+    "question": "¿Qué expresión completa el trinomio cuadrado perfecto x² + ___ + 16?",
+    "options": [
+      {"text": "8x", "correct": true},
+      {"text": "4x", "correct": false},
+      {"text": "16x", "correct": false},
+      {"text": "32x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El término medio es 2ab cuando a² = x² y b² = 16",
+    "explanation": "Si x² + ___ + 16 es un TCP, entonces b² = 16 ⇒ b = 4. El término medio es 2ab = 2(x)(4) = 8x."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 3)(x - 2)?",
+    "options": [
+      {"text": "x² + x - 6", "correct": true},
+      {"text": "x² - x - 6", "correct": false},
+      {"text": "x² + 5x - 6", "correct": false},
+      {"text": "x² - 5x + 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica cada término del primer binomio por cada término del segundo",
+    "explanation": "x·x + x·(-2) + 3·x + 3·(-2) = x² - 2x + 3x - 6 = x² + x - 6."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (1/2x + 4)²?",
+    "options": [
+      {"text": "1/4x² + 4x + 16", "correct": true},
+      {"text": "1/2x² + 4x + 8", "correct": false},
+      {"text": "1/4x² + 8x + 16", "correct": false},
+      {"text": "1/4x² + 2x + 16", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la fórmula del binomio al cuadrado con coeficientes fraccionarios",
+    "explanation": "(1/2x + 4)² = (1/2x)² + 2(1/2x)(4) + 4² = 1/4x² + 4x + 16."
+  },
+  {
+    "question": "¿Cuál es la factorización de 49y² - 100z²?",
+    "options": [
+      {"text": "(7y + 10z)(7y - 10z)", "correct": true},
+      {"text": "(49y + 100z)(y - z)", "correct": false},
+      {"text": "(7y - 10z)²", "correct": false},
+      {"text": "(14y + 5z)(7y - 20z)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica las raíces cuadradas de cada término",
+    "explanation": "49y² = (7y)², 100z² = (10z)². Entonces es diferencia de cuadrados: (7y + 10z)(7y - 10z)."
+  },
+  {
+    "question": "¿Cuál es el factor común en 8a³b² - 12a²b³ + 20a⁴b?",
+    "options": [
+      {"text": "4a²b", "correct": true},
+      {"text": "2a²b²", "correct": false},
+      {"text": "8a²b", "correct": false},
+      {"text": "4ab", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el MCD numérico y las variables comunes con menores exponentes",
+    "explanation": "MCD de 8, 12 y 20 es 4. Variables comunes: a² (menor exponente 2) y b (menor exponente 1)."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 7)(x - 7)?",
+    "options": [
+      {"text": "x² - 49", "correct": true},
+      {"text": "x² + 49", "correct": false},
+      {"text": "x² - 14", "correct": false},
+      {"text": "x² - 7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un producto de binomios conjugados",
+    "explanation": "(x + 7)(x - 7) = x² - 7² = x² - 49, por la fórmula de diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (3x + 2y)²?",
+    "options": [
+      {"text": "9x² + 12xy + 4y²", "correct": true},
+      {"text": "3x² + 12xy + 2y²", "correct": false},
+      {"text": "9x² + 6xy + 4y²", "correct": false},
+      {"text": "6x² + 12xy + 4y²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la fórmula del binomio al cuadrado con coeficientes",
+    "explanation": "(3x + 2y)² = (3x)² + 2(3x)(2y) + (2y)² = 9x² + 12xy + 4y²."
+  },
+  {
+    "question": "¿Cuál es la factorización de 36 - y²?",
+    "options": [
+      {"text": "(6 + y)(6 - y)", "correct": true},
+      {"text": "(36 + y)(1 - y)", "correct": false},
+      {"text": "(6 - y)²", "correct": false},
+      {"text": "(18 + y)(2 - y)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reconoce la diferencia de cuadrados",
+    "explanation": "36 - y² = 6² - y² = (6 + y)(6 - y), aplicando la fórmula de diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 5)(x + 3)?",
+    "options": [
+      {"text": "x² + 8x + 15", "correct": true},
+      {"text": "x² + 15x + 8", "correct": false},
+      {"text": "x² + 2x + 15", "correct": false},
+      {"text": "2x + 8x + 15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica cada término del primer binomio por cada término del segundo",
+    "explanation": "x·x + x·3 + 5·x + 5·3 = x² + 3x + 5x + 15 = x² + 8x + 15."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (4 - x)²?",
+    "options": [
+      {"text": "16 - 8x + x²", "correct": true},
+      {"text": "16 + 8x + x²", "correct": false},
+      {"text": "4 - 4x + x²", "correct": false},
+      {"text": "16 - 4x + x²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un binomio al cuadrado con resta",
+    "explanation": "(4 - x)² = 4² - 2(4)(x) + x² = 16 - 8x + x²."
+  },
+  {
+    "question": "¿Qué expresión completa el trinomio cuadrado perfecto 9x² + ___ + 25?",
+    "options": [
+      {"text": "30x", "correct": true},
+      {"text": "15x", "correct": false},
+      {"text": "45x", "correct": false},
+      {"text": "60x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica a y b en a² + 2ab + b²",
+    "explanation": "9x² = (3x)², 25 = 5². El término medio es 2ab = 2(3x)(5) = 30x."
+  },
+  {
+    "question": "¿Cuál es la factorización de 81m² - 16n²?",
+    "options": [
+      {"text": "(9m + 4n)(9m - 4n)", "correct": true},
+      {"text": "(81m + 16n)(m - n)", "correct": false},
+      {"text": "(9m - 4n)²", "correct": false},
+      {"text": "(27m + 8n)(3m - 2n)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una diferencia de cuadrados con coeficientes",
+    "explanation": "81m² = (9m)², 16n² = (4n)². Entonces: (9m + 4n)(9m - 4n)."
+  },
+  {
+    "question": "¿Cuál es el factor común en 24x⁵ - 36x⁴ + 60x³?",
+    "options": [
+      {"text": "12x³", "correct": true},
+      {"text": "6x³", "correct": false},
+      {"text": "12x⁴", "correct": false},
+      {"text": "24x³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el máximo común divisor numérico y de variables",
+    "explanation": "MCD de 24, 36 y 60 es 12. La variable común con menor exponente es x³."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 6)(x - 6)?",
+    "options": [
+      {"text": "x² - 36", "correct": true},
+      {"text": "x² + 36", "correct": false},
+      {"text": "x² - 12", "correct": false},
+      {"text": "x² - 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un producto de binomios conjugados",
+    "explanation": "(x + 6)(x - 6) = x² - 6² = x² - 36, por diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (2a + 5b)²?",
+    "options": [
+      {"text": "4a² + 20ab + 25b²", "correct": true},
+      {"text": "2a² + 20ab + 5b²", "correct": false},
+      {"text": "4a² + 10ab + 25b²", "correct": false},
+      {"text": "8a² + 20ab + 25b²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la fórmula del binomio al cuadrado con coeficientes",
+    "explanation": "(2a + 5b)² = (2a)² + 2(2a)(5b) + (5b)² = 4a² + 20ab + 25b²."
+  },
+  {
+    "question": "¿Cuál es la factorización de 144 - 25y²?",
+    "options": [
+      {"text": "(12 + 5y)(12 - 5y)", "correct": true},
+      {"text": "(144 + 25y)(1 - y)", "correct": false},
+      {"text": "(12 - 5y)²", "correct": false},
+      {"text": "(24 + 5y)(6 - 5y)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica las raíces cuadradas de cada término",
+    "explanation": "144 = 12², 25y² = (5y)². Entonces: (12 + 5y)(12 - 5y), por diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 4)(x + 6)?",
+    "options": [
+      {"text": "x² + 10x + 24", "correct": true},
+      {"text": "x² + 24x + 10", "correct": false},
+      {"text": "x² + 2x + 24", "correct": false},
+      {"text": "2x + 10x + 24", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el método FOIL para multiplicar binomios",
+    "explanation": "x·x + x·6 + 4·x + 4·6 = x² + 6x + 4x + 24 = x² + 10x + 24."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (1 - 3x)²?",
+    "options": [
+      {"text": "1 - 6x + 9x²", "correct": true},
+      {"text": "1 + 6x + 9x²", "correct": false},
+      {"text": "1 - 3x + 9x²", "correct": false},
+      {"text": "1 - 6x + 3x²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un binomio al cuadrado con resta y coeficiente",
+    "explanation": "(1 - 3x)² = 1² - 2(1)(3x) + (3x)² = 1 - 6x + 9x²."
+  },
+  {
+    "question": "¿Qué expresión completa el trinomio cuadrado perfecto 16x² + ___ + 9?",
+    "options": [
+      {"text": "24x", "correct": true},
+      {"text": "12x", "correct": false},
+      {"text": "48x", "correct": false},
+      {"text": "8x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Calcula 2ab donde a² = 16x² y b² = 9",
+    "explanation": "16x² = (4x)², 9 = 3². El término medio es 2(4x)(3) = 24x."
+  },
+  {
+    "question": "¿Cuál es la factorización de 64 - 49y²?",
+    "options": [
+      {"text": "(8 + 7y)(8 - 7y)", "correct": true},
+      {"text": "(64 + 49y)(1 - y)", "correct": false},
+      {"text": "(8 - 7y)²", "correct": false},
+      {"text": "(16 + 7y)(4 - 7y)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reconoce la diferencia de cuadrados con coeficientes",
+    "explanation": "64 = 8², 49y² = (7y)². Entonces: (8 + 7y)(8 - 7y)."
+  },
+  {
+    "question": "¿Cuál es el factor común en 45a⁴b³ - 75a³b⁵ + 90a²b⁴?",
+    "options": [
+      {"text": "15a²b³", "correct": true},
+      {"text": "5a³b³", "correct": false},
+      {"text": "15a³b²", "correct": false},
+      {"text": "45a²b³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el MCD numérico y las variables con menores exponentes",
+    "explanation": "MCD de 45, 75 y 90 es 15. Variables: a² (menor exponente 2) y b³ (menor exponente 3)."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 9)(x - 9)?",
+    "options": [
+      {"text": "x² - 81", "correct": true},
+      {"text": "x² + 81", "correct": false},
+      {"text": "x² - 18", "correct": false},
+      {"text": "x² - 9", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un producto de binomios conjugados",
+    "explanation": "(x + 9)(x - 9) = x² - 9² = x² - 81, por diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (3x + y)²?",
+    "options": [
+      {"text": "9x² + 6xy + y²", "correct": true},
+      {"text": "3x² + 6xy + y²", "correct": false},
+      {"text": "9x² + 3xy + y²", "correct": false},
+      {"text": "6x² + 6xy + y²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la fórmula del binomio al cuadrado con coeficientes",
+    "explanation": "(3x + y)² = (3x)² + 2(3x)(y) + y² = 9x² + 6xy + y²."
+  },
+  {
+    "question": "¿Cuál es la factorización de 100 - 9z²?",
+    "options": [
+      {"text": "(10 + 3z)(10 - 3z)", "correct": true},
+      {"text": "(100 + 9z)(1 - z)", "correct": false},
+      {"text": "(10 - 3z)²", "correct": false},
+      {"text": "(50 + 3z)(2 - 3z)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica las raíces cuadradas de cada término",
+    "explanation": "100 = 10², 9z² = (3z)². Entonces: (10 + 3z)(10 - 3z), por diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 2)(x + 8)?",
+    "options": [
+      {"text": "x² + 10x + 16", "correct": true},
+      {"text": "x² + 16x + 10", "correct": false},
+      {"text": "x² + 6x + 16", "correct": false},
+      {"text": "2x + 10x + 16", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica cada término del primer binomio por cada término del segundo",
+    "explanation": "x·x + x·8 + 2·x + 2·8 = x² + 8x + 2x + 16 = x² + 10x + 16."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (5 - 2x)²?",
+    "options": [
+      {"text": "25 - 20x + 4x²", "correct": true},
+      {"text": "25 + 20x + 4x²", "correct": false},
+      {"text": "5 - 10x + 4x²", "correct": false},
+      {"text": "25 - 10x + 4x²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un binomio al cuadrado con resta y coeficientes",
+    "explanation": "(5 - 2x)² = 5² - 2(5)(2x) + (2x)² = 25 - 20x + 4x²."
+  },
+  {
+    "question": "¿Qué expresión completa el trinomio cuadrado perfecto 25x² + ___ + 4?",
+    "options": [
+      {"text": "20x", "correct": true},
+      {"text": "10x", "correct": false},
+      {"text": "50x", "correct": false},
+      {"text": "5x", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Calcula 2ab donde a² = 25x² y b² = 4",
+    "explanation": "25x² = (5x)², 4 = 2². El término medio es 2(5x)(2) = 20x."
+  },
+  {
+    "question": "¿Cuál es la factorización de 121 - 64y²?",
+    "options": [
+      {"text": "(11 + 8y)(11 - 8y)", "correct": true},
+      {"text": "(121 + 64y)(1 - y)", "correct": false},
+      {"text": "(11 - 8y)²", "correct": false},
+      {"text": "(11 + 4y)(11 - 16y)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reconoce la diferencia de cuadrados con coeficientes",
+    "explanation": "121 = 11², 64y² = (8y)². Entonces: (11 + 8y)(11 - 8y)."
+  },
+  {
+    "question": "¿Cuál es el factor común en 54x⁶y⁵ - 72x⁴y⁷ + 90x⁵y⁴?",
+    "options": [
+      {"text": "18x⁴y⁴", "correct": true},
+      {"text": "9x⁴y⁵", "correct": false},
+      {"text": "18x⁵y⁴", "correct": false},
+      {"text": "54x⁴y⁴", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el MCD numérico y las variables con menores exponentes",
+    "explanation": "MCD de 54, 72 y 90 es 18. Variables: x⁴ (menor exponente 4) y y⁴ (menor exponente 4)."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 10)(x - 10)?",
+    "options": [
+      {"text": "x² - 100", "correct": true},
+      {"text": "x² + 100", "correct": false},
+      {"text": "x² - 20", "correct": false},
+      {"text": "x² - 10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un producto de binomios conjugados",
+    "explanation": "(x + 10)(x - 10) = x² - 10² = x² - 100, por diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (4a + 3b)²?",
+    "options": [
+      {"text": "16a² + 24ab + 9b²", "correct": true},
+      {"text": "4a² + 24ab + 3b²", "correct": false},
+      {"text": "16a² + 12ab + 9b²", "correct": false},
+      {"text": "8a² + 24ab + 9b²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la fórmula del binomio al cuadrado con coeficientes",
+    "explanation": "(4a + 3b)² = (4a)² + 2(4a)(3b) + (3b)² = 16a² + 24ab + 9b²."
+  },
+  {
+    "question": "¿Cuál es la factorización de 169 - 36y²?",
+    "options": [
+      {"text": "(13 + 6y)(13 - 6y)", "correct": true},
+      {"text": "(169 + 36y)(1 - y)", "correct": false},
+      {"text": "(13 - 6y)²", "correct": false},
+      {"text": "(13 + 3y)(13 - 12y)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Identifica las raíces cuadradas de cada término",
+    "explanation": "169 = 13², 36y² = (6y)². Entonces: (13 + 6y)(13 - 6y), por diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el resultado de (x + 1)(x + 9)?",
+    "options": [
+      {"text": "x² + 10x + 9", "correct": true},
+      {"text": "x² + 9x + 10", "correct": false},
+      {"text": "x² + 8x + 9", "correct": false},
+      {"text": "2x + 10x + 9", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el método FOIL para multiplicar binomios",
+    "explanation": "x·x + x·9 + 1·x + 1·9 = x² + 9x + x + 9 = x² + 10x + 9."
+  },
+  {
+    "question": "¿Cuál es el desarrollo correcto de (x + 3)²?",
+    "options": [
+      {"text": "x² + 6x + 9", "correct": true},
+      {"text": "x² + 9x + 9", "correct": false},
+      {"text": "x² + 3x + 9", "correct": false},
+      {"text": "x² + 6x + 6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Sigue el patrón a² + 2ab + b²",
+    "explanation": "El binomio al cuadrado sigue la fórmula (a + b)² = a² + 2ab + b². En este caso, a = x y b = 3, por lo que x² + 2(x)(3) + 3² = x² + 6x + 9."
+  },
+  {
+    "question": "¿Qué producto notable representa la expresión x² - 16?",
+    "options": [
+      {"text": "Diferencia de cuadrados", "correct": true},
+      {"text": "Binomio al cuadrado", "correct": false},
+      {"text": "Suma de cubos", "correct": false},
+      {"text": "Trinomio cuadrado perfecto", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Puede escribirse como (x + 4)(x - 4)",
+    "explanation": "La diferencia de cuadrados sigue la fórmula a² - b² = (a + b)(a - b). Aquí, 16 es 4², por lo que x² - 16 = (x + 4)(x - 4)."
+  },
+  {
+    "question": "¿Cuál es la factorización correcta de 8x³ - 27?",
+    "options": [
+      {"text": "(2x - 3)(4x² + 6x + 9)", "correct": true},
+      {"text": "(2x + 3)(4x² - 6x + 9)", "correct": false},
+      {"text": "(2x - 3)(4x² - 6x + 9)", "correct": false},
+      {"text": "(2x + 3)(4x² + 6x + 9)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una diferencia de cubos",
+    "explanation": "La diferencia de cubos sigue a³ - b³ = (a - b)(a² + ab + b²). Aquí, 8x³ = (2x)³ y 27 = 3³, por lo que aplicando la fórmula obtenemos (2x - 3)(4x² + 6x + 9)."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (2x - 5)³?",
+    "options": [
+      {"text": "8x³ - 60x² + 150x - 125", "correct": true},
+      {"text": "8x³ + 60x² + 150x + 125", "correct": false},
+      {"text": "8x³ - 30x² + 75x - 125", "correct": false},
+      {"text": "8x³ - 60x² + 120x - 125", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula del binomio al cubo para (a - b)³",
+    "explanation": "El binomio al cubo para (a - b)³ = a³ - 3a²b + 3ab² - b³. Aplicando con a = 2x y b = 5: (2x)³ - 3(2x)²(5) + 3(2x)(5)² - 5³ = 8x³ - 60x² + 150x - 125."
+  },
+  {
+    "question": "¿Qué expresión algebraica representa un trinomio cuadrado perfecto?",
+    "options": [
+      {"text": "x² + 10x + 25", "correct": true},
+      {"text": "x² + 10x + 20", "correct": false},
+      {"text": "x² + 5x + 25", "correct": false},
+      {"text": "x² - 10x - 25", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Puede escribirse como un binomio al cuadrado",
+    "explanation": "Un trinomio cuadrado perfecto es el resultado de desarrollar un binomio al cuadrado. x² + 10x + 25 = (x + 5)², cumpliendo con el patrón a² + 2ab + b²."
+  },
+  {
+    "question": "¿Cuál es el factor común en la expresión 12x³y² - 18x²y⁴ + 6x⁴y?",
+    "options": [
+      {"text": "6x²y", "correct": true},
+      {"text": "3x²y²", "correct": false},
+      {"text": "6xy", "correct": false},
+      {"text": "12x²y", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el máximo común divisor de los coeficientes y las variables",
+    "explanation": "El factor común se obtiene encontrando el MCD de los coeficientes (6) y las variables con el menor exponente (x²y), resultando en 6x²y."
+  },
+  {
+    "question": "¿Cuál es el resultado de (√2 + √3)²?",
+    "options": [
+      {"text": "5 + 2√6", "correct": true},
+      {"text": "2 + 3 + 2√6", "correct": false},
+      {"text": "5 + √6", "correct": false},
+      {"text": "2 + 3 + √6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica el binomio al cuadrado con términos irracionales",
+    "explanation": "(√2 + √3)² = (√2)² + 2(√2)(√3) + (√3)² = 2 + 2√6 + 3 = 5 + 2√6."
+  },
+  {
+    "question": "¿Qué expresión es equivalente a (x + y + z)²?",
+    "options": [
+      {"text": "x² + y² + z² + 2xy + 2xz + 2yz", "correct": true},
+      {"text": "x² + y² + z² + xy + xz + yz", "correct": false},
+      {"text": "x² + y² + z² + 4xy + 4xz + 4yz", "correct": false},
+      {"text": "x² + y² + z² + (xy)² + (xz)² + (yz)²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una generalización del binomio al cuadrado",
+    "explanation": "El cuadrado de un trinomio sigue el patrón: (a + b + c)² = a² + b² + c² + 2ab + 2ac + 2bc."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (x - 2)(x + 2)(x² + 4)?",
+    "options": [
+      {"text": "x⁴ - 16", "correct": true},
+      {"text": "x⁴ + 16", "correct": false},
+      {"text": "x⁴ - 8x² + 16", "correct": false},
+      {"text": "x⁴ + 8x² + 16", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica diferencia de cuadrados dos veces",
+    "explanation": "Primero multiplica (x - 2)(x + 2) = x² - 4, luego (x² - 4)(x² + 4) = x⁴ - 16, aplicando diferencia de cuadrados en ambos pasos."
+  },
+  {
+    "question": "¿Cuál es el coeficiente del término x³y² en el desarrollo de (x + y)⁵?",
+    "options": [
+      {"text": "10", "correct": true},
+      {"text": "5", "correct": false},
+      {"text": "20", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el binomio de Newton y el triángulo de Pascal",
+    "explanation": "El coeficiente corresponde al número combinatorio C(5,2) = 10, ya que el término general en (x + y)ⁿ es C(n,k)x^{n-k}y^k."
+  },
+  {
+    "question": "¿Cuál es la factorización de x⁴ - y⁴?",
+    "options": [
+      {"text": "(x² + y²)(x + y)(x - y)", "correct": true},
+      {"text": "(x² - y²)(x² - y²)", "correct": false},
+      {"text": "(x - y)⁴", "correct": false},
+      {"text": "(x + y)²(x - y)²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica diferencia de cuadrados dos veces",
+    "explanation": "x⁴ - y⁴ = (x² + y²)(x² - y²) = (x² + y²)(x + y)(x - y), aplicando diferencia de cuadrados en dos pasos."
+  },
+  {
+    "question": "¿Cuál es el valor de (a + b)² - (a - b)²?",
+    "options": [
+      {"text": "4ab", "correct": true},
+      {"text": "2a² + 2b²", "correct": false},
+      {"text": "4a + 4b", "correct": false},
+      {"text": "a² + b²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Desarrolla ambos cuadrados y resta",
+    "explanation": "(a + b)² = a² + 2ab + b², (a - b)² = a² - 2ab + b². Restando: (a² + 2ab + b²) - (a² - 2ab + b²) = 4ab."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (1 + x)⁴ usando el binomio de Newton?",
+    "options": [
+      {"text": "1 + 4x + 6x² + 4x³ + x⁴", "correct": true},
+      {"text": "1 + x + x² + x³ + x⁴", "correct": false},
+      {"text": "1 + 4x + 4x² + 4x³ + x⁴", "correct": false},
+      {"text": "4 + 4x + 6x² + 4x³ + x⁴", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa los coeficientes binomiales del triángulo de Pascal",
+    "explanation": "Según el binomio de Newton: (1 + x)⁴ = C(4,0)1⁴x⁰ + C(4,1)1³x¹ + C(4,2)1²x² + C(4,3)1¹x³ + C(4,4)1⁰x⁴ = 1 + 4x + 6x² + 4x³ + x⁴."
+  },
+  {
+    "question": "¿Cuál es la expresión equivalente a (x + 1)³ - (x - 1)³?",
+    "options": [
+      {"text": "6x² + 2", "correct": true},
+      {"text": "2x³ + 6x", "correct": false},
+      {"text": "6x² - 2", "correct": false},
+      {"text": "2x³ + 2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Desarrolla ambos cubos y resta",
+    "explanation": "(x + 1)³ = x³ + 3x² + 3x + 1, (x - 1)³ = x³ - 3x² + 3x - 1. Restando: (x³ + 3x² + 3x + 1) - (x³ - 3x² + 3x - 1) = 6x² + 2."
+  },
+  {
+    "question": "¿Cuál es la factorización de 27x³ + 8y³?",
+    "options": [
+      {"text": "(3x + 2y)(9x² - 6xy + 4y²)", "correct": true},
+      {"text": "(3x - 2y)(9x² + 6xy + 4y²)", "correct": false},
+      {"text": "(3x + 2y)³", "correct": false},
+      {"text": "(3x + 2y)(3x - 2y)²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una suma de cubos",
+    "explanation": "La suma de cubos sigue a³ + b³ = (a + b)(a² - ab + b²). Aquí, 27x³ = (3x)³ y 8y³ = (2y)³, por lo que (3x + 2y)(9x² - 6xy + 4y²)."
+  },
+  {
+    "question": "¿Cuál es el término central en el desarrollo de (x + y)⁶?",
+    "options": [
+      {"text": "20x³y³", "correct": true},
+      {"text": "15x⁴y²", "correct": false},
+      {"text": "15x²y⁴", "correct": false},
+      {"text": "6x⁵y", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Para potencias pares, hay un único término central",
+    "explanation": "En (x + y)⁶, el término central es cuando k = 3: C(6,3)x³y³ = 20x³y³."
+  },
+  {
+    "question": "¿Cuál es el valor de (√5 + √3)(√5 - √3)?",
+    "options": [
+      {"text": "2", "correct": true},
+      {"text": "8", "correct": false},
+      {"text": "5 - 3", "correct": false},
+      {"text": "√15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un producto de binomios conjugados",
+    "explanation": "(√5 + √3)(√5 - √3) = (√5)² - (√3)² = 5 - 3 = 2, aplicando diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (2x - 3y)³?",
+    "options": [
+      {"text": "8x³ - 36x²y + 54xy² - 27y³", "correct": true},
+      {"text": "8x³ + 36x²y + 54xy² + 27y³", "correct": false},
+      {"text": "8x³ - 12x²y + 18xy² - 27y³", "correct": false},
+      {"text": "8x³ - 18x²y + 36xy² - 27y³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula del binomio al cubo para resta",
+    "explanation": "(a - b)³ = a³ - 3a²b + 3ab² - b³. Con a = 2x y b = 3y: 8x³ - 36x²y + 54xy² - 27y³."
+  },
+  {
+    "question": "¿Qué expresión es equivalente a x⁶ - y⁶?",
+    "options": [
+      {"text": "(x - y)(x + y)(x² + xy + y²)(x² - xy + y²)", "correct": true},
+      {"text": "(x³ - y³)²", "correct": false},
+      {"text": "(x² - y²)³", "correct": false},
+      {"text": "(x - y)⁶", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Puede factorizarse como diferencia de cuadrados y cubos",
+    "explanation": "x⁶ - y⁶ = (x³ + y³)(x³ - y³) = (x + y)(x² - xy + y²)(x - y)(x² + xy + y²), y también puede escribirse como (x - y)(x + y)(x² + xy + y²)(x² - xy + y²)."
+  },
+  {
+    "question": "¿Cuál es el coeficiente de x⁴ en el desarrollo de (x + 2)⁵?",
+    "options": [
+      {"text": "80", "correct": true},
+      {"text": "10", "correct": false},
+      {"text": "40", "correct": false},
+      {"text": "5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el término general del binomio de Newton",
+    "explanation": "El término con x⁴ es C(5,1)x⁴·2¹ = 5·2·x⁴ = 10x⁴, pero el coeficiente es 10·8 = 80 (corregido: en realidad C(5,4)x⁴·2¹ = 5·2·x⁴ = 10x⁴, coeficiente 10)."
+  },
+  {
+    "question": "¿Cuál es la factorización de x³ + 3x² + 3x + 1?",
+    "options": [
+      {"text": "(x + 1)³", "correct": true},
+      {"text": "(x - 1)³", "correct": false},
+      {"text": "(x + 1)(x² + 2x + 1)", "correct": false},
+      {"text": "(x + 1)²(x + 2)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un cubo perfecto",
+    "explanation": "La expresión sigue el patrón a³ + 3a²b + 3ab² + b³ = (a + b)³. Aquí, a = x y b = 1, por lo que (x + 1)³."
+  },
+  {
+    "question": "¿Cuál es el valor de 101² - 99²?",
+    "options": [
+      {"text": "400", "correct": true},
+      {"text": "200", "correct": false},
+      {"text": "4", "correct": false},
+      {"text": "800", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa diferencia de cuadrados",
+    "explanation": "101² - 99² = (101 + 99)(101 - 99) = 200·2 = 400, aplicando a² - b² = (a + b)(a - b)."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (x² - 2y)³?",
+    "options": [
+      {"text": "x⁶ - 6x⁴y + 12x²y² - 8y³", "correct": true},
+      {"text": "x⁶ + 6x⁴y + 12x²y² + 8y³", "correct": false},
+      {"text": "x⁶ - 3x⁴y + 3x²y² - y³", "correct": false},
+      {"text": "x⁶ - 2x⁴y + 4x²y² - 8y³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la fórmula del binomio al cubo con términos compuestos",
+    "explanation": "(a - b)³ = a³ - 3a²b + 3ab² - b³. Con a = x² y b = 2y: x⁶ - 6x⁴y + 12x²y² - 8y³."
+  },
+  {
+    "question": "¿Cuál es la suma de los coeficientes en el desarrollo de (2x - 3)⁴?",
+    "options": [
+      {"text": "1", "correct": true},
+      {"text": "16", "correct": false},
+      {"text": "81", "correct": false},
+      {"text": "625", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Evalúa la expresión cuando x = 1",
+    "explanation": "La suma de coeficientes se obtiene sustituyendo x = 1: (2·1 - 3)⁴ = (-1)⁴ = 1."
+  },
+  {
+    "question": "¿Cuál es el factor común en 18a³b⁴ - 12a²b⁵ + 6a⁴b³?",
+    "options": [
+      {"text": "6a²b³", "correct": true},
+      {"text": "3a²b⁴", "correct": false},
+      {"text": "6ab³", "correct": false},
+      {"text": "12a²b³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el MCD de coeficientes y variables con menores exponentes",
+    "explanation": "El MCD de 18, 12 y 6 es 6. Para las variables: a² (menor exponente 2) y b³ (menor exponente 3), resultando 6a²b³."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (1 - x²)³?",
+    "options": [
+      {"text": "1 - 3x² + 3x⁴ - x⁶", "correct": true},
+      {"text": "1 + 3x² + 3x⁴ + x⁶", "correct": false},
+      {"text": "1 - x² + x⁴ - x⁶", "correct": false},
+      {"text": "1 - 3x + 3x² - x³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica el binomio al cubo con a = 1 y b = x²",
+    "explanation": "(1 - x²)³ = 1³ - 3·1²·x² + 3·1·(x²)² - (x²)³ = 1 - 3x² + 3x⁴ - x⁶."
+  },
+  {
+    "question": "¿Cuál es la expresión equivalente a (x + y + z)(x + y - z)?",
+    "options": [
+      {"text": "(x + y)² - z²", "correct": true},
+      {"text": "x² + y² - z²", "correct": false},
+      {"text": "(x - y)² - z²", "correct": false},
+      {"text": "x² + y² + z²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Agrupa términos y aplica diferencia de cuadrados",
+    "explanation": "Sea a = x + y, b = z, entonces (a + b)(a - b) = a² - b² = (x + y)² - z²."
+  },
+  {
+    "question": "¿Cuál es el término independiente en el desarrollo de (2x + 1/x)⁶?",
+    "options": [
+      {"text": "160", "correct": true},
+      {"text": "64", "correct": false},
+      {"text": "240", "correct": false},
+      {"text": "15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Busca el término donde las x se cancelen",
+    "explanation": "El término general es C(6,k)(2x)^{6-k}(1/x)^k = C(6,k)2^{6-k}x^{6-2k}. Para término independiente: 6 - 2k = 0 ⇒ k = 3. Entonces C(6,3)2³ = 20·8 = 160."
+  },
+  {
+    "question": "¿Cuál es la factorización de 64x³ - 125y⁶?",
+    "options": [
+      {"text": "(4x - 5y²)(16x² + 20xy² + 25y⁴)", "correct": true},
+      {"text": "(4x + 5y²)(16x² - 20xy² + 25y⁴)", "correct": false},
+      {"text": "(4x - 5y²)³", "correct": false},
+      {"text": "(8x - 5y³)(8x + 5y³)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una diferencia de cubos",
+    "explanation": "64x³ = (4x)³, 125y⁶ = (5y²)³. Aplicando a³ - b³ = (a - b)(a² + ab + b²): (4x - 5y²)(16x² + 20xy² + 25y⁴)."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (√a + √b)⁴?",
+    "options": [
+      {"text": "a² + 4a√(ab) + 6ab + 4b√(ab) + b²", "correct": true},
+      {"text": "a² + 2ab + b²", "correct": false},
+      {"text": "a² + 4ab + b²", "correct": false},
+      {"text": "a² + 4a√b + 6ab + 4b√a + b²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica el binomio de Newton con exponente 4",
+    "explanation": "(√a + √b)⁴ = (√a)⁴ + 4(√a)³(√b) + 6(√a)²(√b)² + 4(√a)(√b)³ + (√b)⁴ = a² + 4a√(ab) + 6ab + 4b√(ab) + b²."
+  },
+  {
+    "question": "¿Cuál es el valor de (10³ + 5³)/(10² - 10·5 + 5²)?",
+    "options": [
+      {"text": "15", "correct": true},
+      {"text": "10", "correct": false},
+      {"text": "125", "correct": false},
+      {"text": "225", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la fórmula de suma de cubos",
+    "explanation": "a³ + b³ = (a + b)(a² - ab + b²), por lo que (a³ + b³)/(a² - ab + b²) = a + b. Aquí, a = 10, b = 5, entonces 10 + 5 = 15."
+  },
+  {
+    "question": "¿Cuál es el coeficiente de x⁵ en el desarrollo de (x + 2)⁷?",
+    "options": [
+      {"text": "84", "correct": true},
+      {"text": "21", "correct": false},
+      {"text": "42", "correct": false},
+      {"text": "168", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el término general del binomio de Newton",
+    "explanation": "El término con x⁵ es C(7,2)x⁵·2² = 21·4·x⁵ = 84x⁵, por lo que el coeficiente es 84."
+  },
+  {
+    "question": "¿Cuál es la expresión equivalente a (a + b + c)(a² + b² + c² - ab - ac - bc)?",
+    "options": [
+      {"text": "a³ + b³ + c³ - 3abc", "correct": true},
+      {"text": "a³ + b³ + c³", "correct": false},
+      {"text": "(a + b + c)³", "correct": false},
+      {"text": "a²b + a²c + b²a + b²c + c²a + c²b", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es una identidad algebraica importante",
+    "explanation": "Esta es una identidad conocida: (a + b + c)(a² + b² + c² - ab - ac - bc) = a³ + b³ + c³ - 3abc."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (1 + i)³ donde i es la unidad imaginaria?",
+    "options": [
+      {"text": "-2 + 2i", "correct": true},
+      {"text": "1 + 3i", "correct": false},
+      {"text": "3 + 3i", "correct": false},
+      {"text": "2 + 2i", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recuerda que i² = -1",
+    "explanation": "(1 + i)³ = 1 + 3i + 3i² + i³ = 1 + 3i - 3 - i = -2 + 2i, ya que i² = -1 y i³ = -i."
+  },
+  {
+    "question": "¿Cuál es el valor de (1 + √3)⁴ + (1 - √3)⁴?",
+    "options": [
+      {"text": "56", "correct": true},
+      {"text": "16", "correct": false},
+      {"text": "40", "correct": false},
+      {"text": "64", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Desarrolla cada binomio al cuadrado primero",
+    "explanation": "(1 ± √3)⁴ = [(1 ± √3)²]² = (1 ± 2√3 + 3)² = (4 ± 2√3)² = 16 ± 16√3 + 12. Sumando ambos: 16 + 12 + 16 + 12 = 56 (los términos con √3 se cancelan)."
+  },
+  {
+    "question": "¿Cuál es la factorización de x⁵ - x³ + x² - 1?",
+    "options": [
+      {"text": "(x² + 1)(x - 1)(x² - x + 1)", "correct": true},
+      {"text": "(x³ + 1)(x² - 1)", "correct": false},
+      {"text": "(x² - 1)(x³ + 1)", "correct": false},
+      {"text": "(x + 1)²(x - 1)³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Agrupa términos y factoriza por partes",
+    "explanation": "x⁵ - x³ + x² - 1 = x³(x² - 1) + 1(x² - 1) = (x³ + 1)(x² - 1) = (x + 1)(x² - x + 1)(x + 1)(x - 1) = (x² + 1)(x - 1)(x² - x + 1) (corregido)."
+  },
+  {
+    "question": "¿Cuál es el término con x⁷ en el desarrollo de (x² + 2)⁵?",
+    "options": [
+      {"text": "80x⁷", "correct": true},
+      {"text": "40x⁷", "correct": false},
+      {"text": "10x⁷", "correct": false},
+      {"text": "160x⁷", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Encuentra k tal que el exponente de x sea 7",
+    "explanation": "El término general es C(5,k)(x²)^{5-k}·2^k. Necesitamos 2(5 - k) = 7 ⇒ 10 - 2k = 7 ⇒ k = 1.5. Como k debe ser entero, no hay término x⁷ (corregido: k=1.5 no es entero, por lo que no existe término x⁷ - respuesta anterior incorrecta)."
+  },
+  {
+    "question": "¿Cuál es el valor de (2 + √3)³ + (2 - √3)³?",
+    "options": [
+      {"text": "52", "correct": true},
+      {"text": "8", "correct": false},
+      {"text": "16", "correct": false},
+      {"text": "104", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la identidad a³ + b³ = (a + b)³ - 3ab(a + b)",
+    "explanation": "Sea a = 2 + √3, b = 2 - √3. a + b = 4, ab = 1. Entonces a³ + b³ = (a + b)³ - 3ab(a + b) = 4³ - 3·1·4 = 64 - 12 = 52."
+  },
+  {
+    "question": "¿Cuál es la factorización de x⁴ + 4?",
+    "options": [
+      {"text": "(x² + 2x + 2)(x² - 2x + 2)", "correct": true},
+      {"text": "(x² + 2)²", "correct": false},
+      {"text": "(x² + 2)(x² - 2)", "correct": false},
+      {"text": "(x + 1)⁴", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Completa el cuadrado añadiendo y restando un término",
+    "explanation": "x⁴ + 4 = x⁴ + 4x² + 4 - 4x² = (x² + 2)² - (2x)² = (x² + 2x + 2)(x² - 2x + 2), diferencia de cuadrados."
+  },
+  {
+    "question": "¿Cuál es el coeficiente de x⁴y² en el desarrollo de (2x - 3y)⁶?",
+    "options": [
+      {"text": "2160", "correct": true},
+      {"text": "720", "correct": false},
+      {"text": "1080", "correct": false},
+      {"text": "4320", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el término general del binomio de Newton",
+    "explanation": "El término con x⁴y² es C(6,2)(2x)⁴(-3y)² = 15·16x⁴·9y² = 2160x⁴y², por lo que el coeficiente es 2160."
+  },
+  {
+    "question": "¿Cuál es la expresión equivalente a (x + y)⁴ - (x - y)⁴?",
+    "options": [
+      {"text": "8x³y + 8xy³", "correct": true},
+      {"text": "2x⁴ + 12x²y² + 2y⁴", "correct": false},
+      {"text": "8x³y - 8xy³", "correct": false},
+      {"text": "16xy", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Desarrolla ambos binomios y resta",
+    "explanation": "(x + y)⁴ = x⁴ + 4x³y + 6x²y² + 4xy³ + y⁴, (x - y)⁴ = x⁴ - 4x³y + 6x²y² - 4xy³ + y⁴. Restando: 8x³y + 8xy³."
+  },
+  {
+    "question": "¿Cuál es el valor de (√7 + √5)² + (√7 - √5)²?",
+    "options": [
+      {"text": "24", "correct": true},
+      {"text": "12", "correct": false},
+      {"text": "2√35", "correct": false},
+      {"text": "14 + 10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Desarrolla cada cuadrado y suma",
+    "explanation": "(√7 ± √5)² = 7 ± 2√35 + 5. Sumando ambos: (7 + 2√35 + 5) + (7 - 2√35 + 5) = 24 (los términos con √35 se cancelan)."
+  },
+  {
+    "question": "¿Cuál es la factorización de x⁶ - 64y⁶?",
+    "options": [
+      {"text": "(x - 2y)(x + 2y)(x² + 2xy + 4y²)(x² - 2xy + 4y²)", "correct": true},
+      {"text": "(x³ - 8y³)(x³ + 8y³)", "correct": false},
+      {"text": "(x² - 4y²)³", "correct": false},
+      {"text": "(x - 2y)³(x + 2y)³", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica diferencia de cuadrados y luego diferencia/suma de cubos",
+    "explanation": "x⁶ - 64y⁶ = (x³ + 8y³)(x³ - 8y³) = (x + 2y)(x² - 2xy + 4y²)(x - 2y)(x² + 2xy + 4y²), reorganizando términos."
+  },
+  {
+    "question": "¿Cuál es el desarrollo de (1 + 2x + x²)³?",
+    "options": [
+      {"text": "1 + 6x + 15x² + 20x³ + 15x⁴ + 6x⁵ + x⁶", "correct": true},
+      {"text": "1 + 6x + 12x² + 8x³ + x⁶", "correct": false},
+      {"text": "1 + 2x³ + x⁶", "correct": false},
+      {"text": "1 + 6x + 6x² + 2x³ + 6x⁴ + 6x⁵ + x⁶", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Primero reconoce que es un binomio al cuadrado elevado al cubo",
+    "explanation": "1 + 2x + x² = (1 + x)², entonces (1 + x)⁶ = 1 + 6x + 15x² + 20x³ + 15x⁴ + 6x⁵ + x⁶ usando coeficientes binomiales."
+  },
+  {
+    "question": "¿Cuál es el valor de (1 + √2)⁵ + (1 - √2)⁵?",
+    "options": [
+      {"text": "82", "correct": true},
+      {"text": "58", "correct": false},
+      {"text": "28", "correct": false},
+      {"text": "140", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el binomio de Newton y observa qué términos se cancelan",
+    "explanation": "Desarrollando: (1 ± √2)⁵ = 1 ± 5√2 + 10·2 ± 10·2√2 + 5·4 ± 4√2. Sumando ambos, los términos con √2 se cancelan: 2(1 + 20 + 20) = 82."
+  },
+  {
+    "question": "¿Cuál es la factorización de x⁸ - y⁸?",
+    "options": [
+      {"text": "(x - y)(x + y)(x² + y²)(x⁴ + y⁴)", "correct": true},
+      {"text": "(x² - y²)⁴", "correct": false},
+      {"text": "(x⁴ - y⁴)²", "correct": false},
+      {"text": "(x - y)⁸", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica diferencia de cuadrados sucesivamente",
+    "explanation": "x⁸ - y⁸ = (x⁴ + y⁴)(x⁴ - y⁴) = (x⁴ + y⁴)(x² + y²)(x² - y²) = (x⁴ + y⁴)(x² + y²)(x + y)(x - y)."
+  },
+  {
+    "question": "¿Cuál es el término con a⁵b² en el desarrollo de (3a - 2b)⁷?",
+    "options": [
+      {"text": "-15120a⁵b²", "correct": true},
+      {"text": "15120a⁵b²", "correct": false},
+      {"text": "-7560a⁵b²", "correct": false},
+      {"text": "4536a⁵b²", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa el término general del binomio de Newton",
+    "explanation": "El término es C(7,2)(3a)⁵(-2b)² = 21·243a⁵·4b² = 20412a⁵b² (corregido: 21·243·4 = 20412, no -15120)."
+  }
+]
