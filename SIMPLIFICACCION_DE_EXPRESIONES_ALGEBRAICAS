@@ -67,10 +67,10 @@
   {
     "question": "Simplifica a la mínima expresión: (36-x²)/(x-6) * (x)/(6-x) * (1)/(-x)",
     "options": [
-      {"text": "1", "correct": true},
+      {"text": "(-x-6)/(x-6)", "correct": true},
       {"text": "-1", "correct": false},
       {"text": "x", "correct": false},
-      {"text": "x+6", "correct": false},
+      {"text": "(x+6)/6", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "tags": ["GENERAL"],
@@ -132,10 +132,10 @@
   {
     "question": "Simplifica a la mínima expresión: (x³-6x²+12x-8)/(x²-4x+4) * (x²-4)/(x³-8) * (x²+2x+4)",
     "options": [
-      {"text": "1", "correct": true},
-      {"text": "x-2", "correct": false},
-      {"text": "x+2", "correct": false},
-      {"text": "(x+2)/(x-2)", "correct": true},
+      {"text": "[(x+2)(x+2)]/(x-2)", "correct": true},
+      {"text": "1/(x-2)", "correct": false},
+      {"text": "(x+2)²/(x-2)", "correct": false},
+      {"text": "(x+2)/(x-2)²", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "tags": ["GENERAL"],
@@ -145,9 +145,9 @@
   {
     "question": "Simplifica a la mínima expresión: (a⁴-2a²+1)/(a³-a) * (a)/(a²-2a+1) * (a+1)",
     "options": [
-      {"text": "a+1", "correct": true},
-      {"text": "a-1", "correct": false},
-      {"text": "1", "correct": false},
+      {"text": "(a+1)²/(a-1)", "correct": true},
+      {"text": "(a-1)/(a+1)", "correct": false},
+      {"text": "(a+1)/(a-1)²", "correct": false},
       {"text": "a", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
@@ -197,9 +197,9 @@
   {
     "question": "Simplifica a la mínima expresión: (x³+1)/(x²+x+1) ÷ (x+1)",
     "options": [
-      {"text": "x²-x+1", "correct": false},
+      {"text": "(x²-x+1)/(x²+x+1)", "correct": false},
       {"text": "1", "correct": false},
-      {"text": "x-1", "correct": true},
+      {"text": "(x²+x+1)/(x+1)", "correct": true},
       {"text": "1/(x+1)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
@@ -353,8 +353,8 @@
   {
     "question": "Simplifica a la mínima expresión: (x²-10x+25)/(x³-8) * (x²-4)/(x²-5x) * (x²+2x+4)/(x-2)",
     "options": [
-      {"text": "(x-5)/x", "correct": true},
-      {"text": "1", "correct": false},
+      {"text": "[(x-5)(x+2)]/(x²-2X)", "correct": true},
+      {"text": "(x+2)/x(x-2)", "correct": false},
       {"text": "(x+5)/x", "correct": false},
       {"text": "x/(x-5)", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
@@ -362,19 +362,6 @@
     "tags": ["DIFÍCIL"],
     "hint": "Combina trinomio cuadrado perfecto, diferencia de cubos, diferencia de cuadrados y factor común.",
     "explanation": "Factorizando: [(x-5)²]/[(x-2)(x²+2x+4)] * [(x-2)(x+2)]/[x(x-5)] * (x²+2x+4)/(x-2). La respuesta correcta es (x-5)(x+2)/x(x-2), que no se simplifica más. El ejercicio fue construido con un error. Ajuste: Si el último denominador fuera (x+2) el resultado sería (x-5)/x."
-  },
-  {
-    "question": "Simplifica a la mínima expresión: (x³+64)/(x-1) * (x²-1)/(x²+4x+16) * (1)/(x+4)",
-    "options": [
-      {"text": "x-4", "correct": false},
-      {"text": "x+1", "correct": false},
-      {"text": "1", "correct": false},
-      {"text": "x-1", "correct": true},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "tags": ["DIFÍCIL"],
-    "hint": "Factoriza la suma de cubos y la diferencia de cuadrados. El trinomio x²+4x+16 es parte de la factorización del cubo.",
-    "explanation": "El error común es confundir x²+4x+16 con un trinomio cuadrado perfecto. Al factorizar: [(x+4)(x²-4x+16)]/(x-1) * [(x-1)(x+1)]/(x²+4x+16) * 1/(x+4). La expresión es (x²-4x+16)(x+1)/(x²+4x+16). No se simplifica. El ejercicio está mal planteado. Si el trinomio del numerador fuera x²-4x+16 en lugar de x²+4x+16 el resultado seria x-1."
   },
   {
     "question": "Simplifica a la mínima expresión: (4x²-4)/(x+2) * (x³+8)/(2x+2) * (1)/(x²-2x+4)",
@@ -401,32 +388,6 @@
     "tags": ["DIFÍCIL"],
     "hint": "Este ejercicio usa dos variables. Aplica diferencia de cuadrados y diferencia de cubos.",
     "explanation": "Factorizando: [(x-y)(x+y)]/[(x-y)(x²+xy+y²)] * (x²+xy+y²)/(x+y) * (x-y)/(x+y). Se cancelan un (x-y), un (x+y) y el (x²+xy+y²), resultando en (x-y)/(x+y)."
-  },
-  {
-    "question": "Simplifica a la mínima expresión: (x⁶-1)/(x²+x+1) * (x-1)/(x²+1) * (1)/(x³-1)",
-    "options": [
-      {"text": "(x+1)/x", "correct": false},
-      {"text": "1/(x-1)", "correct": false},
-      {"text": "x", "correct": false},
-      {"text": "(x+1)/(x²-x+1)", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": true}
-    ],
-    "tags": ["DIFÍCIL"],
-    "hint": "Factoriza x⁶-1 como una diferencia de cuadrados (x³-1)(x³+1) y luego factoriza esas diferencias y sumas de cubos.",
-    "explanation": "Factorizando x⁶-1 a tope: (x-1)(x+1)(x²-x+1)(x²+x+1). La expresión se convierte en: [(x-1)(x+1)(x²-x+1)(x²+x+1)]/(x²+x+1) * (x-1)/(x²+1) * 1/[(x-1)(x²+x+1)]. El resultado es (x+1)(x²-x+1)(x-1) / ((x²+1)(x²+x+1)). No es una simplificación sencilla, el ejercicio está mal planteado."
-  },
-  {
-    "question": "Simplifica a la mínima expresión: (a²-a-6)/(a²-7a+12) * (a²-2a-8)/(a²-a-2) * (a²-5a+4)/(a²-3a-4)",
-    "options": [
-      {"text": "1", "correct": true},
-      {"text": "(a+2)/(a-4)", "correct": false},
-      {"text": "(a-1)/(a+1)", "correct": false},
-      {"text": "a-4", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "tags": ["DIFÍCIL"],
-    "hint": "Este ejercicio requiere factorizar seis trinomios de la forma x²+bx+c. Busca dos números que multiplicados den 'c' y sumados den 'b'.",
-    "explanation": "Factorizando todos los trinomios: [(a-3)(a+2)]/[(a-4)(a-3)] * [(a-4)(a+2)]/[(a-2)(a+1)] * [(a-4)(a-1)]/[(a-4)(a+1)]. Esto no se simplifica a 1. Hay un error. Si el último numerador fuera (a-2)(a-1), entonces la expresión sería [(a-3)(a+2)]/[(a-4)(a-3)] * [(a-4)(a+2)]/[(a-2)(a+1)] * [(a-2)(a-1)]/[(a-4)(a+1)], que se simplifica a (a+2)²/((a-4)(a+1))."
   },
   {
     "question": "Simplifica a la mínima expresión: (x³-3x²+3x-1)/(x³-1) * (x²+x+1)/(x-1) * (2x)/(x-1)",
@@ -1081,7 +1042,7 @@
   {
     "question": "Simplifica a la mínima expresión: (x²+5x+6)/(x²-x-6) * (x²-2x-3)/(x²+3x+2) * (x-3)/(x+1)",
     "options": [
-      {"text": "(x-3)/(x+1)", "correct": false},
+      {"text": "(x-3)(x+3)/(x+2)(x+1)", "correct": false},
       {"text": "1", "correct": false},
       {"text": "(x-3)²/(x+1)²", "correct": true},
       {"text": "(x+3)/(x-1)", "correct": false},
